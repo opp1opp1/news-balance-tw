@@ -6,11 +6,14 @@ const apiKey = process.env.GOOGLE_GENERATIVE_AI_API_KEY;
 
 // Strict Fallback Chain as requested by user
 const MODELS_TO_TRY = [
-  'gemini-3-flash',        
+  // 'gemini-3-flash',     // Not yet supported by API
   'gemini-2.5-flash',      
   'gemini-2.5-flash-lite', 
   'gemma-3-27b'            
 ];
+
+// Helper for delay
+const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 
 async function generateWithFallback(prompt: string, jsonMode: boolean = true): Promise<string | null> {
   if (!apiKey) {
@@ -21,29 +24,52 @@ async function generateWithFallback(prompt: string, jsonMode: boolean = true): P
   const genAI = new GoogleGenerativeAI(apiKey);
 
   for (const modelName of MODELS_TO_TRY) {
-    try {
-      console.log(`[LLM] Trying model: ${modelName}...`);
-      const model = genAI.getGenerativeModel({
-        model: modelName,
-        generationConfig: jsonMode ? { responseMimeType: "application/json" } : undefined
-      });
+    // Retry logic per model
+    let retries = 0;
+    const maxRetries = 3;
 
-      const result = await model.generateContent(prompt);
-      const response = await result.response;
-      const text = response.text();
-      
-      if (text) {
-        console.log(`[LLM] ✅ Success with ${modelName}`);
-        return text;
+    while (retries <= maxRetries) {
+      try {
+        if (retries > 0) console.log(`[LLM] 🔄 Retrying ${modelName} (${retries}/${maxRetries})...`);
+        else console.log(`[LLM] Trying model: ${modelName}...`);
+
+        const model = genAI.getGenerativeModel({
+          model: modelName,
+          generationConfig: jsonMode ? { responseMimeType: "application/json" } : undefined
+        });
+
+        const result = await model.generateContent(prompt);
+        const response = await result.response;
+        const text = response.text();
+        
+        if (text) {
+          console.log(`[LLM] ✅ Success with ${modelName}`);
+          return text;
+        }
+      } catch (error: any) {
+        const msg = error.message || '';
+        const isNetworkError = msg.includes('fetch failed') || msg.includes('network');
+        const isRateLimit = msg.includes('429');
+        
+        console.warn(`[LLM] ⚠️ Failed with ${modelName}: ${msg.split('\n')[0]}`);
+
+        // If it's a 404 (Model Not Found) or 400 (Bad Request), don't retry this model, move to next model
+        if (msg.includes('404') || msg.includes('400') || msg.includes('not found')) {
+          break; // Break retry loop, continue to next model in MODELS_TO_TRY
+        }
+
+        // If it's a network error or rate limit, wait and retry
+        if (retries < maxRetries && (isNetworkError || isRateLimit)) {
+          const waitTime = Math.pow(2, retries) * 1000; // 1s, 2s, 4s
+          console.log(`[LLM] ⏳ Waiting ${waitTime}ms before retry...`);
+          await delay(waitTime);
+          retries++;
+          continue;
+        }
+        
+        // If retries exhausted or other error, break to next model
+        break;
       }
-    } catch (error: any) {
-      const msg = error.message || '';
-      console.warn(`[LLM] ⚠️ Failed with ${modelName}: ${msg.split('\n')[0]}`);
-      
-      if (msg.includes('404') || msg.includes('not found') || msg.includes('429') || msg.includes('400')) {
-        continue; // Try next model
-      }
-      break;
     }
   }
 

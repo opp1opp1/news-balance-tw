@@ -26,8 +26,8 @@ const COLOR_MAP: Record<string, SourceStyle> = {
   '聯合新聞網': { bg: 'bg-sky-100', text: 'text-sky-800', border: 'border-sky-200' },
   'UDN': { bg: 'bg-sky-100', text: 'text-sky-800', border: 'border-sky-200' },
   'TVBS': { bg: 'bg-sky-100', text: 'text-sky-800', border: 'border-sky-200' },
-  '東森': { bg: 'bg-sky-100', text: 'text-sky-800', border: 'border-sky-200' },
-  'ETtoday': { bg: 'bg-sky-100', text: 'text-sky-800', border: 'border-sky-200' },
+  '東森': { bg: 'bg-sky-100', text: 'text-sky-800', border: 'border-sky-200' }, // Changed to Light Blue
+  'ETtoday': { bg: 'bg-sky-100', text: 'text-sky-800', border: 'border-sky-200' }, // Changed to Light Blue
   'NOWnews': { bg: 'bg-sky-100', text: 'text-sky-800', border: 'border-sky-200' },
   '今日新聞': { bg: 'bg-sky-100', text: 'text-sky-800', border: 'border-sky-200' },
 
@@ -51,13 +51,20 @@ const COLOR_MAP: Record<string, SourceStyle> = {
   '台海網': { bg: 'bg-red-100', text: 'text-red-800', border: 'border-red-200' },
   '大公報': { bg: 'bg-red-100', text: 'text-red-800', border: 'border-red-200' },
 
-  // 中立/其他 (Neutral/Gray/Purple)
+  // 國際 (International - Purple)
+  'CNN': { bg: 'bg-purple-100', text: 'text-purple-800', border: 'border-purple-200' },
+  'BBC': { bg: 'bg-purple-100', text: 'text-purple-800', border: 'border-purple-200' },
+  'Reuters': { bg: 'bg-purple-100', text: 'text-purple-800', border: 'border-purple-200' },
+  'WSJ': { bg: 'bg-purple-100', text: 'text-purple-800', border: 'border-purple-200' },
+  'Bloomberg': { bg: 'bg-purple-100', text: 'text-purple-800', border: 'border-purple-200' },
+
+  // 中立/其他 (Neutral/Gray)
   '公視': { bg: 'bg-slate-100', text: 'text-slate-700', border: 'border-slate-200' },
   'PTS': { bg: 'bg-slate-100', text: 'text-slate-700', border: 'border-slate-200' },
   '中央社': { bg: 'bg-slate-100', text: 'text-slate-700', border: 'border-slate-200' },
   'CNA': { bg: 'bg-slate-100', text: 'text-slate-700', border: 'border-slate-200' },
-  'Yahoo': { bg: 'bg-purple-50', text: 'text-purple-700', border: 'border-purple-200' },
-  'Google': { bg: 'bg-orange-50', text: 'text-orange-700', border: 'border-orange-200' },
+  'Yahoo': { bg: 'bg-slate-50', text: 'text-slate-600', border: 'border-slate-200' }, // Yahoo neutral/aggregator
+  'Google': { bg: 'bg-slate-50', text: 'text-slate-600', border: 'border-slate-200' },
 };
 
 const DEFAULT_STYLE: SourceStyle = { bg: 'bg-gray-50', text: 'text-gray-600', border: 'border-gray-200' };

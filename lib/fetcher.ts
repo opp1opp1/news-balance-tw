@@ -16,6 +16,7 @@ function getGoogleNewsUrl(query: string): string {
 }
 
 export const NEWS_SOURCES: NewsSource[] = [
+  // --- 台灣本土媒體 ---
   {
     id: 'pts',
     name: '公視新聞',
@@ -30,22 +31,44 @@ export const NEWS_SOURCES: NewsSource[] = [
   },
   {
     id: 'udn',
-    name: '聯合報', // Proxy via Google News
+    name: '聯合報', 
     url: 'https://udn.com',
     rssUrl: getGoogleNewsUrl('site:udn.com when:1d'),
   },
   {
     id: 'chinatimes',
-    name: '中時新聞網', // Proxy via Google News (Deep Blue)
+    name: '中時新聞網', 
     url: 'https://www.chinatimes.com',
     rssUrl: getGoogleNewsUrl('site:chinatimes.com when:1d'),
   },
   {
     id: 'tvbs',
-    name: 'TVBS', // Proxy via Google News (Light Blue)
+    name: 'TVBS', 
     url: 'https://news.tvbs.com.tw',
     rssUrl: getGoogleNewsUrl('site:news.tvbs.com.tw when:1d'),
   },
+  {
+    id: 'ettoday',
+    name: 'ETtoday', 
+    url: 'https://www.ettoday.net',
+    rssUrl: getGoogleNewsUrl('site:ettoday.net when:1d'),
+  },
+
+  // --- 國際媒體 (International) ---
+  {
+    id: 'bbc-zw',
+    name: 'BBC中文',
+    url: 'https://www.bbc.com/zhongwen/trad',
+    rssUrl: 'https://feeds.bbci.co.uk/zhongwen/trad/rss.xml',
+  },
+  {
+    id: 'cnn',
+    name: 'CNN', // English Source (LLM will translate/synthesize)
+    url: 'https://edition.cnn.com',
+    rssUrl: 'http://rss.cnn.com/rss/edition_asia.rss',
+  },
+
+  // --- 綜合聚合 ---
   {
     id: 'google-top',
     name: 'Google焦點',
@@ -60,7 +83,8 @@ export async function fetchNewsFromSource(source: NewsSource): Promise<NewsItem[
     return feed.items.map((item) => {
       // Clean up title for Google News items
       let title = item.title || 'No Title';
-      if (source.id !== 'pts' && source.id !== 'ltn') { // Google News sources
+      // For Google News sources, strip the suffix
+      if (source.rssUrl.includes('news.google.com')) { 
          const parts = title.split(' - ');
          if (parts.length > 1) {
              title = parts.slice(0, -1).join(' - ');
@@ -69,7 +93,6 @@ export async function fetchNewsFromSource(source: NewsSource): Promise<NewsItem[
 
       // Determine source name
       let itemSource = source.name;
-      // If it's the general Google Top feed, try to extract real source from title
       if (source.id === 'google-top' && item.title) {
           const parts = item.title.split(' - ');
           if (parts.length > 1) {
@@ -101,9 +124,7 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
   // Deduplication
   const uniqueItems = new Map();
   allItems.forEach(item => {
-      // Create a key: Title (first 15 chars) + Source to allow same news from different sources,
-      // BUT if we want to deduplicate strictly identical articles (reposts), use Title only.
-      // Here we allow same story from different sources, but prevent exact duplicates from same source.
+      // Key: Title (first 20 chars) + Source
       const key = item.title.substring(0, 20) + item.source;
       if (!uniqueItems.has(key)) {
           uniqueItems.set(key, item);
