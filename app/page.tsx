@@ -2,12 +2,11 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
-import { fetchAllNews } from "@/lib/fetcher";
-import { clusterNews, synthesizeNews } from "@/lib/llm";
-import { ExternalLink, Newspaper, Scale, AlertCircle, Sparkles, Zap, Target, ChevronDown } from "lucide-react";
-import { NewsItem } from "@/lib/types";
+import { ExternalLink, Newspaper, Scale, AlertCircle, Sparkles, Zap, Target, ChevronDown, Clock } from "lucide-react";
 import { getSourceStyle } from "@/lib/colors";
 import Link from "next/link";
+import fs from 'fs';
+import path from 'path';
 
 export const dynamic = 'force-dynamic';
 
@@ -18,112 +17,79 @@ interface Props {
 export default async function Home(props: Props) {
   const searchParams = await props.searchParams;
   const limitParam = typeof searchParams.limit === 'string' ? parseInt(searchParams.limit) : 5;
-  const currentLimit = isNaN(limitParam) ? 5 : Math.min(Math.max(limitParam, 5), 20); // Min 5, Max 20
+  const currentLimit = isNaN(limitParam) ? 5 : Math.min(Math.max(limitParam, 5), 20);
 
-  const allNews = await fetchAllNews();
-  
-  if (allNews.length === 0) {
+  // Read data from static report file
+  const dataFilePath = path.join(process.cwd(), 'data', 'latest-report.json');
+  let reportData = null;
+
+  if (fs.existsSync(dataFilePath)) {
+    try {
+      const rawData = fs.readFileSync(dataFilePath, 'utf-8');
+      reportData = JSON.parse(rawData);
+    } catch (e) {
+      console.error("Error reading report data", e);
+    }
+  }
+
+  if (!reportData) {
     return (
-      <div className="flex flex-col items-center justify-center min-h-screen p-4">
-        <AlertCircle className="h-12 w-12 text-red-500 mb-4" />
-        <h1 className="text-xl font-bold">無法抓取新聞</h1>
-        <p className="text-muted-foreground">請檢查網路連線或 RSS 來源是否正常。</p>
+      <div className="flex flex-col items-center justify-center min-h-screen p-4 space-y-4">
+        <Sparkles className="h-16 w-16 text-primary animate-pulse" />
+        <h1 className="text-2xl font-bold">系統正在初始化分析</h1>
+        <p className="text-muted-foreground text-center max-w-md">
+          請稍候，後端正在進行首次全網新聞掃描與 AI 觀點平衡分析。<br/>
+          (請執行 `npm run update-news` 來生成報告)
+        </p>
       </div>
     );
   }
 
-  const hasApiKey = !!process.env.GOOGLE_GENERATIVE_AI_API_KEY;
-  let clusteredTopics: { synthesis: any, originalArticles: NewsItem[], topic: string }[] = [];
-  let unclusteredNews: NewsItem[] = [...allNews];
-  let isClusteringCached = false;
-  let hasMoreClusters = false;
-
-  if (hasApiKey) {
-    const newsToCluster = allNews.slice(0, 150);
-    const clusters = await clusterNews(newsToCluster);
-    isClusteringCached = clusters.length > 0 && clusters[0].isCached === true;
-    
-    // Check if we have more clusters than current limit
-    if (clusters.length > currentLimit) {
-      hasMoreClusters = true;
-    }
-
-    const topClusters = clusters.slice(0, currentLimit); 
-    const clusteredIndices = new Set<number>();
-
-    const synthesisPromises = topClusters.map(async (cluster) => {
-      cluster.articleIndices.forEach(idx => clusteredIndices.add(idx));
-      
-      const clusterArticles = cluster.articleIndices
-        .map(index => newsToCluster[index])
-        .filter(Boolean);
-
-      if (clusterArticles.length > 0) {
-        try {
-          const result = await synthesizeNews(cluster.topic, clusterArticles);
-          if (result) return { synthesis: result, originalArticles: clusterArticles, topic: cluster.topic };
-        } catch (e) {
-          console.error("Synthesis failed for topic:", cluster.topic, e);
-          return null;
-        }
-      }
-      return null;
-    });
-
-    const results = await Promise.all(synthesisPromises);
-    clusteredTopics = results.filter((item): item is NonNullable<typeof item> => item !== null && item.synthesis !== null);
-    unclusteredNews = allNews.filter((_, idx) => !clusteredIndices.has(idx));
-  }
+  const { clusteredTopics, unclusteredNews, updatedAt } = reportData;
+  const displayTopics = clusteredTopics.slice(0, currentLimit);
+  const hasMoreClusters = clusteredTopics.length > currentLimit;
 
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100">
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-        <div className="container mx-auto flex h-14 items-center px-4">
+        <div className="container mx-auto flex h-14 items-center px-4 justify-between">
           <div className="flex items-center gap-2 font-bold text-xl">
             <Scale className="h-6 w-6 text-primary" />
             <span>Taiwan News Balancer</span>
+          </div>
+          <div className="text-xs text-muted-foreground flex items-center gap-1">
+             <Clock className="h-3 w-3" />
+             更新於: {new Date(updatedAt).toLocaleString()}
           </div>
         </div>
       </header>
 
       <main className="container mx-auto py-8 px-4 space-y-10">
         
+        {/* Hot Topics Section */}
         <section className="space-y-6">
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
             <div className="flex items-center gap-2">
               <Sparkles className="h-5 w-5 text-primary" />
               <h2 className="text-xl font-bold">熱門話題觀點平衡</h2>
-              {isClusteringCached && (
-                <Badge variant="outline" className="text-[10px] h-5 bg-blue-50 text-blue-600 border-blue-200 gap-1">
-                  <Target className="h-3 w-3" /> 分群快取中
-                </Badge>
-              )}
             </div>
-            <div className="text-sm text-muted-foreground flex items-center gap-4">
-               <span>已顯示 {clusteredTopics.length} 則熱門焦點</span>
-               <div className="flex gap-2">
-                 <div className="flex items-center gap-1 text-[10px] font-medium"><Target className="h-3 w-3 text-blue-500"/> 快取</div>
-                 <div className="flex items-center gap-1 text-[10px] font-medium"><Zap className="h-3 w-3 text-orange-500"/> 即時</div>
-               </div>
+            <div className="text-sm text-muted-foreground">
+               已為您整理 {clusteredTopics.length} 則熱門焦點
             </div>
           </div>
           
           <div className="space-y-8">
-            {clusteredTopics.map((topicData, idx) => {
+            {displayTopics.map((topicData: any, idx: number) => {
               const { synthesis, originalArticles } = topicData;
-              const isCached = synthesis.isCached;
+              // Data from static file is considered "Cached" effectively
+              const isCached = true; 
+              
               return (
-                <Card key={idx} className={`border-l-4 ${isCached ? 'border-l-blue-400' : 'border-l-orange-400'} shadow-sm hover:shadow-md transition-shadow relative overflow-hidden`}>
+                <Card key={idx} className="border-l-4 border-l-primary shadow-sm hover:shadow-md transition-shadow relative overflow-hidden">
                   <div className="absolute top-2 right-2">
-                    {isCached ? (
-                      <Badge variant="secondary" className="bg-blue-50 text-blue-600 border-blue-100 hover:bg-blue-100 gap-1 py-0 px-2 h-6">
-                        <Target className="h-3 w-3" /> 快取內容
+                     <Badge variant="secondary" className="bg-slate-100 text-slate-600 border-slate-200 gap-1 py-0 px-2 h-6">
+                        <Target className="h-3 w-3" /> AI 綜合分析
                       </Badge>
-                    ) : (
-                      <Badge variant="secondary" className="bg-orange-50 text-orange-600 border-orange-100 hover:bg-orange-100 gap-1 py-0 px-2 h-6 animate-pulse">
-                        <Zap className="h-3 w-3" /> 即時分析
-                      </Badge>
-                    )}
                   </div>
 
                   <CardHeader>
@@ -159,7 +125,7 @@ export default async function Home(props: Props) {
                         <Newspaper className="h-4 w-4" /> 原始報導 ({originalArticles.length})
                       </h3>
                       <div className="space-y-2 max-h-[250px] overflow-y-auto pr-2 scrollbar-thin">
-                        {originalArticles.map((article, i) => {
+                        {originalArticles.map((article: any, i: number) => {
                           const style = getSourceStyle(article.source);
                           return (
                             <a key={i} href={article.link} target="_blank" rel="noreferrer" className="block group">
@@ -197,7 +163,7 @@ export default async function Home(props: Props) {
                  <Button variant="outline" size="lg" className="w-full md:w-1/3 gap-2" asChild>
                    <Link href={`/?limit=${currentLimit + 5}`} scroll={false}>
                      <ChevronDown className="h-4 w-4" />
-                     載入更多話題 ({currentLimit + 5})
+                     載入更多話題 ({Math.min(clusteredTopics.length, currentLimit + 5)})
                    </Link>
                  </Button>
                </div>
@@ -207,10 +173,11 @@ export default async function Home(props: Props) {
 
         <Separator />
 
+        {/* Other News Section */}
         <section className="space-y-4">
           <h2 className="text-xl font-bold text-muted-foreground">其他最新快訊</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-            {unclusteredNews.slice(0, 24).map((item, i) => {
+            {unclusteredNews.slice(0, 40).map((item: any, i: number) => {
               const style = getSourceStyle(item.source);
               return (
                 <Card key={i} className="flex flex-col h-full bg-slate-50/50 dark:bg-slate-900/20 border-dashed hover:border-solid transition-all">

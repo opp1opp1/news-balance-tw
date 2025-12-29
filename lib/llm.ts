@@ -2,8 +2,6 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 import { NewsItem, SynthesisResult, NewsCluster } from './types';
 import { generateCacheKey, getFromCache, saveToCache } from './cache';
 
-const apiKey = process.env.GOOGLE_GENERATIVE_AI_API_KEY;
-
 // Strict Fallback Chain as requested by user
 const MODELS_TO_TRY = [
   // 'gemini-3-flash',     // Not yet supported by API
@@ -16,6 +14,7 @@ const MODELS_TO_TRY = [
 const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 
 async function generateWithFallback(prompt: string, jsonMode: boolean = true): Promise<string | null> {
+  const apiKey = process.env.GOOGLE_GENERATIVE_AI_API_KEY;
   if (!apiKey) {
     console.error('GOOGLE_GENERATIVE_AI_API_KEY is not set');
     return null;
