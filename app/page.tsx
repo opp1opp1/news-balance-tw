@@ -32,7 +32,7 @@ export default async function Home() {
     const clusters = await clusterNews(newsToCluster);
     
     // 2. Synthesize top 5 clusters
-    // Using a limit to prevent too many API calls at once, but enough to show a good list
+    // Increased back to 5 as we now have caching and fallback mechanisms
     const topClusters = clusters.slice(0, 5); 
     
     // Identify clustered indices to remove them from "Other News"
@@ -46,8 +46,13 @@ export default async function Home() {
         .filter(Boolean);
 
       if (clusterArticles.length > 0) {
-        const result = await synthesizeNews(cluster.topic, clusterArticles);
-        return { synthesis: result, originalArticles: clusterArticles, topic: cluster.topic };
+        try {
+          const result = await synthesizeNews(cluster.topic, clusterArticles);
+          if (result) return { synthesis: result, originalArticles: clusterArticles, topic: cluster.topic };
+        } catch (e) {
+          console.error("Synthesis failed for topic:", cluster.topic, e);
+          return null;
+        }
       }
       return null;
     });

@@ -1,21 +1,72 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import { NewsItem, SynthesisResult, NewsCluster } from './types';
+import { generateCacheKey, getFromCache, saveToCache } from './cache';
 
 const apiKey = process.env.GOOGLE_GENERATIVE_AI_API_KEY;
 
-export async function clusterNews(articles: NewsItem[]): Promise<NewsCluster[]> {
+// Strict Fallback Chain as requested by user
+const MODELS_TO_TRY = [
+  'gemini-3-flash',        
+  'gemini-2.5-flash',      
+  'gemini-2.5-flash-lite', 
+  'gemma-3-27b'            
+];
+
+async function generateWithFallback(prompt: string, jsonMode: boolean = true): Promise<string | null> {
   if (!apiKey) {
     console.error('GOOGLE_GENERATIVE_AI_API_KEY is not set');
-    return [];
+    return null;
   }
 
   const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({
-    model: 'gemini-2.5-flash',
-    generationConfig: { responseMimeType: "application/json" }
-  });
 
-  // Prepare a simplified list for the LLM to save tokens, sending only ID and Title
+  for (const modelName of MODELS_TO_TRY) {
+    try {
+      console.log(`[LLM] Trying model: ${modelName}...`);
+      const model = genAI.getGenerativeModel({
+        model: modelName,
+        generationConfig: jsonMode ? { responseMimeType: "application/json" } : undefined
+      });
+
+      const result = await model.generateContent(prompt);
+      const response = await result.response;
+      const text = response.text();
+      
+      if (text) {
+        console.log(`[LLM] ✅ Success with ${modelName}`);
+        return text;
+      }
+    } catch (error: any) {
+      const msg = error.message || '';
+      console.warn(`[LLM] ⚠️ Failed with ${modelName}: ${msg.split('\n')[0]}`);
+      
+      if (msg.includes('404') || msg.includes('not found') || msg.includes('429') || msg.includes('400')) {
+        continue; // Try next model
+      }
+      break;
+    }
+  }
+
+  console.error('[LLM] ❌ All models failed.');
+  return null;
+}
+
+function getStableSignature(articles: NewsItem[]): string {
+  const sorted = [...articles].sort((a, b) => a.title.localeCompare(b.title));
+  return sorted.map(a => `${a.title}|${a.source}`).join('||');
+}
+
+export async function clusterNews(articles: NewsItem[]): Promise<NewsCluster[]> {
+  const signature = getStableSignature(articles);
+  const cacheKey = generateCacheKey('clustering', signature);
+  
+  const cached = getFromCache<NewsCluster[]>(cacheKey, 1800);
+  if (cached) {
+    console.log('[Cache] 🎯 Clustering cache HIT');
+    return cached;
+  }
+  console.log('[Cache] 💨 Clustering cache MISS');
+
   const inputList = articles.map((a, i) => `ID: ${i} | Title: ${a.title} | Source: ${a.source}`).join('\n');
 
   const prompt = `
@@ -40,28 +91,30 @@ export async function clusterNews(articles: NewsItem[]): Promise<NewsCluster[]> 
     ${inputList}
   `;
 
-  try {
-    const result = await model.generateContent(prompt);
-    const response = await result.response;
-    const text = response.text();
-    return JSON.parse(text) as NewsCluster[];
-  } catch (error) {
-    console.error('Error clustering news:', error);
-    return [];
+  const jsonText = await generateWithFallback(prompt, true);
+  
+  if (jsonText) {
+    try {
+      const result = JSON.parse(jsonText) as NewsCluster[];
+      saveToCache(cacheKey, result);
+      return result;
+    } catch (e) {
+      console.error('[LLM] Error parsing clustering JSON', e);
+    }
   }
+  return [];
 }
 
 export async function synthesizeNews(topic: string, articles: NewsItem[]): Promise<SynthesisResult | null> {
-  if (!apiKey) {
-    console.error('GOOGLE_GENERATIVE_AI_API_KEY is not set');
-    return null;
-  }
+  const signature = getStableSignature(articles);
+  const cacheKey = generateCacheKey(`synthesis_${topic}`, signature);
 
-  const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({
-    model: 'gemini-2.5-flash',
-    generationConfig: { responseMimeType: "application/json" }
-  });
+  const cached = getFromCache<SynthesisResult>(cacheKey, 7200);
+  if (cached) {
+    console.log(`[Cache] 🎯 Synthesis cache HIT for: ${topic}`);
+    return cached;
+  }
+  console.log(`[Cache] 💨 Synthesis cache MISS for: ${topic}`);
 
   const articlesText = articles.map((a, i) => `
     [Article ${i + 1}]
@@ -98,13 +151,16 @@ export async function synthesizeNews(topic: string, articles: NewsItem[]): Promi
     ${articlesText}
   `;
 
-  try {
-    const result = await model.generateContent(prompt);
-    const response = await result.response;
-    const text = response.text();
-    return JSON.parse(text) as SynthesisResult;
-  } catch (error) {
-    console.error('Error synthesizing news with gemini-2.5-flash:', error);
-    return null;
+  const jsonText = await generateWithFallback(prompt, true);
+
+  if (jsonText) {
+    try {
+      const result = JSON.parse(jsonText) as SynthesisResult;
+      saveToCache(cacheKey, result);
+      return result;
+    } catch (e) {
+      console.error('[LLM] Error parsing synthesis JSON', e);
+    }
   }
+  return null;
 }
