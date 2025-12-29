@@ -20,6 +20,12 @@ export interface SynthesisResult {
   balancedContent: string;
 }
 
+export interface NewsCluster {
+  topic: string;
+  articleIndices: number[]; // Index in the original fetched array
+  mainCategory: string; // e.g., "Politics", "Economy"
+}
+
 export interface NewsSource {
   id: string;
   name: string;
