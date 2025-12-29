@@ -4,13 +4,22 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Separator } from "@/components/ui/separator";
 import { fetchAllNews } from "@/lib/fetcher";
 import { clusterNews, synthesizeNews } from "@/lib/llm";
-import { ExternalLink, Newspaper, Scale, AlertCircle, Sparkles, Zap, Target } from "lucide-react";
+import { ExternalLink, Newspaper, Scale, AlertCircle, Sparkles, Zap, Target, ChevronDown } from "lucide-react";
 import { NewsItem } from "@/lib/types";
 import { getSourceStyle } from "@/lib/colors";
+import Link from "next/link";
 
 export const dynamic = 'force-dynamic';
 
-export default async function Home() {
+interface Props {
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
+}
+
+export default async function Home(props: Props) {
+  const searchParams = await props.searchParams;
+  const limitParam = typeof searchParams.limit === 'string' ? parseInt(searchParams.limit) : 5;
+  const currentLimit = isNaN(limitParam) ? 5 : Math.min(Math.max(limitParam, 5), 20); // Min 5, Max 20
+
   const allNews = await fetchAllNews();
   
   if (allNews.length === 0) {
@@ -27,13 +36,19 @@ export default async function Home() {
   let clusteredTopics: { synthesis: any, originalArticles: NewsItem[], topic: string }[] = [];
   let unclusteredNews: NewsItem[] = [...allNews];
   let isClusteringCached = false;
+  let hasMoreClusters = false;
 
   if (hasApiKey) {
-    const newsToCluster = allNews.slice(0, 80);
+    const newsToCluster = allNews.slice(0, 150);
     const clusters = await clusterNews(newsToCluster);
     isClusteringCached = clusters.length > 0 && clusters[0].isCached === true;
     
-    const topClusters = clusters.slice(0, 5); 
+    // Check if we have more clusters than current limit
+    if (clusters.length > currentLimit) {
+      hasMoreClusters = true;
+    }
+
+    const topClusters = clusters.slice(0, currentLimit); 
     const clusteredIndices = new Set<number>();
 
     const synthesisPromises = topClusters.map(async (cluster) => {
@@ -85,7 +100,7 @@ export default async function Home() {
               )}
             </div>
             <div className="text-sm text-muted-foreground flex items-center gap-4">
-               <span>已為您整理 {clusteredTopics.length} 則熱門焦點</span>
+               <span>已顯示 {clusteredTopics.length} 則熱門焦點</span>
                <div className="flex gap-2">
                  <div className="flex items-center gap-1 text-[10px] font-medium"><Target className="h-3 w-3 text-blue-500"/> 快取</div>
                  <div className="flex items-center gap-1 text-[10px] font-medium"><Zap className="h-3 w-3 text-orange-500"/> 即時</div>
@@ -175,6 +190,18 @@ export default async function Home() {
                 </Card>
               );
             })}
+            
+            {/* Load More Button */}
+            {hasMoreClusters && (
+               <div className="flex justify-center pt-4">
+                 <Button variant="outline" size="lg" className="w-full md:w-1/3 gap-2" asChild>
+                   <Link href={`/?limit=${currentLimit + 5}`} scroll={false}>
+                     <ChevronDown className="h-4 w-4" />
+                     載入更多話題 ({currentLimit + 5})
+                   </Link>
+                 </Button>
+               </div>
+            )}
           </div>
         </section>
 
