@@ -59,7 +59,7 @@ export default async function Home(props: Props) {
           </div>
           <div className="text-xs text-muted-foreground flex items-center gap-1">
              <Clock className="h-3 w-3" />
-             更新於: {new Date(updatedAt).toLocaleString()}
+             更新於: {new Date(updatedAt).toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hour12: false })} (Taiwan)
           </div>
         </div>
       </header>
