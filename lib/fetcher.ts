@@ -4,7 +4,7 @@ import { NewsItem, NewsSource } from './types';
 const parser = new Parser({
     customFields: {
         item: [
-            ['image', 'image'], // Try to extract image if available
+            ['image', 'image'],
         ]
     }
 });
@@ -30,9 +30,21 @@ export const NEWS_SOURCES: NewsSource[] = [
   },
   {
     id: 'udn',
-    name: '聯合報', // Using Google News as proxy
+    name: '聯合報', // Proxy via Google News
     url: 'https://udn.com',
     rssUrl: getGoogleNewsUrl('site:udn.com when:1d'),
+  },
+  {
+    id: 'chinatimes',
+    name: '中時新聞網', // Proxy via Google News (Deep Blue)
+    url: 'https://www.chinatimes.com',
+    rssUrl: getGoogleNewsUrl('site:chinatimes.com when:1d'),
+  },
+  {
+    id: 'tvbs',
+    name: 'TVBS', // Proxy via Google News (Light Blue)
+    url: 'https://news.tvbs.com.tw',
+    rssUrl: getGoogleNewsUrl('site:news.tvbs.com.tw when:1d'),
   },
   {
     id: 'google-top',
@@ -46,22 +58,22 @@ export async function fetchNewsFromSource(source: NewsSource): Promise<NewsItem[
   try {
     const feed = await parser.parseURL(source.rssUrl);
     return feed.items.map((item) => {
-      // Clean up title for Google News items (remove " - Media Name")
+      // Clean up title for Google News items
       let title = item.title || 'No Title';
-      if (source.id === 'udn' || source.id === 'google-top') {
+      if (source.id !== 'pts' && source.id !== 'ltn') { // Google News sources
          const parts = title.split(' - ');
          if (parts.length > 1) {
-             // Keep the title part, discard the source part at the end
              title = parts.slice(0, -1).join(' - ');
          }
       }
 
-      // Determine source name for Google Top items (which come from various sources)
+      // Determine source name
       let itemSource = source.name;
+      // If it's the general Google Top feed, try to extract real source from title
       if (source.id === 'google-top' && item.title) {
           const parts = item.title.split(' - ');
           if (parts.length > 1) {
-              itemSource = parts[parts.length - 1]; // Last part is usually the source name
+              itemSource = parts[parts.length - 1]; 
           }
       }
 
@@ -84,14 +96,15 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
   const promises = NEWS_SOURCES.map((source) => fetchNewsFromSource(source));
   const results = await Promise.all(promises);
   
-  // Flatten and deduplicate by link or title (simple check)
   const allItems = results.flat();
   
-  // Simple deduplication based on normalized title
+  // Deduplication
   const uniqueItems = new Map();
   allItems.forEach(item => {
-      // Create a key for deduping: first 20 chars of title + source
-      const key = item.title.substring(0, 30) + item.source;
+      // Create a key: Title (first 15 chars) + Source to allow same news from different sources,
+      // BUT if we want to deduplicate strictly identical articles (reposts), use Title only.
+      // Here we allow same story from different sources, but prevent exact duplicates from same source.
+      const key = item.title.substring(0, 20) + item.source;
       if (!uniqueItems.has(key)) {
           uniqueItems.set(key, item);
       }

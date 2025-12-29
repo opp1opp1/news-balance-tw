@@ -63,7 +63,7 @@ export async function clusterNews(articles: NewsItem[]): Promise<NewsCluster[]> 
   const cached = getFromCache<NewsCluster[]>(cacheKey, 1800);
   if (cached) {
     console.log('[Cache] 🎯 Clustering cache HIT');
-    return cached;
+    return cached.map(c => ({ ...c, isCached: true }));
   }
   console.log('[Cache] 💨 Clustering cache MISS');
 
@@ -97,7 +97,7 @@ export async function clusterNews(articles: NewsItem[]): Promise<NewsCluster[]> 
     try {
       const result = JSON.parse(jsonText) as NewsCluster[];
       saveToCache(cacheKey, result);
-      return result;
+      return result.map(c => ({ ...c, isCached: false }));
     } catch (e) {
       console.error('[LLM] Error parsing clustering JSON', e);
     }
@@ -112,7 +112,7 @@ export async function synthesizeNews(topic: string, articles: NewsItem[]): Promi
   const cached = getFromCache<SynthesisResult>(cacheKey, 7200);
   if (cached) {
     console.log(`[Cache] 🎯 Synthesis cache HIT for: ${topic}`);
-    return cached;
+    return { ...cached, isCached: true };
   }
   console.log(`[Cache] 💨 Synthesis cache MISS for: ${topic}`);
 
@@ -157,7 +157,7 @@ export async function synthesizeNews(topic: string, articles: NewsItem[]): Promi
     try {
       const result = JSON.parse(jsonText) as SynthesisResult;
       saveToCache(cacheKey, result);
-      return result;
+      return { ...result, isCached: false };
     } catch (e) {
       console.error('[LLM] Error parsing synthesis JSON', e);
     }

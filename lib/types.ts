@@ -18,12 +18,14 @@ export interface SynthesisResult {
   factList: string[];
   viewpointDifferences: ViewpointDifference[];
   balancedContent: string;
+  isCached?: boolean;
 }
 
 export interface NewsCluster {
   topic: string;
   articleIndices: number[]; // Index in the original fetched array
   mainCategory: string; // e.g., "Politics", "Economy"
+  isCached?: boolean;
 }
 
 export interface NewsSource {

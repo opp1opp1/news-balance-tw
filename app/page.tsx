@@ -4,8 +4,9 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Separator } from "@/components/ui/separator";
 import { fetchAllNews } from "@/lib/fetcher";
 import { clusterNews, synthesizeNews } from "@/lib/llm";
-import { ExternalLink, Newspaper, Scale, AlertCircle, Sparkles } from "lucide-react";
+import { ExternalLink, Newspaper, Scale, AlertCircle, Sparkles, Zap, Target } from "lucide-react";
 import { NewsItem } from "@/lib/types";
+import { getSourceStyle } from "@/lib/colors";
 
 export const dynamic = 'force-dynamic';
 
@@ -24,18 +25,15 @@ export default async function Home() {
 
   const hasApiKey = !!process.env.GOOGLE_GENERATIVE_AI_API_KEY;
   let clusteredTopics: { synthesis: any, originalArticles: NewsItem[], topic: string }[] = [];
-  let unclusteredNews: NewsItem[] = [...allNews]; // Start with all, remove clustered ones later
+  let unclusteredNews: NewsItem[] = [...allNews];
+  let isClusteringCached = false;
 
   if (hasApiKey) {
-    // 1. Cluster first 80 articles
     const newsToCluster = allNews.slice(0, 80);
     const clusters = await clusterNews(newsToCluster);
+    isClusteringCached = clusters.length > 0 && clusters[0].isCached === true;
     
-    // 2. Synthesize top 5 clusters
-    // Increased back to 5 as we now have caching and fallback mechanisms
     const topClusters = clusters.slice(0, 5); 
-    
-    // Identify clustered indices to remove them from "Other News"
     const clusteredIndices = new Set<number>();
 
     const synthesisPromises = topClusters.map(async (cluster) => {
@@ -59,9 +57,6 @@ export default async function Home() {
 
     const results = await Promise.all(synthesisPromises);
     clusteredTopics = results.filter((item): item is NonNullable<typeof item> => item !== null && item.synthesis !== null);
-    
-    // Filter out clustered news from the main list (approximate matching by title/link if indices shift, but here indices are from slice 0-80)
-    // Actually, simpler way: create a new list excluding those indices.
     unclusteredNews = allNews.filter((_, idx) => !clusteredIndices.has(idx));
   }
 
@@ -78,23 +73,46 @@ export default async function Home() {
 
       <main className="container mx-auto py-8 px-4 space-y-10">
         
-        {/* Topic Feed (Clustered & Synthesized) */}
         <section className="space-y-6">
-          <div className="flex items-center gap-2">
-            <Sparkles className="h-5 w-5 text-primary" />
-            <h2 className="text-xl font-bold">熱門話題觀點平衡</h2>
-            <span className="text-sm text-muted-foreground ml-2">
-               {hasApiKey ? "AI 自動聚合與分析" : "請設定 API Key"}
-            </span>
+          <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+            <div className="flex items-center gap-2">
+              <Sparkles className="h-5 w-5 text-primary" />
+              <h2 className="text-xl font-bold">熱門話題觀點平衡</h2>
+              {isClusteringCached && (
+                <Badge variant="outline" className="text-[10px] h-5 bg-blue-50 text-blue-600 border-blue-200 gap-1">
+                  <Target className="h-3 w-3" /> 分群快取中
+                </Badge>
+              )}
+            </div>
+            <div className="text-sm text-muted-foreground flex items-center gap-4">
+               <span>已為您整理 {clusteredTopics.length} 則熱門焦點</span>
+               <div className="flex gap-2">
+                 <div className="flex items-center gap-1 text-[10px] font-medium"><Target className="h-3 w-3 text-blue-500"/> 快取</div>
+                 <div className="flex items-center gap-1 text-[10px] font-medium"><Zap className="h-3 w-3 text-orange-500"/> 即時</div>
+               </div>
+            </div>
           </div>
           
           <div className="space-y-8">
             {clusteredTopics.map((topicData, idx) => {
               const { synthesis, originalArticles } = topicData;
+              const isCached = synthesis.isCached;
               return (
-                <Card key={idx} className="border-l-4 border-l-primary shadow-sm hover:shadow-md transition-shadow">
+                <Card key={idx} className={`border-l-4 ${isCached ? 'border-l-blue-400' : 'border-l-orange-400'} shadow-sm hover:shadow-md transition-shadow relative overflow-hidden`}>
+                  <div className="absolute top-2 right-2">
+                    {isCached ? (
+                      <Badge variant="secondary" className="bg-blue-50 text-blue-600 border-blue-100 hover:bg-blue-100 gap-1 py-0 px-2 h-6">
+                        <Target className="h-3 w-3" /> 快取內容
+                      </Badge>
+                    ) : (
+                      <Badge variant="secondary" className="bg-orange-50 text-orange-600 border-orange-100 hover:bg-orange-100 gap-1 py-0 px-2 h-6 animate-pulse">
+                        <Zap className="h-3 w-3" /> 即時分析
+                      </Badge>
+                    )}
+                  </div>
+
                   <CardHeader>
-                    <div className="flex flex-col md:flex-row md:items-center justify-between gap-2">
+                    <div className="flex flex-col md:flex-row md:items-center justify-between gap-2 mr-24">
                       <CardTitle className="text-xl md:text-2xl">{synthesis.title}</CardTitle>
                       <Badge variant="secondary" className="w-fit">{topicData.topic}</Badge>
                     </div>
@@ -104,43 +122,56 @@ export default async function Home() {
                   </CardHeader>
                   
                   <CardContent className="grid md:grid-cols-12 gap-6">
-                    {/* Viewpoint Differences (Highlight) - Span 7 cols */}
                     <div className="md:col-span-7 space-y-3">
-                       <h3 className="font-semibold text-sm text-muted-foreground flex items-center gap-2">
+                       <h3 className="font-semibold text-sm text-muted-foreground flex items-center gap-2 border-b pb-1">
                          <Scale className="h-4 w-4" /> 各方觀點差異
                        </h3>
                        <div className="space-y-3">
-                        {synthesis.viewpointDifferences.map((vp: any, i: number) => (
-                          <div key={i} className="text-sm bg-slate-100 dark:bg-slate-900 p-3 rounded border-l-2 border-slate-300 dark:border-slate-700">
-                            <span className="font-bold text-slate-800 dark:text-slate-200 mr-2">{vp.source}:</span>
-                            <span className="text-slate-600 dark:text-slate-400">{vp.viewpoint}</span>
-                          </div>
-                        ))}
+                        {synthesis.viewpointDifferences.map((vp: any, i: number) => {
+                          const style = getSourceStyle(vp.source);
+                          return (
+                            <div key={i} className={`text-sm p-3 rounded border-l-4 ${style.bg} ${style.text} ${style.border}`}>
+                              <span className="font-bold mr-2 uppercase">{vp.source}:</span>
+                              <span className="leading-relaxed">{vp.viewpoint}</span>
+                            </div>
+                          );
+                        })}
                       </div>
                     </div>
 
-                    {/* Original Sources List - Span 5 cols */}
                     <div className="md:col-span-5 bg-slate-50 dark:bg-slate-900/50 p-4 rounded-lg border">
-                      <h3 className="font-semibold text-sm text-muted-foreground mb-3 flex items-center gap-2">
+                      <h3 className="font-semibold text-sm text-muted-foreground mb-3 flex items-center gap-2 border-b pb-1">
                         <Newspaper className="h-4 w-4" /> 原始報導 ({originalArticles.length})
                       </h3>
-                      <div className="space-y-2 max-h-[200px] overflow-y-auto pr-2 scrollbar-thin">
-                        {originalArticles.map((article, i) => (
-                          <a key={i} href={article.link} target="_blank" rel="noreferrer" className="block group">
-                            <div className="flex items-start gap-2 p-2 rounded hover:bg-white dark:hover:bg-slate-800 transition-colors">
-                               <Badge variant={article.source.includes('聯合') ? 'destructive' : article.source.includes('自由') ? 'default' : 'secondary'} 
-                                      className="shrink-0 text-[10px] px-1 py-0 h-5">
-                                  {article.source.substring(0, 2)}
-                               </Badge>
-                               <span className="text-sm text-slate-700 dark:text-slate-300 group-hover:text-primary leading-tight">
-                                 {article.title}
-                               </span>
-                            </div>
-                          </a>
-                        ))}
+                      <div className="space-y-2 max-h-[250px] overflow-y-auto pr-2 scrollbar-thin">
+                        {originalArticles.map((article, i) => {
+                          const style = getSourceStyle(article.source);
+                          return (
+                            <a key={i} href={article.link} target="_blank" rel="noreferrer" className="block group">
+                              <div className="flex items-start gap-2 p-2 rounded hover:bg-white dark:hover:bg-slate-800 transition-colors border border-transparent hover:border-slate-200">
+                                 <Badge className={`shrink-0 text-[10px] px-1.5 py-0 h-5 border ${style.bg} ${style.text} ${style.border}`}>
+                                    {article.source}
+                                 </Badge>
+                                 <span className="text-sm text-slate-700 dark:text-slate-300 group-hover:text-primary leading-tight">
+                                   {article.title}
+                                 </span>
+                              </div>
+                            </a>
+                          );
+                        })}
                       </div>
                     </div>
                   </CardContent>
+                  <CardFooter className="bg-slate-50/80 dark:bg-slate-900/50 p-6 border-t flex flex-col gap-4">
+                        <div className="prose dark:prose-invert max-w-none w-full">
+                           <h4 className="text-xs font-bold uppercase tracking-wider text-muted-foreground mb-3 flex items-center gap-2">
+                             <Sparkles className="h-3 w-3" /> 平衡全文
+                           </h4>
+                           <p className="whitespace-pre-wrap text-slate-700 dark:text-slate-300 leading-relaxed text-justify text-sm md:text-base">
+                             {synthesis.balancedContent}
+                           </p>
+                        </div>
+                  </CardFooter>
                 </Card>
               );
             })}
@@ -149,30 +180,33 @@ export default async function Home() {
 
         <Separator />
 
-        {/* Unclustered News Feed */}
         <section className="space-y-4">
           <h2 className="text-xl font-bold text-muted-foreground">其他最新快訊</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-            {unclusteredNews.slice(0, 20).map((item, i) => (
-              <Card key={i} className="flex flex-col h-full bg-slate-50/50 dark:bg-slate-900/20 border-dashed hover:border-solid transition-all">
-                <CardHeader className="p-4 pb-2">
-                  <div className="flex justify-between items-start mb-2">
-                     <span className="text-[10px] bg-slate-200 dark:bg-slate-800 px-1 rounded text-slate-600 dark:text-slate-400">
-                      {item.source}
-                    </span>
-                    <span className="text-[10px] text-muted-foreground">{new Date(item.pubDate).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</span>
-                  </div>
-                  <CardTitle className="text-sm font-medium leading-tight line-clamp-2">
-                    {item.title}
-                  </CardTitle>
-                </CardHeader>
-                <CardFooter className="p-4 pt-0 mt-auto">
-                  <a href={item.link} target="_blank" rel="noopener noreferrer" className="text-xs text-muted-foreground hover:text-primary flex items-center gap-1 ml-auto">
-                    閱讀 <ExternalLink className="h-3 w-3" />
-                  </a>
-                </CardFooter>
-              </Card>
-            ))}
+            {unclusteredNews.slice(0, 24).map((item, i) => {
+              const style = getSourceStyle(item.source);
+              return (
+                <Card key={i} className="flex flex-col h-full bg-slate-50/50 dark:bg-slate-900/20 border-dashed hover:border-solid transition-all">
+                  <CardHeader className="p-4 pb-2">
+                    <div className="flex justify-between items-start mb-2">
+                       <Badge className={`text-[10px] px-1 h-5 border ${style.bg} ${style.text} ${style.border}`}>
+                        {item.source}
+                      </Badge>
+                      <span className="text-[10px] text-muted-foreground">{new Date(item.pubDate).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</span>
+                    </div>
+                    <CardTitle className="text-sm font-medium leading-tight line-clamp-2">
+                      {item.title}
+                    </CardTitle>
+                  </CardHeader>
+                  <CardFooter className="p-4 pt-0 mt-auto flex justify-between items-center">
+                    <span className="text-[10px] text-muted-foreground">{new Date(item.pubDate).toLocaleDateString()}</span>
+                    <a href={item.link} target="_blank" rel="noopener noreferrer" className="text-xs text-muted-foreground hover:text-primary flex items-center gap-1">
+                      閱讀 <ExternalLink className="h-3 w-3" />
+                    </a>
+                  </CardFooter>
+                </Card>
+              );
+            })}
           </div>
         </section>
       </main>
