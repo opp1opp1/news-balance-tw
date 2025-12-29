@@ -10,19 +10,18 @@ export async function synthesizeNews(topic: string, articles: NewsItem[]): Promi
   }
 
   const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash', generationConfig: { responseMimeType: "application/json" } });
-
-  // Filter articles relevant to the topic (simple filtering for now, or pass already filtered list)
-  // For this function, we assume the passed articles are already relevant.
+  // 使用最新偵測成功的 gemini-2.5-flash
+  const model = genAI.getGenerativeModel({ 
+    model: 'gemini-2.5-flash', 
+    generationConfig: { responseMimeType: "application/json" } 
+  });
 
   const articlesText = articles.map((a, i) => `
     [Article ${i + 1}]
     Source: ${a.source}
     Title: ${a.title}
     Content: ${a.content}
-  `).join('
-
-');
+  `).join('\n\n');
 
   const prompt = `
     You are an expert, neutral news editor and analyzer in Taiwan.
@@ -56,7 +55,7 @@ export async function synthesizeNews(topic: string, articles: NewsItem[]): Promi
     const text = response.text();
     return JSON.parse(text) as SynthesisResult;
   } catch (error) {
-    console.error('Error synthesizing news:', error);
+    console.error('Error synthesizing news with gemini-2.5-flash:', error);
     return null;
   }
 }
