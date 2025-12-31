@@ -101,9 +101,15 @@ export async function clusterNews(articles: NewsItem[]): Promise<NewsCluster[]> 
     1. Group articles that report on the EXACT SAME event or issue.
     2. Ignore generic or standalone articles that don't have related coverage.
     3. Each cluster must have at least 2 articles.
-    4. Limit to top 15 most significant topics.
-    5. Output MUST be in Traditional Chinese (Taiwan).
-    6. Return the result in this JSON format:
+
+    **CRITICAL RANKING INSTRUCTIONS:**
+    4. **Prioritize Cross-Media Coverage:** You MUST rank topics that are covered by **MULTIPLE DISTINCT NEWS SOURCES** (e.g., PTS, UDN, LTN all reporting on it) HIGHER than topics covered by only one source.
+    5. **Handle Special Reports:** If a topic has many articles but they all come from a **SINGLE SOURCE** (e.g., only UDN reports 5 times), this is a "Special Report". Rank these LOWER than multi-source Hot Topics, unless the event is significantly major.
+    6. **Sort Order:** The output array MUST be sorted by importance: Cross-media "Hot Topics" first, followed by significant single-source "Special Reports".
+
+    7. Limit to top 15 most significant topics.
+    8. Output MUST be in Traditional Chinese (Taiwan).
+    9. Return the result in this JSON format:
     [
       {
         "topic": "Concise Topic Name (Traditional Chinese)",
