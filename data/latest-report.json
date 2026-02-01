@@ -1,57 +1,53 @@
 {
-  "updatedAt": "2026-02-01T18:10:35.494Z",
+  "updatedAt": "2026-02-01T20:08:38.192Z",
   "clusteredTopics": [
     {
-      "topic": "黃仁勳與台灣投資佈局",
+      "topic": "黃仁勳訪台與輝達總部",
       "synthesis": {
-        "title": "黃仁勳重申輝達在台投資承諾 總部規劃與產業展望受關注",
-        "summary": "輝達執行長黃仁勳近期在台灣公開表示，將與台北市政府簽約設立新總部，並多次宴請供應鏈夥伴，強調對台灣供應鏈的看好與感謝。他對輝達及整體產業的未來發展持樂觀態度，同時澄清了關於OpenAI投資的傳聞。",
+        "title": "輝達執行長黃仁勳訪台聚焦供應鏈合作與總部設立進度",
+        "summary": "輝達執行長黃仁勳近期訪問台灣，除了感謝並肯定台灣供應鏈的重要性外，也確認輝達將在台設立新總部或研發中心。他表示將再回台灣與台北市政府簽約，並對2026年產業發展抱持樂觀態度。",
         "factList": [
-          "黃仁勳在台灣期間，多次宴請台積電及其他供應鏈高層，表達對台灣供應鏈的感謝與看好。",
-          "輝達規劃在台灣設立新的總部或研發中心，地點可能位於北士科。",
-          "黃仁勳承諾會再回台灣與台北市政府簽約，並對新總部的建設表達「非常期待」。",
-          "他肯定台北市長在此過程中提供了「很大的幫助」。",
-          "黃仁勳對輝達及產業未來發展抱持樂觀態度，預期今年將迎來「破紀錄的一年」，並稱「2026年會是更棒的一年」。",
-          "他澄清輝達從未承諾投資OpenAI數千億美元，並表示會評估每一輪融資。",
-          "黃仁勳提及未來將出現三種新工廠型態。"
+          "輝達執行長黃仁勳近期訪問台灣。",
+          "黃仁勳在台期間，與台積電總裁魏哲家等台灣重要供應鏈夥伴高層會面並設宴款待。",
+          "他公開表達對台灣供應鏈夥伴的感謝，並強調台灣對於輝達發展的重要性，曾言「沒有台灣就沒有輝達」。",
+          "黃仁勳證實輝達將在台灣設立新的研發中心或總部。",
+          "他明確表示將再次回到台灣，與台北市政府簽署總部土地相關合約。",
+          "黃仁勳指出，在總部選址和簽約進度方面，市長給予了很大的協助。",
+          "他對台灣半導體產業及與輝達、台積電的合作前景表示樂觀，預期2026年將再創高峰。"
         ],
         "viewpointDifferences": [
           {
-            "source": "聯合新聞網",
-            "viewpoint": "該媒體將黃仁勳的相關發言解讀為對台灣能源政策的「警訊」，著重在政策層面的省思與呼籲。"
+            "source": "自由時報",
+            "viewpoint": "報導側重黃仁勳對台灣作為輝達不可或缺夥伴的強力肯定，並以「推動供應商」的角度呈現其訪問目的，強調台灣在全球供應鏈中的關鍵地位與其在科技創新上的貢獻。"
           },
           {
-            "source": "聯合報",
-            "viewpoint": "該媒體特別強調台北市長在輝達總部規劃上提供的「很大幫助」，突顯市府在招商引資中的角色。"
+            "source": "聯合報 / 經濟日報",
+            "viewpoint": "報導重心放在輝達總部土地簽約的實際進展，以及黃仁勳對市長提供協助的公開感謝，間接凸顯地方政府在吸引外資與推動高科技產業發展中的角色。"
           },
           {
-            "source": "ETtoday財經雲 / ETtoday",
-            "viewpoint": "這些報導聚焦於黃仁勳對回台與北市府簽約的明確承諾，以及他期望總部能儘快開工的期待。同時，也著重報導了其澄清OpenAI投資的聲明。"
-          },
-          {
-            "source": "中時新聞網",
-            "viewpoint": "該媒體著墨於輝達與台積電共同慶祝創歷史紀錄的成就，以及黃仁勳對2026年的樂觀展望。同時，也強調黃仁勳對北士科總部的「非常期待」。"
-          },
-          {
-            "source": "NOWnews今日新聞",
-            "viewpoint": "該媒體主要強調黃仁勳對台灣供應鏈的積極評價，以及他對今年將迎來「破紀錄一年」的樂觀預期。"
-          },
-          {
-            "source": "公視新聞",
-            "viewpoint": "該媒體報導黃仁勳宴請供應鏈廠商旨在表達感激，並提及他對未來新工廠型態的預言，展現較為全面和前瞻性的視角。"
+            "source": "ETtoday財經雲",
+            "viewpoint": "除了報導簽約計畫外，還提及黃仁勳將此次台灣行形容為「最後一站」，增添了個人行程的細節，使報導更具故事性。"
           }
         ],
-        "balancedContent": "輝達執行長黃仁勳近期在台灣的系列行程中，明確表達了對台灣科技產業的深厚連結與未來投資規劃。他多次設宴款待包括台積電在內的台灣供應鏈高層，藉此機會向合作夥伴們表達誠摯感謝，並重申對台灣在全球人工智慧時代關鍵地位的看好。\n\n針對輝達在台灣設立新總部或研發中心的計畫，黃仁勳公開表示，本趟台灣行是他此段亞洲行的「最後一站」，但他承諾將會再次回到台灣，與台北市政府完成簽約事宜。對於新總部建設地點可能落腳北士科，他表達了「非常期待」。黃仁勳也特別肯定台北市長蔣萬安在此過程中提供了「很大的幫助」。儘管總部簽約的具體進度受到各界關注，黃仁勳仍表示「簽約很簡單」，並表達了希望能夠儘快開工的願望。\n\n在產業展望方面，黃仁勳對輝達及整體科技業的未來發展抱持高度樂觀態度。他預期今年將再次迎來「破紀錄的一年」，並進一步表示「2026年會是更棒的一年」。他同時預告，在未來科技發展中，將會出現三種新的工廠型態，顯示對產業轉型的洞察。\n\n此外，黃仁勳也藉由此次公開行程，澄清了市場上關於輝達可能向OpenAI投資數千億美元的傳聞。他強調輝達從未承諾此類大規模投資，並表示公司會審慎評估每一輪的融資計畫，以確保投資的效益與策略符合公司發展方向。",
+        "balancedContent": "輝達（NVIDIA）執行長黃仁勳近期再次訪問台灣，期間密集會晤了包括台積電總裁魏哲家在內的多位重要供應鏈夥伴高層，並設宴款待。黃仁勳公開對台灣供應鏈表達了深切的感謝，並強調台灣在全球半導體產業以及輝達發展中扮演著不可或缺的關鍵角色，甚至表示「沒有台灣就沒有輝達」。\n\n此次訪問期間，黃仁勳也正式確認輝達計劃在台灣設立新的研發中心或總部。他指出，在選址與簽約進度方面，台北市市長提供了相當大的協助。黃仁勳並明確表示，他將會再次回到台灣，與台北市政府簽署相關的土地合約。\n\n對於未來的展望，黃仁勳對台灣的產業潛力及與輝達、台積電的合作前景充滿信心，樂觀預期2026年將是「更棒的一年」，屆時將共同再創產業高峰。他的此次台灣行聚焦於鞏固與在地夥伴的關係，並推進輝達在台的長期布局。",
         "isCached": false
       },
       "originalArticles": [
         {
-          "title": "黃仁勳的話台灣能源政策警訊| 民意論壇| 評論",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05R1haelNaM1owU3BiVjJtT1h2MXNjV2JjMHNZRFJXUlUwTFhhb0lDMUV1VW0zazVVdTZiczNYeElKaVVuakJwVUNJRm1TTHRR?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 16:00:00 GMT",
-          "content": "黃仁勳的話台灣能源政策警訊| 民意論壇| 評論  聯合新聞網",
-          "source": "聯合新聞網",
-          "guid": "CBMiUEFVX3lxTE05R1haelNaM1owU3BiVjJtT1h2MXNjV2JjMHNZRFJXUlUwTFhhb0lDMUV1VW0zazVVdTZiczNYeElKaVVuakJwVUNJRm1TTHRR"
+          "title": "《TAIPEI TIMES》 Nvidia’s Huang pushes suppliers on Taiwan visit",
+          "link": "https://news.ltn.com.tw/news/focus/breakingnews/5329375",
+          "pubDate": "Mon, 02 Feb 2026 03:00:00 +0800",
+          "content": "‘REALLY PROUD’: Nvidia would not be possible without Taiwan, Huang said, adding that TSMC would be i...…",
+          "source": "自由時報",
+          "guid": "https://news.ltn.com.tw/news/focus/breakingnews/5329375"
+        },
+        {
+          "title": "輝達總部土地何時走程序 黃仁勳：會再來與北市簽約",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5NEdvMlpGLVN4b3R4Q0QzZVE1cGRHQThrMlk3eGpEcFhEOVU1R2RFenZxbmJYdG1wb09ERDVlZE9yWU1NVVRGOFV3MExtWW5SNDVfUmFNaDc2UdIBX0FVX3lxTE51bWw2OHJNZEZwTHdmTmxQQy1aRmJQc01yRmVaTTNNeVNINmx2MHF6TnNRc1hQQjFyMFdoQlNaVHYteGxFd3pESTBPdjMzY1ZSeW53WGw5bU9mbFlKYUdN?oc=5",
+          "pubDate": "Sun, 01 Feb 2026 18:30:40 GMT",
+          "content": "輝達總部土地何時走程序 黃仁勳：會再來與北市簽約  經濟日報",
+          "source": "聯合報",
+          "guid": "CBMiWkFVX3lxTFB5NEdvMlpGLVN4b3R4Q0QzZVE1cGRHQThrMlk3eGpEcFhEOVU1R2RFenZxbmJYdG1wb09ERDVlZE9yWU1NVVRGOFV3MExtWW5SNDVfUmFNaDc2UdIBX0FVX3lxTE51bWw2OHJNZEZwTHdmTmxQQy1aRmJQc01yRmVaTTNNeVNINmx2MHF6TnNRc1hQQjFyMFdoQlNaVHYteGxFd3pESTBPdjMzY1ZSeW53WGw5bU9mbFlKYUdN"
         },
         {
           "title": "黃仁勳談輝達總部簽約進度 直言市長幫了很大的忙",
@@ -60,6 +56,14 @@
           "content": "黃仁勳談輝達總部簽約進度 直言市長幫了很大的忙  經濟日報",
           "source": "聯合報",
           "guid": "CBMiWkFVX3lxTE1MSWJJZlI0emdweWhxbThyelkwcGJHS08zOHpsU3Z1OFM2dzZxWV9RcDZFNkJIejJET1F0STF0RG5TVHltQ295QzhSY3JhT1BSM2JtbTNWckw1Z9IBX0FVX3lxTE9LRFJObmNpS0VxY2k4NWtaZjU3STFYLXpGWlB5amhPRURHX1FXc1VhQnVXQ1d5MExDZGVYWEIyM1B4d0JYRzc0NGF1cnVCX3Y5eGFNSHNsUlc1UnVxR2Rz"
+        },
+        {
+          "title": "看好台灣供應鏈! 黃仁勳.魏哲家喊「2026再創高」｜TVBS新聞 @TVBSNEWS01│TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEeVhORllQODNSNWJfQ2FjcE9xdE5ZZXdFd0QzZ3ZzVzBpaU55dEFvTXZ5SkhQNTN5LW5zMjFYajFkX3NlcGNndU9XUFNBNjdlRmM1emFnTVg?oc=5",
+          "pubDate": "Sun, 01 Feb 2026 15:36:50 GMT",
+          "content": "看好台灣供應鏈! 黃仁勳.魏哲家喊「2026再創高」｜TVBS新聞 @TVBSNEWS01│TVBS新聞網  TVBS新聞網",
+          "source": "TVBS",
+          "guid": "CBMiWEFVX3lxTFBEeVhORllQODNSNWJfQ2FjcE9xdE5ZZXdFd0QzZ3ZzVzBpaU55dEFvTXZ5SkhQNTN5LW5zMjFYajFkX3NlcGNndU9XUFNBNjdlRmM1emFnTVg"
         },
         {
           "title": "黃仁勳宴請魏哲家！親揭此行是最後一站：會回台灣與北市府簽約",
@@ -78,219 +82,170 @@
           "guid": "CBMijwFBVV95cUxOR19VUi1Lemp0WGJTbmx5NWwySlRGX2VUZkp1NlBZaE5ZZmFFRDdpaWQ2SG52QzdyRDdTX2x2eEJZajhObDBkRFRBOVpVWkhrbTBqak1BeXYyUjEyLU1La3lUVjlXU1R0U0FXeU9rN0UyOEN6RC10NnBTRm1SeVZMTU15ZTRsNWRucTBKN01sWQ"
         },
         {
-          "title": "看好台灣供應鏈 黃仁勳：今年將會再次迎來 「破紀錄的一年」 | 產業動態 | 財經",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95dEEyM3h0ZU95dEQxdmE4QkhkdkNnMFdQSlM5dUp5VndMTEVld0Q4QktCbVRBSTEzbWxvMmt0MEhUMVBFMU0zcEVyd2k?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 12:58:32 GMT",
-          "content": "看好台灣供應鏈 黃仁勳：今年將會再次迎來 「破紀錄的一年」 | 產業動態 | 財經  NOWnews今日新聞",
-          "source": "NOWnews今日新聞",
-          "guid": "CBMiTEFVX3lxTE95dEEyM3h0ZU95dEQxdmE4QkhkdkNnMFdQSlM5dUp5VndMTEVld0Q4QktCbVRBSTEzbWxvMmt0MEhUMVBFMU0zcEVyd2k"
-        },
-        {
           "title": "黃仁勳今晚宴台積電高層 稱盼向供應鏈夥伴表達感激",
           "link": "https://news.pts.org.tw/article/793366",
           "pubDate": "2026-02-01T11:55:42.000Z",
           "content": "",
           "source": "公視新聞",
           "guid": "https://news.pts.org.tw/article/793366"
+        }
+      ]
+    },
+    {
+      "topic": "美伊緊張局勢/川普表態",
+      "synthesis": {
+        "title": "美伊情勢緊繃：伊朗發出戰爭警告，川普表態盼協議並進行外交談判",
+        "summary": "美國與伊朗關係持續緊張，伊朗最高領袖哈米尼警告若遭美國攻擊將引發區域戰爭。美國總統川普對此回應表示希望能與伊朗達成協議，並正進行外交談判，以期獲得「可接受的結果」。同時，有報導指出美國與以色列最高將領已就美伊情勢進行過會商。",
+        "factList": [
+          "美伊之間緊張局勢日益升高。",
+          "伊朗最高領袖哈米尼警告，若美國攻擊伊朗將引發區域戰爭。",
+          "美國總統川普表示希望能與伊朗達成協議。",
+          "美國與以色列的最高將領曾於1月30日在五角大廈會商。",
+          "川普希望透過談判達成「可接受的結果」。",
+          "川普認為哈米尼的警告是預期中的說法。"
+        ],
+        "viewpointDifferences": [
+          {
+            "source": "自由時報 (Article 1)",
+            "viewpoint": "此報導側重於美以最高將領在五角大廈會商的消息，暗示美以兩國在應對伊朗緊張局勢上的協調與潛在準備行動。"
+          },
+          {
+            "source": "自由時報 (Article 2)",
+            "viewpoint": "該報導主要強調伊朗最高領袖的戰爭警告與美國總統川普的直接回應，凸顯雙方言詞交鋒的激烈程度，以及川普一方面駁斥威脅，另一方面又表達尋求協議的複雜立場。"
+          },
+          {
+            "source": "公視新聞 (Article 3)",
+            "viewpoint": "此報導簡潔地聚焦於美伊外交談判的「進行中」狀態，以及川普對於談判結果的期望，強調透過外交途徑解決問題的可能性與目標。"
+          }
+        ],
+        "balancedContent": "美國與伊朗的關係近期持續處於高度緊張狀態，雙方互動及其對區域穩定的影響備受國際關注。\n\n伊朗最高領袖哈米尼對外發出嚴厲警告，明確表示如果美國對伊朗發動攻擊，將會引發一場區域性戰爭。他強調此舉將導致整個地區陷入衝突，對情勢發展投下陰影。\n\n針對哈米尼的警告，美國總統川普則回應表示，他希望能與伊朗達成一份協議。川普補充說，伊朗最高領袖「當然會這麼說」，但這並不妨礙他期望能與德黑蘭達成和解。他同時表明，美伊之間的外交談判正在進行中，他個人希望能夠透過這些談判達成一個「可接受的結果」。\n\n在此同時，有消息指出，面對對伊朗情勢日益升高的緊張，美國與以色列的最高將領於1月30日曾在五角大廈進行會商。此次會晤被視為兩國針對中東區域安全情勢，特別是與伊朗相關議題的戰略協調與討論。\n\n整體而言，美伊雙方在公開喊話與私下行動上呈現複雜態勢，一方面有來自伊朗的強硬警告，另一方面則有川普總統釋出談判意願。國際社會正密切關注美伊關係的後續發展，期待透過外交途徑尋求和平解決方案。",
+        "isCached": false
+      },
+      "originalArticles": [
+        {
+          "title": "伊朗緊張升溫　傳美國以色列最高將領曾展開會商",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5329409",
+          "pubDate": "Mon, 02 Feb 2026 04:00:03 +0800",
+          "content": "就在對伊朗緊張情勢日益升高之際，要求匿名的兩位美國官員今天透露，美國和以色列的最高將領1月30日曾在五角大廈進行會商。\n\n路透社報導，官員沒有透露美國參謀首長聯席會議主席凱恩（Dan Cai...…",
+          "source": "自由時報",
+          "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329409"
         },
         {
-          "title": "黃仁勳：從未承諾砸千億美元投資OPEN AI　對每一輪融資都會評估",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ub0xSYnNtUlhySC1KM2UzbTRrTWF1MGctWUYxZlhySWM3SWhBSjZLSHFpU2dHNk5HSXlhZFhJT3JvRUl6Qzl1X1MwbkZmbXFvUlHSAW5BVV95cUxOUThSbHRLQWw5eFVucUFvb292T2JDbWEtYVVjVml5UXNDdEtRQWNmZDQzTUxwTkR1amt2WjdraGZDRlpsQ001QXYycGpBUjl2ejhxRkk1Mi1BcHVhR2ZQYXVwZ2lubndNZmFBMTZaQQ?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 11:10:00 GMT",
-          "content": "黃仁勳：從未承諾砸千億美元投資OPEN AI　對每一輪融資都會評估  ETtoday財經雲",
-          "source": "ETtoday",
-          "guid": "CBMiUkFVX3lxTE5Ub0xSYnNtUlhySC1KM2UzbTRrTWF1MGctWUYxZlhySWM3SWhBSjZLSHFpU2dHNk5HSXlhZFhJT3JvRUl6Qzl1X1MwbkZmbXFvUlHSAW5BVV95cUxOUThSbHRLQWw5eFVucUFvb292T2JDbWEtYVVjVml5UXNDdEtRQWNmZDQzTUxwTkR1amt2WjdraGZDRlpsQ001QXYycGpBUjl2ejhxRkk1Mi1BcHVhR2ZQYXVwZ2lubndNZmFBMTZaQQ"
+          "title": "伊朗最高領袖警告區域戰爭　川普：盼與德黑蘭達成協議",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5329407",
+          "pubDate": "Mon, 02 Feb 2026 03:36:03 +0800",
+          "content": "伊朗最高領袖哈米尼警告，如果美國攻擊伊朗，將會引發區域戰爭。美國總統川普今天對此表示，他希望能與伊朗達成協議。\n\n法新社報導，針對哈米尼提出的警告，川普告訴記者：「他當然會這麼說。」\n\n他說...…",
+          "source": "自由時報",
+          "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329407"
         },
         {
-          "title": "黃仁勳與台積電高層餐敘 談北士科總部：非常期待！",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZNGFONjR6VFNoV3N1SG9HWWlLcVp1aXo1cko5WExpSXg4UEVMOFIxdGdLVnB4Y0tZR3RlRTdLeHV0Y2FiQ2NIMGZ1Mi04VXFSV0g3MFNhYUNITzBhb3QxZHVOd2FvWU90WFZBbnN3?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 11:08:09 GMT",
-          "content": "黃仁勳與台積電高層餐敘 談北士科總部：非常期待！  中時新聞網",
-          "source": "中時新聞網",
-          "guid": "CBMibkFVX3lxTE9ZNGFONjR6VFNoV3N1SG9HWWlLcVp1aXo1cko5WExpSXg4UEVMOFIxdGdLVnB4Y0tZR3RlRTdLeHV0Y2FiQ2NIMGZ1Mi04VXFSV0g3MFNhYUNITzBhb3QxZHVOd2FvWU90WFZBbnN3"
-        },
-        {
-          "title": "黃仁勳再宴請供應鏈廠商 指未來將出現3種新工廠型態",
-          "link": "https://news.pts.org.tw/article/793344",
-          "pubDate": "2026-02-01T10:55:48.000Z",
+          "title": "美伊外交談判進行中 川普：希望談出可接受的結果",
+          "link": "https://news.pts.org.tw/article/793349",
+          "pubDate": "2026-02-01T11:56:48.000Z",
           "content": "",
           "source": "公視新聞",
-          "guid": "https://news.pts.org.tw/article/793344"
-        },
-        {
-          "title": "輝達總部未定案　黃仁勳喊「簽約很簡單」盼快開工",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdko2OHlVUHBnVTNQMThDS0VvMmt1QlBMWGhYRHNINDNDZ0Vza3dmUTFlR1FEMXdybUxfakotOFVUbEJyWUptT0VCSUJMUmY1cWfSAW5BVV95cUxPMUNKQUZRQ1VaRDJfVnVHQzN2TFdhWEhVTjR0dXJ0UlNha1M1Vy1xUG9UOUYzdHQxNWRTUy0zbVBRWEVtRXgyWjg1TWNOTkw2NDVQeC0ydDhSRVZWNlNtQlNWYlBfUHZKVnlzZm9IZw?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 10:55:00 GMT",
-          "content": "輝達總部未定案　黃仁勳喊「簽約很簡單」盼快開工  ETtoday財經雲",
-          "source": "ETtoday",
-          "guid": "CBMiUkFVX3lxTE1mdko2OHlVUHBnVTNQMThDS0VvMmt1QlBMWGhYRHNINDNDZ0Vza3dmUTFlR1FEMXdybUxfakotOFVUbEJyWUptT0VCSUJMUmY1cWfSAW5BVV95cUxPMUNKQUZRQ1VaRDJfVnVHQzN2TFdhWEhVTjR0dXJ0UlNha1M1Vy1xUG9UOUYzdHQxNWRTUy0zbVBRWEVtRXgyWjg1TWNOTkw2NDVQeC0ydDhSRVZWNlNtQlNWYlBfUHZKVnlzZm9IZw"
+          "guid": "https://news.pts.org.tw/article/793349"
         }
       ]
     },
     {
-      "topic": "日本眾議院大選情勢與相關議題",
+      "topic": "英國首相施凱爾亞洲行/中英關係",
       "synthesis": {
-        "title": "日本眾議院大選情勢分析：執政聯盟民調看好，高市內閣支持率穩定",
-        "summary": "日本眾議院大選預計於2月8日舉行投開票。根據最新民調顯示，執政的自民黨有望單獨過半，若與日本維新會合計，執政聯盟席次預計將突破300席。同時，首相高市早苗的內閣支持率微幅上升，維持在六成以上。",
+        "title": "英國首相亞洲行會晤中日領導人 聚焦人權與經濟合作",
+        "summary": "英國首相（施凱爾/施紀賢）進行亞洲訪問，先後到訪中國北京與日本東京。在北京，首相會晤了中國國家主席習近平，雙方討論了人權議題並強調建立「更精細」的英中關係。在日本，首相與日本首相高市早苗會面，日英雙方同意加強稀土供應鏈合作。",
         "factList": [
-          "日本眾議院大選預計於2月8日舉行投開票。",
-          "朝日新聞與共同社於1月31日至2月1日期間進行了全國性民意調查。",
-          "根據民調結果，執政的自民黨有望在眾議院大選中單獨取得過半席次（233席）。",
-          "自民黨若與聯合執政的日本維新會合計，預計總席次將突破300席。",
-          "首相高市早苗的內閣支持率為63.6%，較上次民調微幅上升0.5個百分點。",
-          "高市早苗內閣的不支持率為25.6%，上升0.6個百分點。",
-          "有網路紅人發布影片影射「暗殺高市早苗」，引發台灣與日本網友撻伐。"
+          "英國首相（新聞報導中稱其為施紀賢或施凱爾）進行亞洲訪問。",
+          "此次亞洲行包括訪問中國北京與日本東京。",
+          "在中國北京，英國首相會晤了中國國家主席習近平。",
+          "會談中，雙方提及了人權問題。",
+          "英國首相強調建立「更精細」的英中關係至關重要。",
+          "這是英國首相八年來首次訪問中國。",
+          "英國首相是近期訪問北京的多位世界領導人之一。",
+          "在訪問日本期間，英國首相會見了日本首相高市早苗。",
+          "日英兩國承諾將致力於稀土供應鏈的合作。"
         ],
         "viewpointDifferences": [
           {
-            "source": "自由時報 (關於選舉情勢)",
-            "viewpoint": "透過多篇報導，強調自民黨選情「持續走強」，並指出「中道改革聯盟欲振乏力」，呈現執政黨明顯優勢與在野黨面臨的困境。"
+            "source": "BBC中文 (文章1)",
+            "viewpoint": "標題「時隔太久」暗示此次高層接觸的延遲性或關係改善的迫切性。"
           },
           {
-            "source": "Newtalk新聞",
-            "viewpoint": "獨家報導一則涉及首相高市早苗的社會事件，即網路紅人影射暗殺引發爭議並遭到公眾撻伐，與其他媒體專注於選舉民調分析的角度不同，而偏向報導相關的社會議題。"
+            "source": "BBC中文 (文章2)",
+            "viewpoint": "指出中國將英國首相來訪視為「更大局面的一部分」，解讀了中方看待此行的戰略視角。"
+          },
+          {
+            "source": "BBC中文 (文章3)",
+            "viewpoint": "著重分析此次亞洲行的「時機和任務」，提供對訪問背後戰略考量的分析角度。"
+          },
+          {
+            "source": "公視新聞 (文章4)",
+            "viewpoint": "報導聚焦於日英在稀土供應鏈上的合作，突顯了經濟合作作為訪問成果的具體面向。"
           }
         ],
-        "balancedContent": "日本眾議院大選將於2月8日舉行投開票，各界密切關注選情發展。根據朝日新聞與共同社在1月31日至2月1日期間進行的最新民意調查結果顯示，執政的自由民主黨在選戰中展現強勁勢頭。\n\n多項民調預測，自民黨有望在本次眾議院大選中單獨取得過半席次，即超過233席。若將自民黨與其聯合執政夥伴日本維新會的預期席次合併計算，執政聯盟的總席次預計將突破300席，顯示其在國會中可能擁有壓倒性優勢。民調也指出，自民黨無論在小選區或比例代表的支持率方面，領先優勢均有所擴大。\n\n在內閣支持率方面，首相高市早苗的內閣支持度為63.6%，相較上次民調微幅上升0.5個百分點，不支持率則為25.6%，上升0.6個百分點。整體而言，高市內閣的支持度仍維持在六成以上，情勢相對穩定。\n\n與此同時，本次選舉期間也出現了場外事件。有台灣網路紅人因拍攝影片影射「暗殺高市早苗」，相關內容引起台日兩地網友的強烈反彈與撻伐，此事件反映了公眾人物言論可能引發的爭議。",
+        "balancedContent": "英國首相（在不同報導中稱作施凱爾或施紀賢）近期展開一趟亞洲訪問，行程涵蓋中國北京與日本東京。這是八年來首次有英國首相訪問中國，顯示出此次高層互動的重要性。\n\n在北京，英國首相會晤了中國國家主席習近平。雙方在會談中提及了人權議題，英國首相同時強調建立「更精細」的英中關係至關重要。中國方面將此次英國首相的來訪視為近期多位世界領導人訪問北京的「更大局面」的一部分。\n\n隨後，英國首相前往日本東京，與日本首相高市早苗舉行會談。在這次會晤中，日英兩國承諾將共同努力，致力於加強稀土供應鏈的合作。",
         "isCached": false
       },
       "originalArticles": [
         {
-          "title": "日眾院大選民調 執政黨可望單獨過半",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5329389",
-          "pubDate": "Sun, 01 Feb 2026 22:59:59 +0800",
-          "content": "日本朝日新聞今天公布最新調查顯示，執政的自民黨可望在這次眾院大選單獨過半（233席），並議席大幅成長，若加上日本維新會，執政陣營合計超過300席以上，中道改革聯盟欲振...…",
-          "source": "自由時報",
-          "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329389"
+          "title": "「時隔太久」：施紀賢習近平在北京「談及人權問題」",
+          "link": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 29 Jan 2026 15:25:48 GMT",
+          "content": "英國首相施紀賢爵士對中國國家主席習近平說，英中建設「更精細」關係至關重要。",
+          "source": "BBC中文",
+          "guid": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad#4"
         },
         {
-          "title": "民調：高市早苗內閣支持率63.6％微升",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5329336",
-          "pubDate": "Sun, 01 Feb 2026 22:55:34 +0800",
-          "content": "日本共同通信社於1月31日、2月1日實施全國電話民調顯示，日本首相高市早苗的內閣支持率為63.6%，比上次民調小幅上升0.5個百分點；不支持率為25.6%，上升0.6個百分點，整體而言幾乎持...…",
-          "source": "自由時報",
-          "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329336"
+          "title": "為什麼中國將英國首相施紀賢來訪視為更大局面的一部分？",
+          "link": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 29 Jan 2026 08:18:08 GMT",
+          "content": "施紀賢是近期前往北京的多位世界領導人之一。",
+          "source": "BBC中文",
+          "guid": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad#4"
         },
         {
-          "title": "日眾院大選 共同社民調：自民黨比例代表領先優勢擴大",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5329388",
-          "pubDate": "Sun, 01 Feb 2026 22:51:31 +0800",
-          "content": "日本眾議院大選將在8日舉行投開票，最新民調顯示，自民黨在小選區和比例代表方面的支持率均擴大，高市早苗內閣的支持率則小增0.5個百分點，仍維持在6成以上。\r\n\r\n共同社1月31...…",
-          "source": "自由時報",
-          "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329388"
+          "title": "英國首相八年來首次訪華　施紀賢亞洲行的時機和任務",
+          "link": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Jan 2026 06:43:08 GMT",
+          "content": "施紀賢星期二出發先後訪問往北京和東京。日本方面透露施紀賢將於31日到訪，期間將會晤日本首相高市早苗。",
+          "source": "BBC中文",
+          "guid": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad#4"
         },
         {
-          "title": "朝日新聞眾院大選調查：自維聯盟有望突破300席",
-          "link": "https://news.ltn.com.tw/news/world/breakingnews/5329356",
-          "pubDate": "Sun, 01 Feb 2026 22:27:55 +0800",
-          "content": "日本眾議院選舉將於2月8日投開票，朝日新聞於1月31日至2月1日，透過電話與網路方式對約37萬名選民進行大規模調查，結果顯示自民黨選情持續走強，有望單獨大幅過半，與聯合執政的日本維新會合計，...…",
-          "source": "自由時報",
-          "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329356"
-        },
-        {
-          "title": "(影)丟台灣人臉！網紅拍片隱射「暗殺高市早苗」 遭台日網友起底炎上| 網紅",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdWtROWtMN0hYZ2ludEJpZ2s3bXB6dXBWWjJaWUhaUlI0WlpGTGNNZEhwdWJKM0g4LWdSVDN2bHUxa2VIQXNWRVlhT19VZGFpejd4RlJBQjhqNHM?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 12:01:45 GMT",
-          "content": "(影)丟台灣人臉！網紅拍片隱射「暗殺高市早苗」 遭台日網友起底炎上| 網紅  Newtalk新聞",
-          "source": "Newtalk新聞",
-          "guid": "CBMiW0FVX3lxTE5OdWtROWtMN0hYZ2ludEJpZ2s3bXB6dXBWWjJaWUhaUlI0WlpGTGNNZEhwdWJKM0g4LWdSVDN2bHUxa2VIQXNWRVlhT19VZGFpejd4RlJBQjhqNHM"
+          "title": "施凱爾訪日會高市早苗 日英將致力稀土供應鏈合作",
+          "link": "https://news.pts.org.tw/article/793350",
+          "pubDate": "2026-02-01T11:56:15.000Z",
+          "content": "",
+          "source": "公視新聞",
+          "guid": "https://news.pts.org.tw/article/793350"
         }
       ]
     },
     {
-      "topic": "天氣預報與降雨警報",
+      "topic": "中國解放軍高層清洗/張又俠調查",
       "synthesis": {
-        "title": "北台灣天氣轉變：降雨與溫度下降預報",
-        "summary": "台灣北部地區今晚至明日（週一）將迎來天氣變化，預計有降雨及氣溫下降。氣象署已針對部分縣市發布大雨特報，提醒民眾留意局部大雨與濕冷天氣。",
+        "title": "中國解放軍高層將領張又俠受調查引發國際關注",
+        "summary": "中國解放軍高層將領張又俠正受調查，此事件引發國際社會廣泛關注。張又俠不僅是繼習近平之後解放軍中排名最高的將領，其家族與習近平家族更有深厚的歷史淵源。中國官媒對此事件有所批評，而國際分析人士與前美國官員也對此表達看法。",
         "factList": [
-          "北台灣地區今晚至明日（週一）預計將有降雨。",
-          "氣象署已針對新北市及基隆市發布大雨特報。",
-          "此次天氣變化受華南雲系東移影響。",
-          "北部地區氣溫將下降，可能出現濕冷狀況。",
-          "預計北台灣低溫將下探至攝氏13度左右。"
-        ],
-        "viewpointDifferences": [
-          {
-            "source": "自由時報",
-            "viewpoint": "報導聚焦於氣象署對新北市、基隆市發布的大雨特報，並具體指出發布時間為21時40分，以「雨彈夜襲」等詞語強調降雨的戲劇性與突發性。"
-          },
-          {
-            "source": "ETtoday",
-            "viewpoint": "以「快訊」形式發布，強調降雨受「華南雲系東移」影響可能「雨下不停」，凸顯降雨的持續性與緊急性，並提及「最新警戒區曝」暗示資訊持續更新。"
-          },
-          {
-            "source": "TVBS",
-            "viewpoint": "報導範圍較廣，提及「7縣市」將受水氣影響，並以「急變天」、「水氣轟」及「雨最猛」等詞語，突顯天氣變化的劇烈與降雨的強度。"
-          },
-          {
-            "source": "facebook.com",
-            "viewpoint": "著重於北台灣的「濕冷」與「降溫」，預告低溫可能探至13度，並指「冷空氣接力再降溫」和「時間曝光」，強調氣溫持續下降的趨勢。"
-          }
-        ],
-        "balancedContent": "北台灣地區預計將在今晚至明日（週一）面臨天氣變化，主要受到華南雲系東移的影響，屆時將有明顯降雨及氣溫下降。\n\n中央氣象署已對部分縣市發布大雨特報，指出新北市和基隆市有局部大雨發生的可能性，特別是基隆北海岸地區需留意。此次降雨預計將從今晚持續至明日。\n\n除了降雨，北部地區的氣溫也將明顯下滑。根據預報，北台灣將轉為濕冷天氣型態，低溫可能下探至攝氏13度左右。部分資訊也指出，除了新北、基隆外，此次水氣影響範圍可能擴及至七個縣市，使得整體北部地區皆感受到濕涼。\n\n民眾應留意天氣變化，外出請攜帶雨具並注意保暖，山區及沿海地區更應防範局部大雨帶來的影響。",
-        "isCached": false
-      },
-      "originalArticles": [
-        {
-          "title": "雨彈夜襲！新北、基隆大雨特報到明天",
-          "link": "https://news.ltn.com.tw/news/life/breakingnews/5329362",
-          "pubDate": "Sun, 01 Feb 2026 22:24:14 +0800",
-          "content": "受華南雲系東移影響，氣象署今晚對新北市和基隆市2縣市發布大雨特報。\r\n\r\n氣象署今21點40分，對新北市和基隆市發布大雨特報提醒，今晚到明天（2日）週一，基隆北海岸有局部大雨發生...…",
-          "source": "自由時報",
-          "guid": "https://news.ltn.com.tw/news/life/breakingnews/5329362"
-        },
-        {
-          "title": "快訊／2縣市大雨特報！華南雲系東移雨下不停　最新警戒區曝",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xbFdsRWNjOFNHTl9wN0NMMzgtMUdzMHZaQUdqTHlEUFFEQWMzQ2lGUXRCWS1GZkpvY29WY19xYW1qcWFtV21MZzhvbDZvcUdXRV9OVGwyYUJkaVBXTUHSAWhBVV95cUxNUVhOY2RRWWh1OHVqU0RQOGd4NU0wbVRMS09fYUxXX3RyQzQ1bUVOS0FBUU9zeTFxRFY1Yl8zX1ItWGZWVDdLUFMxN0h2MzM2VHZXWHdLd1Nwb3FxdWUxb05JTXhBMmtaZA?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 13:53:00 GMT",
-          "content": "快訊／2縣市大雨特報！華南雲系東移雨下不停　最新警戒區曝  ETtoday新聞雲",
-          "source": "ETtoday",
-          "guid": "CBMiXkFVX3lxTE4xbFdsRWNjOFNHTl9wN0NMMzgtMUdzMHZaQUdqTHlEUFFEQWMzQ2lGUXRCWS1GZkpvY29WY19xYW1qcWFtV21MZzhvbDZvcUdXRV9OVGwyYUJkaVBXTUHSAWhBVV95cUxNUVhOY2RRWWh1OHVqU0RQOGd4NU0wbVRMS09fYUxXX3RyQzQ1bUVOS0FBUU9zeTFxRFY1Yl8zX1ItWGZWVDdLUFMxN0h2MzM2VHZXWHdLd1Nwb3FxdWUxb05JTXhBMmtaZA"
-        },
-        {
-          "title": "明天天氣／明一早急變天！ 水氣轟「7縣市」雨最猛",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vYTkwZXRBVGxoQ2IzV0ppWFBRT19vVUZ5ZkJ6T2Rhc3NnUnowVzlnVFhrZXlDN3Z1VlJ6ZlAyNDNaRWdySTcycjBYV0YxUmVFMzhhU1ZLN1pNdDdSSUhkalRjOFpLUFV2Sy1pcw?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 11:35:00 GMT",
-          "content": "明天天氣／明一早急變天！ 水氣轟「7縣市」雨最猛  TVBS新聞網",
-          "source": "TVBS",
-          "guid": "CBMibEFVX3lxTE1vYTkwZXRBVGxoQ2IzV0ppWFBRT19vVUZ5ZkJ6T2Rhc3NnUnowVzlnVFhrZXlDN3Z1VlJ6ZlAyNDNaRWdySTcycjBYV0YxUmVFMzhhU1ZLN1pNdDdSSUhkalRjOFpLUFV2Sy1pcw"
-        },
-        {
-          "title": "北台灣明濕冷探13度 冷空氣接力再降溫 時間曝光",
-          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOdmpZcXk1S1VibjBEQTd0dDZlVTRxQzZYY0VrUDlHdjNUS05EelFFVzBUbk1hZ01Pak1uOWV4RXc0UTBvYnRFZDR4dWdPSXU4TUlVbFhrVWdKZGNqUDBVTV93dmF6UUVWcTN1cExXSFFpWXk1WU00all3MTBkOHdZSDdJQ0xxd01wRktadE9GbXZfc1hPbXBlZDFHYzcyZEt6VmFqZW5ObXBPenFyamhkOFhCaHlyTlBZbmFmemNkUVpiRjlsUVdYRWtocnpTX3hiOGZ0b2pHb2lFZXMzU19yOWFVUHItMExKQ2xwNVo0Y0hPdVEzNktZZ2FNTFROZndFRkNEVzRqdFR2WDQtV0lrREZtX1dEUExNQ1JKRy1SOThtU0wyN2k3bW1CNjRlNkc2TDFHV0d1NDRIUGtpWTlnZnNUMmpMc2hzam84akp0TzBCbUMtckFieHRxdw?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 11:00:13 GMT",
-          "content": "北台灣明濕冷探13度 冷空氣接力再降溫 時間曝光  facebook.com",
-          "source": "facebook.com",
-          "guid": "CBMi2wJBVV95cUxOdmpZcXk1S1VibjBEQTd0dDZlVTRxQzZYY0VrUDlHdjNUS05EelFFVzBUbk1hZ01Pak1uOWV4RXc0UTBvYnRFZDR4dWdPSXU4TUlVbFhrVWdKZGNqUDBVTV93dmF6UUVWcTN1cExXSFFpWXk1WU00all3MTBkOHdZSDdJQ0xxd01wRktadE9GbXZfc1hPbXBlZDFHYzcyZEt6VmFqZW5ObXBPenFyamhkOFhCaHlyTlBZbmFmemNkUVpiRjlsUVdYRWtocnpTX3hiOGZ0b2pHb2lFZXMzU19yOWFVUHItMExKQ2xwNVo0Y0hPdVEzNktZZ2FNTFROZndFRkNEVzRqdFR2WDQtV0lrREZtX1dEUExNQ1JKRy1SOThtU0wyN2k3bW1CNjRlNkc2TDFHV0d1NDRIUGtpWTlnZnNUMmpMc2hzam84akp0TzBCbUMtckFieHRxdw"
-        }
-      ]
-    },
-    {
-      "topic": "中共解放軍高層清洗與張又俠事件",
-      "synthesis": {
-        "title": "中共解放軍高層人事變動與張又俠事件引發關注",
-        "summary": "近期，中國解放軍高層出現一系列人事變動與調查，其中最高級將領之一的張又俠上將受到調查與官媒批評。張又俠與中共領導人習近平家族有深厚淵源，此事件引發國際社會對於中共政治穩定與軍事決策的廣泛關注，美國前總統川普則對此表示不擔心台灣受影響。",
-        "factList": [
-          "中國解放軍高層發生清洗/調查事件。",
-          "解放軍最高級將領之一的張又俠受到調查/批評。",
-          "張又俠現年75歲，是除習近平外解放軍中實際排名最高的將領。",
+          "中國解放軍高層將領張又俠正被調查。",
+          "張又俠現年75歲。",
+          "他是除習近平外，中國解放軍中實際排名最高的將領。",
           "張又俠的父親張宗遜是中共開國上將，曾與習近平的父親並肩作戰。",
-          "官媒對張又俠進行批評，指其「造成極大破壞」。",
-          "美國前國安顧問沙利文對習近平處理與其有長期關係的人感到震驚並引發疑問。",
-          "此次共軍高層事件引發外界關注。",
-          "美國前總統川普就此事件表示不擔心台灣受影響。"
+          "中國官媒批評張又俠「造成極大破壞」。",
+          "此次共軍高層清洗事件引發國際關注。",
+          "前美國國安顧問沙利文對此事件發表評論。",
+          "前美國總統川普對此事件發表評論。"
         ],
         "viewpointDifferences": [
           {
             "source": "BBC中文",
-            "viewpoint": "BBC中文強調張又俠作為「紅二代」與習近平的特殊關係，並將此次調查解讀為「紅二代」世交神話的破滅，同時引述美國前國安顧問沙利文的觀點，指出習近平對長期盟友下手的震驚與疑慮，凸顯事件的嚴重性及其背後可能的政治鬥爭。雖然標題提及「七宗罪」，但提供的內容並未詳細說明。"
+            "viewpoint": "該報導強調習近平對一位與自己有如此長期關係之人採取行動的「震驚性」，並引發許多疑問，暗示「紅二代」世交神話的破滅。報導也著重於張又俠在解放軍中的高階地位及其與習近平家族的深厚歷史淵源。"
           },
           {
             "source": "華視新聞網",
-            "viewpoint": "華視新聞網將此事件定調為「共軍高層清洗」，並將焦點連結到對台灣的潛在影響，透過報導美國前總統川普對於「不擔心台灣受影響」的發言，呈現此事件在國際關係特別是台海議題上的關注面向。"
+            "viewpoint": "報導的重點在於共軍高層清洗所引發的國際關注，特別是前美國總統川普對此事件的看法，即他不擔心台灣會受到影響，從而將事件與台海安全議題聯繫起來。"
           }
         ],
-        "balancedContent": "近期，中國解放軍高層出現一系列人事變動與調查，其中備受矚目的是解放軍最高級將領之一的張又俠上將。現年75歲的張又俠，在解放軍中被視為除中央軍委主席習近平之外，實際排名最高的將領。他的父親張宗遜是中共開國上將，曾與習近平的父親習仲勛並肩作戰，因此張又俠與習近平之間存在著深厚的「紅二代」世交關係。儘管有此長期緊密連結，張又俠仍受到調查，且官媒對其進行嚴厲批評，指控其「造成極大破壞」。\n\n前美國國安顧問沙利文對此事件表達震驚，認為習近平對與自己有如此長期關係的人採取行動，令人費解並引發許多疑問。此一事件不僅在中國內部引發廣泛討論，也引起國際社會的高度關注，外界普遍將其解讀為中共領導人對軍隊的進一步整肅與掌控。針對共軍高層的變動，美國前總統川普也表達了看法，他表示並不擔心此事件會對台灣造成影響。此次解放軍高層變動事件的具體細節與後續影響，仍是各界持續關注的焦點。",
+        "balancedContent": "中國解放軍高層將領張又俠正接受調查，此事件已引起國際社會的廣泛關注。現年75歲的張又俠，在解放軍中被視為除國家主席習近平之外，實際排名最高的將領。值得注意的是，張又俠的父親張宗遜曾是中共開國上將，並與習近平的父親有過並肩作戰的經歷，顯示兩家族間淵源深厚。中國官媒對張又俠的批評，指其「造成極大破壞」。\n\n此次高層清洗的發展，促使國際分析人士與前任官員發表看法。前美國國安顧問沙利文表示，習近平對一位與自己有如此長期關係的人士採取行動，這令人震驚並引發了許多疑問。同時，前美國總統川普也對此事置評，指出他並不擔心台灣會因此受到影響。",
         "isCached": false
       },
       "originalArticles": [
@@ -321,89 +276,229 @@
       ]
     },
     {
-      "topic": "台灣軍事防衛能力強化",
+      "topic": "台灣7.4級地震",
       "synthesis": {
-        "title": "台灣軍事防衛能力多面向進展",
-        "summary": "台灣近期在軍事防衛能力強化上展現多面向進展。措施包含加速升級海上雷達與監控系統，接收M1A2T新型主戰戰車，以及推動義務役參與重要實兵演訓，以提升整體防衛韌性。",
+        "title": "台灣東部發生規模7.4級強震，數百人受困",
+        "summary": "台灣東部地區今日遭遇芮氏規模7.4級強震，為數十年來、甚至是25年來襲擊台灣的最強地震。此次地震導致超過700人受困，搜救隊正積極展開救援行動。",
         "factList": [
-          "根據日經報導，台灣正加快強化海上雷達與監控系統。",
-          "第三批28輛M1A2T主戰戰車將運抵台灣。",
-          "義務役將投入「聯勇操演」。"
+          "台灣東部發生芮氏規模7.4級地震。",
+          "此次地震是台灣數十年來最強烈的一次，亦為25年來最強地震。",
+          "超過700人因地震受困於東部地區。",
+          "搜救隊正努力接觸並救援受困者。"
         ],
         "viewpointDifferences": [
           {
-            "source": "自由軍武頻道",
-            "viewpoint": "該報導引述日經指出台灣「加快腳步」強化海上雷達與監控系統，強調防衛能力提升的急迫性與進展速度。"
+            "source": "CNN (Article 1)",
+            "viewpoint": "該報導的標題使用了「致命性」（deadly）一詞，強調地震可能帶來的嚴重傷亡後果，儘管其內文主要集中於報導受困人數與搜救行動。"
           },
           {
-            "source": "Yahoo新聞",
-            "viewpoint": "報導重點為軍事硬體裝備交付的具體進度，立場較為中性，僅呈現事實訊息。"
-          },
-          {
-            "source": "公視新聞",
-            "viewpoint": "報導義務役參與操演的事實，並引用民意代表王定宇的評論，將此事件詮釋為「邁向戰力整合里程碑」，強調其對於整體戰力整合的重要性。"
+            "source": "CNN (Article 2)",
+            "viewpoint": "該報導更著重於強調地震的確切規模（7.4級）及其為「25年來最強」的歷史意義與強度，呈現較為客觀的數據陳述。"
           }
         ],
-        "balancedContent": "綜合報導，台灣近期正從多方面著手強化其軍事防衛能力。根據《日經亞洲》的報導，台灣目前正加快腳步強化海上雷達與監控系統，以提升對周邊海域的偵測與監控能力。在軍備更新方面，第三批28輛M1A2T主戰戰車也預計將陸續運抵台灣，持續補充並升級國軍的地面作戰裝備。此外，為提升整體戰力及義務役訓儲能量，國防部規劃將義務役投入重要的「聯勇操演」實兵演訓。民意代表王定宇對此表示，這項舉措是台灣邁向戰力整合的重要里程碑。這些發展顯示台灣在軟硬體設備更新、人員訓練與整合方面，皆有持續性的投入與進展，以期強化國土防衛能力。",
+        "balancedContent": "台灣東部地區於近期發生一場芮氏規模達7.4級的強烈地震，這不僅是數十年來、更是過去25年來襲擊台灣最強的一次地震。此次強震對當地造成顯著影響，據報導指出，目前已有超過700人受困於東部地區。面對此嚴峻情勢，各搜救隊正全力以赴，積極展開救援行動，努力克服困難以接觸並協助所有受困民眾。此次地震的後續影響與救援進度仍持續受到各界關注。",
         "isCached": false
       },
       "originalArticles": [
         {
-          "title": "日經：台灣加快腳步強化海上雷達與監控系統",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NMnVTZnI2REhsUGRzMHh6ZVNQVVBNTXI4Y2V2dTZtODNTZjFWcTdHZDBOSjBvRnc3aHB1NFdKbkVkQzJwTGM1YUdIUkowLS1oOHpRX3Zjd0lfWmdDTHhYV9IBZkFVX3lxTFA1RVFZNHd3OTBFNTRMTzZuNk1jcnE5Rm5YTmlZbmg5LUd0NGpuQmZlb3Y3UHJxS0RodHFZTGJIWGtad0NXcnh6MWREYUJ5T1dQZmNVNGtzVjhjdTJ1LUl1X0dPVm5lUQ?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 13:39:00 GMT",
-          "content": "日經：台灣加快腳步強化海上雷達與監控系統  自由軍武頻道",
-          "source": "自由軍武頻道",
-          "guid": "CBMiYEFVX3lxTE1NMnVTZnI2REhsUGRzMHh6ZVNQVVBNTXI4Y2V2dTZtODNTZjFWcTdHZDBOSjBvRnc3aHB1NFdKbkVkQzJwTGM1YUdIUkowLS1oOHpRX3Zjd0lfWmdDTHhYV9IBZkFVX3lxTFA1RVFZNHd3OTBFNTRMTzZuNk1jcnE5Rm5YTmlZbmg5LUd0NGpuQmZlb3Y3UHJxS0RodHFZTGJIWGtad0NXcnh6MWREYUJ5T1dQZmNVNGtzVjhjdTJ1LUl1X0dPVm5lUQ"
+          "title": "Hundreds stranded after deadly 7.4 magnitude quake hits Taiwan",
+          "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html",
+          "pubDate": "",
+          "content": "Rescue teams are trying to reach more than 700 people stranded in eastern Taiwan following the strongest earthquake to hit the island in decades.",
+          "source": "CNN",
+          "guid": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html"
         },
         {
-          "title": "第3批28輛M1A2T 將運抵台灣",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXFQam13Yi1ENmlwSEQ0UGdSeVh3MmJDM1FXN2gwa1U4bXhzeXM2eEQ2bDB0dURtZ0FuUWx5UnNVNk9PTzFsT3dIZTI2bkJQZWxCclRMS2hLVENxU0VqbHBGU2NlWXBEUll1WHQzSVZra3lqNEIyeWpEVVMtdFhmU3REbWxIblh4Y2hrZkhnQzl3TDhESlp2bXdlWHREak5Icng0N055cVpzYW9DSktEQ0VZLWFfa05tMy1SRDBSSQ?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 13:18:15 GMT",
-          "content": "第3批28輛M1A2T 將運抵台灣  Yahoo新聞",
-          "source": "Yahoo新聞",
-          "guid": "CBMivwFBVV95cUxPaXFQam13Yi1ENmlwSEQ0UGdSeVh3MmJDM1FXN2gwa1U4bXhzeXM2eEQ2bDB0dURtZ0FuUWx5UnNVNk9PTzFsT3dIZTI2bkJQZWxCclRMS2hLVENxU0VqbHBGU2NlWXBEUll1WHQzSVZra3lqNEIyeWpEVVMtdFhmU3REbWxIblh4Y2hrZkhnQzl3TDhESlp2bXdlWHREak5Icng0N055cVpzYW9DSktEQ0VZLWFfa05tMy1SRDBSSQ"
-        },
-        {
-          "title": "義務役將投入「聯勇操演」 王定宇：邁向戰力整合里程碑",
-          "link": "https://news.pts.org.tw/article/793348",
-          "pubDate": "2026-02-01T11:57:18.000Z",
-          "content": "",
-          "source": "公視新聞",
-          "guid": "https://news.pts.org.tw/article/793348"
+          "title": "7.4 magnitude quake hits Taiwan, strongest in 25 years",
+          "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/index.html",
+          "pubDate": "",
+          "content": "A major earthquake has hit the east coast of Taiwan with a magnitude of 7.4, the strongest on the island in 25 years.",
+          "source": "CNN",
+          "guid": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/index.html"
         }
       ]
     },
     {
-      "topic": "北市大學墜樓事件",
+      "topic": "委內瑞拉局勢與台灣國防",
       "synthesis": {
-        "title": "北市大學校園墜樓事件：婦人送醫搶救",
-        "summary": "台北市一所大學校園今日發生墜樓事件。一名婦人倒臥地面重傷，經緊急送醫搶救。目前傷者身份與墜樓原因警方正進一步調查釐清中。",
+        "title": "委內瑞拉局勢的國際影響與對台灣國防的啟示",
+        "summary": "委內瑞拉局勢近期引發國際社會高度關注，美國對該國的施壓被分析為美中地緣競爭的體現，並影響全球能源市場。台灣國防部亦以委內瑞拉為鑑，強調加速建構「台灣之盾」以強化國防自主的重要性。",
         "factList": [
-          "台北市一所大學校園發生墜樓事件。",
-          "墜樓者為一名女性。",
-          "該名女性重傷，已被送醫搶救。",
-          "有媒體指出事發地點為國立臺灣師範大學公館校區。",
-          "有報導提及傷者為一名7旬婦人。",
-          "部分報導指出傷者為當地居民。",
-          "傷者被指出全身骨折。",
-          "警方已介入調查事件原因。"
+          "委內瑞拉局勢持續受到國際關注。",
+          "美國對委內瑞拉施加壓力。",
+          "台灣國防部以委內瑞拉局勢為借鏡，思考國防策略。"
         ],
         "viewpointDifferences": [
           {
-            "source": "ETtoday (第一篇報導)",
-            "viewpoint": "明確指出事發地點為「北市師大分部」，並提及傷者為「當地居民」，提供較具體的背景資訊。"
+            "source": "BBC中文",
+            "viewpoint": "將美國對委內瑞拉的施壓解讀為美中地緣競爭深化的預兆，並指出其短期內已推升油價、對全球能源市場發出警訊，同時預測將使委內瑞拉經濟雪上加霜。"
           },
           {
-            "source": "TVBS",
-            "viewpoint": "報導中提及傷者為「7旬女傷者」且「全身骨折」，提供了傷者年齡及傷勢的具體描述。"
-          },
-          {
-            "source": "ETtoday (第二篇報導)",
-            "viewpoint": "使用「疑似墜樓」字眼，並描述「女倒臥地面」，語氣上顯示事件仍待釐清，地點資訊則較為概括地提及為「北市國立大學分部」。"
+            "source": "僑務電子報",
+            "viewpoint": "報導台灣國防部將委內瑞拉局勢視為重要借鑑，強調加速打造「台灣之盾」的重要性，以強化台灣的國防能力。"
           }
         ],
-        "balancedContent": "台北市一所大學校園今日上午驚傳墜樓事件。根據部分媒體報導，事發地點位於國立臺灣師範大學公館校區。一名婦人被發現倒臥地面，現場人員立即將其送醫搶救。有報導指出，該名傷者為一名7旬女性，亦有媒體稱其為當地居民。傷者經初步診斷，全身多處骨折，傷勢嚴重，目前仍在醫院接受緊急治療。警方已介入調查，將進一步釐清墜樓的確切原因及事件經過。",
+        "balancedContent": "近期，委內瑞拉局勢持續受到國際社會的高度關注，其中美國對該國的施壓是核心焦點。據BBC中文網的分析，此舉不僅預示著美中地緣競爭的深化，更在短期內推升了全球油價達3%，對全球能源市場發出警訊，並預期將使委內瑞拉的經濟狀況雪上加霜。\n\n與此同時，台灣方面也密切關注委內瑞拉情勢的發展。僑務電子報報導，台灣國防部已將委內瑞拉的發展視為重要借鑑，並藉此凸顯加速打造「台灣之盾」的重要性，以期進一步加強台灣的自我防衛能力與國家安全。",
+        "isCached": false
+      },
+      "originalArticles": [
+        {
+          "title": "特朗普准軍事行動封鎖委內瑞拉清理拉美後院  是否危及中國石油供應？",
+          "link": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 25 Dec 2025 07:39:15 GMT",
+          "content": "美國對委內瑞拉的施壓，背後預示美中地緣競爭的深化。短期內，封鎖已推升油價 3%，全球能源市場警鈴大作。對委內瑞拉來說，經濟恐雪上加霜。",
+          "source": "BBC中文",
+          "guid": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad#5"
+        },
+        {
+          "title": "以委內瑞拉為鑒 國防部：凸顯加速打造台灣之盾重要|國防",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMNDl1akhtemFoSzBDRmlZR18xX1Q5TC1zLUNtVlVhZ1pLc1V5cmhVRTNDZ1lLVGJHbW8weDEwUjNhWmJLdUF2QS0xaw?oc=5",
+          "pubDate": "Sun, 01 Feb 2026 19:30:00 GMT",
+          "content": "以委內瑞拉為鑒 國防部：凸顯加速打造台灣之盾重要|國防  僑務電子報",
+          "source": "僑務電子報",
+          "guid": "CBMiS0FVX3lxTFBMNDl1akhtemFoSzBDRmlZR18xX1Q5TC1zLUNtVlVhZ1pLc1V5cmhVRTNDZ1lLVGJHbW8weDEwUjNhWmJLdUF2QS0xaw"
+        }
+      ]
+    },
+    {
+      "topic": "陸配立委國籍爭議",
+      "synthesis": {
+        "title": "陸配立委國籍爭議升溫 內政部要求放棄原籍或由立院解職",
+        "summary": "陸配立委李貞秀的國籍問題近期引發社會關注。內政部已明確要求其放棄原屬國籍，並指出若未放棄，應由立法院將其解職。此事件在李貞秀預計於2月3日就職前夕，引發了對國家安全與程序合法的討論。",
+        "factList": [
+          "陸配立委李貞秀的國籍問題引發爭議。",
+          "李貞秀預計於2月3日就職。",
+          "內政部已針對此國籍爭議表態。",
+          "內政部要求李貞秀放棄其原屬國籍。",
+          "內政部指出，若李貞秀未放棄國籍，應由立法院依規定將其解職。"
+        ],
+        "viewpointDifferences": [
+          {
+            "source": "自由時報",
+            "viewpoint": "側重於將此事件與「國家安全疑慮」連結，暗示陸配立委的背景可能引發政府機關在資訊傳遞上的潛在問題，強調其安全層面的挑戰性。"
+          },
+          {
+            "source": "ETtoday",
+            "viewpoint": "強調內政部的「最後通牒」，聚焦於官方要求和若未放棄國籍的具體法律及程序後果（即由立法院解職），呈現內政部在此事件中的堅定立場，著重於程序的合法性和官方執行力。"
+          }
+        ],
+        "balancedContent": "陸配立委李貞秀的國籍問題近期引發各界關注。據悉，李貞秀預計於2月3日就職，然而其國籍狀況成為爭議焦點。內政部已明確表態，要求李貞秀委員應依法放棄其原屬國籍。內政部進一步指出，若李貞秀未能完成放棄國籍的手續，依現行法規應由立法院將其解職。此事件不僅觸及陸配擔任民意代表的資格問題，也引發部分人士對於國家安全、資訊傳遞與程序合法性等面向的討論。",
+        "isCached": false
+      },
+      "originalArticles": [
+        {
+          "title": "《TAIPEI TIMES》 China-born legislator-at-large raises security issues",
+          "link": "https://news.ltn.com.tw/news/focus/breakingnews/5329386",
+          "pubDate": "Mon, 02 Feb 2026 03:00:00 +0800",
+          "content": "By Chung Li-hua / Staff reporter\r\n\r\nGovernment officials and agencies might refuse to respond to leg...…",
+          "source": "自由時報",
+          "guid": "https://news.ltn.com.tw/news/focus/breakingnews/5329386"
+        },
+        {
+          "title": "陸配李貞秀2/3就職！內政部下最後通牒：未放棄國籍應由立院解職",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFTTdEQ2JsQjBYSjZVMG00REc1STNYSlJVLVlXdWdiektZbThzTDlNVUFuUXYyRVRaSnh3b2JEdkJrMVZvMVE4aW9CLVJ3VS1qOGVhWUNKRlZQckxHQlHSAWhBVV95cUxOZnY1dFFFNXVEZDNKajFhZWV6OGRxdjNJaVV0dnlFYlBudVFmb2xBcUdKMXdOR1Y4RVN2QU1haS1QNXVXbDVuVXA3Uk9TeGQ0YUpnTmM1SmN0TEpkMVlDaEUtZVB0aGdveg?oc=5",
+          "pubDate": "Sun, 01 Feb 2026 15:57:00 GMT",
+          "content": "陸配李貞秀2/3就職！內政部下最後通牒：未放棄國籍應由立院解職  ETtoday新聞雲",
+          "source": "ETtoday",
+          "guid": "CBMiXkFVX3lxTFBFTTdEQ2JsQjBYSjZVMG00REc1STNYSlJVLVlXdWdiektZbThzTDlNVUFuUXYyRVRaSnh3b2JEdkJrMVZvMVE4aW9CLVJ3VS1qOGVhWUNKRlZQckxHQlHSAWhBVV95cUxOZnY1dFFFNXVEZDNKajFhZWV6OGRxdjNJaVV0dnlFYlBudVFmb2xBcUdKMXdOR1Y4RVN2QU1haS1QNXVXbDVuVXA3Uk9TeGQ0YUpnTmM1SmN0TEpkMVlDaEUtZVB0aGdveg"
+        }
+      ]
+    },
+    {
+      "topic": "澳洲網球公開賽",
+      "synthesis": {
+        "title": "2026年澳洲網球公開賽：艾卡拉茲奪冠並達成生涯大滿貫，喬科維奇展望未來",
+        "summary": "在2026年澳洲網球公開賽中，22歲的西班牙選手艾卡拉茲擊敗喬科維奇，生涯首次奪得澳網男單冠軍。此次勝利也使艾卡拉茲成為公開賽年代最年輕完成四大滿貫的男選手，寫下歷史新頁。儘管落敗，喬科維奇仍堅定表示將持續追逐個人第25座大滿貫冠軍的夢想。",
+        "factList": [
+          "澳洲網球公開賽是職業網球四大「大滿貫」賽事之一。",
+          "西班牙選手艾卡拉茲（Carlos Alcaraz）在2026年澳洲網球公開賽男單決賽中獲勝。",
+          "艾卡拉茲此次奪冠是他生涯首次贏得澳洲網球公開賽冠軍。",
+          "艾卡拉茲擊敗了喬科維奇（Novak Djokovic），比賽共進行四盤。",
+          "此役勝利後，艾卡拉茲成為公開賽年代最年輕完成生涯大滿貫的男選手。",
+          "喬科維奇表示他並未放棄挑戰個人第25座大滿貫冠軍的夢想。"
+        ],
+        "viewpointDifferences": [
+          {
+            "source": "自由時報 (Article 1)",
+            "viewpoint": "強調整艾卡拉茲寫下的歷史性成就，即成為公開賽年代最年輕完成生涯大滿貫的男選手，並以「JOB FINISHED」等詞語凸顯其里程碑意義。"
+          },
+          {
+            "source": "CNN (Article 2)",
+            "viewpoint": "以「快訊」形式提供關於澳洲網球公開賽作為大滿貫賽事的基本事實，內容客觀中立，主要著重於賽事本身的背景介紹。"
+          },
+          {
+            "source": "自由時報 (Article 3)",
+            "viewpoint": "側重於喬科維奇在決賽中「功虧一簣」的挫敗感及其對未來的展望，包括他雖敗猶榮地表示將繼續追逐第25座大滿貫冠軍的夢想。"
+          },
+          {
+            "source": "TVBS (Article 4)",
+            "viewpoint": "內容極為簡短，僅作為艾卡拉茲生涯大滿貫相關新聞的索引，未提供具體觀點或深入報導。"
+          }
+        ],
+        "balancedContent": "2026年澳洲網球公開賽男單決賽落幕，西班牙網球好手艾卡拉茲（Carlos Alcaraz）以四盤擊敗資深名將喬科維奇（Novak Djokovic），生涯首次奪得澳洲網球公開賽冠軍。這場勝利不僅為22歲的艾卡拉茲贏得個人首座澳網金盃，更使他寫下歷史新頁，成為公開賽年代最年輕完成網球四大滿貫賽事（澳洲網球公開賽、法國網球公開賽、溫布頓網球錦標賽、美國網球公開賽）的男選手，完成了生涯大滿貫的壯舉。\n\n澳洲網球公開賽作為職業網球四大「大滿貫」賽事之一，向來備受全球矚目。此次決賽艾卡拉茲的表現引發各界討論。儘管未能成功挑戰個人第25座大滿貫冠軍，喬科維奇在賽後仍展現運動家精神，表示他對奪冠的夢想始終抱持信念，不會輕言放棄。這場新舊世代的對決，不僅展現了頂尖選手的精湛球技，也為未來的網壇格局帶來更多想像空間。",
+        "isCached": false
+      },
+      "originalArticles": [
+        {
+          "title": "《TAIPEI TIMES》 Alcaraz wins first Australian Open title",
+          "link": "https://news.ltn.com.tw/news/focus/breakingnews/5329387",
+          "pubDate": "Mon, 02 Feb 2026 03:00:00 +0800",
+          "content": "‘JOB FINISHED’:Alcaraz became the youngest man in the Open era to win all four majors, surpassing Ra...…",
+          "source": "自由時報",
+          "guid": "https://news.ltn.com.tw/news/focus/breakingnews/5329387"
+        },
+        {
+          "title": "Australian Open Fast Facts",
+          "link": "https://www.cnn.com/2013/10/30/world/australian-open-fast-facts/index.html",
+          "pubDate": "",
+          "content": "Read CNN's Fast Facts about the Australian Open, one of four competitions that make up the \"Grand Slam\" in professional tennis.",
+          "source": "CNN",
+          "guid": "https://www.cnn.com/2013/10/30/world/australian-open-fast-facts/index.html"
+        },
+        {
+          "title": "澳網》喬科維奇不放棄大滿貫25冠夢想：我始終相信能做到！",
+          "link": "https://sports.ltn.com.tw/news/breakingnews/5329377",
+          "pubDate": "Sun, 01 Feb 2026 22:37:20 +0800",
+          "content": "喬科維奇（Novak Djokovic）在2026年澳洲網球公開賽功虧一簣，4盤遭到22歲西班牙球王艾卡拉茲（Carlos Alcaraz）逆襲，儘管墨爾本公園男單決戰1...…",
+          "source": "自由時報",
+          "guid": "https://sports.ltn.com.tw/news/breakingnews/5329377"
+        },
+        {
+          "title": "艾卡拉茲生涯大滿貫 相關新聞報導 第1頁",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTRBb1JuLWw5a1NrSUcwRjlsY0J5UzNYWWZHdF82OEYzNWxsamw0Ml9KelVvcDByd2lxcXVoM005R2w3ZWo1Y2hlRUZoN0psSWptNTF3aXJVY3FDX0d0bldvby1FT2IwOGQ1LVYyaTFFREtxakNhMmRyS1hCTE1RUE15RWxJZ3ljWHB4N05tU3ZoakZod0Y4a3hCZWp0aDFnVTNic1pLajhwTnpVTjlKbkFNQlBqQWh3bmZXREMtVmFsRW5ZMXFGSA?oc=5",
+          "pubDate": "Sun, 01 Feb 2026 12:53:57 GMT",
+          "content": "艾卡拉茲生涯大滿貫 相關新聞報導 第1頁  TVBS新聞網",
+          "source": "TVBS",
+          "guid": "CBMiyAFBVV95cUxQcTRBb1JuLWw5a1NrSUcwRjlsY0J5UzNYWWZHdF82OEYzNWxsamw0Ml9KelVvcDByd2lxcXVoM005R2w3ZWo1Y2hlRUZoN0psSWptNTF3aXJVY3FDX0d0bldvby1FT2IwOGQ1LVYyaTFFREtxakNhMmRyS1hCTE1RUE15RWxJZ3ljWHB4N05tU3ZoakZod0Y4a3hCZWp0aDFnVTNic1pLajhwTnpVTjlKbkFNQlBqQWh3bmZXREMtVmFsRW5ZMXFGSA"
+        }
+      ]
+    },
+    {
+      "topic": "北市師大分部墜樓",
+      "synthesis": {
+        "title": "台北市大學分部墜樓事件：一名女子受傷送醫搶救",
+        "summary": "台北市一所大學分部今日發生一起墜樓意外，一名女子墜落後受有重傷。傷者隨即被緊急送往醫院進行救治，目前仍在搶救中，事故原因及詳細經過尚待警方進一步調查釐清。",
+        "factList": [
+          "台北市一處大學分部發生墜樓事件。",
+          "墜樓者為一名女子。",
+          "女子受有重傷。",
+          "女子已送醫搶救。"
+        ],
+        "viewpointDifferences": [
+          {
+            "source": "ETtoday (文章1)",
+            "viewpoint": "明確指出事發地點為「師大分部」，並報導初步查出傷者為「當地居民」，強調傷勢為「重傷」。"
+          },
+          {
+            "source": "TVBS (文章2)",
+            "viewpoint": "報導傷者年齡約為「7旬」，並具體提及傷勢為「全身骨折」，對事發地點使用較籠統的「北市某大學」稱呼。"
+          },
+          {
+            "source": "ETtoday (文章3)",
+            "viewpoint": "將事發地點描述為「北市國立大學分部」，報導中使用了「疑似墜樓」一詞，並描述傷者當時「倒臥地面」的狀況。"
+          }
+        ],
+        "balancedContent": "台北市一所大學分部今日驚傳墜樓意外。據媒體報導，事發地點位於師大分部（或稱北市國立大學分部），一名年約7旬的女子於該處墜落。傷者為當地居民，被發現時倒臥地面，全身多處骨折，傷勢嚴重。消防與救護人員獲報後迅速趕抵現場，立即將受傷女子送往醫院進行緊急搶救。目前該名女子仍在醫院接受治療，警方已介入調查，以釐清此次墜樓事件的確切原因及詳細經過。",
         "isCached": false
       },
       "originalArticles": [
@@ -434,72 +529,29 @@
       ]
     },
     {
-      "topic": "矢板明夫挑戰減重11公斤",
+      "topic": "毛嘉慶性騷擾指控",
       "synthesis": {
-        "title": "矢板明夫一個月內成功減重11公斤 引發外界關注",
-        "summary": "台灣智庫執行長矢板明夫近日分享其減重成果，表示在約一個月內成功減去11公斤。他將此次瘦身成功歸因於三大「秘密武器」，其中包含強烈的動機與醫療協助。此次減重挑戰因其驚人的成效和相關動機而受到媒體關注。",
+        "title": "媒體人毛嘉慶涉性騷擾爭議，劉芩妤出面證實感受不適",
+        "summary": "媒體人毛嘉慶近期被指控涉嫌性騷擾，對象為民眾黨女性志工劉芩妤。劉芩妤已公開表示，她對此事件感到「確實不舒服」。此事件在政壇及社會上引發關注。",
         "factList": [
-          "矢板明夫在約一個月內成功減重11公斤。",
-          "他將此次減重成功歸因於「三大秘密武器」。",
-          "其中包含「強烈到不容失敗的動機」及「醫療協助」。",
-          "他曾設下「未瘦10%賠200萬」的減重條件。",
-          "矢板明夫在臉書上分享了其減重經驗。"
-        ],
-        "viewpointDifferences": [
-          {
-            "source": "ETtoday",
-            "viewpoint": "該報導強調「沒瘦10%賠200萬」的挑戰條件，並以「暴瘦」形容其減重成果，著重於話題性和戲劇性，暗示高額賭注是主要驅動力。"
-          },
-          {
-            "source": "自由時報",
-            "viewpoint": "該報導提及矢板明夫在臉書分享減重經驗，並具體點出部分「秘密武器」，如「強烈動機」與「醫療協助」，報導風格偏向描述其分享內容與成功因素。"
-          }
-        ],
-        "balancedContent": "台灣智庫執行長矢板明夫近日透過社群媒體分享個人減重成果，他表示在約一個月的時間內，成功減去了11公斤。此消息一出，隨即引發各界關注與討論。\n\n矢板明夫將此次瘦身成功歸因於他所稱的「三大秘密武器」。據他本人透露，這些關鍵因素包括「強烈到不容失敗的動機」以及「醫療協助」。有媒體報導進一步指出，矢板明夫曾設定一個具體條件，即若未能達成減重目標（體重減少10%），將會賠付新台幣200萬元。這項高額承諾也被普遍視為驅動其強烈動機的重要一環。\n\n矢板明夫的減重經驗不僅展現其個人毅力，也引起公眾對於健康管理、減重方法及個人挑戰的討論。",
-        "isCached": false
-      },
-      "originalArticles": [
-        {
-          "title": "沒瘦10%賠200萬！矢板明夫1個月「暴瘦11kg」　3大秘密武器曝",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wWFhHTWZ4NFBNRm1nSW1sX2JlU0ZIMDFZdTZGcjd0YmN1Mm1CaTBZR09ZUjdzSmtUbEZ5UVd0QjVrRmh6OHZkMklJR1A0RGU3RHJYMWtGY0tqMHA2UkHSAWhBVV95cUxPaEJKYnIzb2Q2XzB5MmNwc3M2QkJ1MFN3RXdVeE5lZEJ1My1aN3VtbWpHOXhMWnpvUE4tbnF3LXIwdFZhakxudHlJNnUzS1JZc3lkOW5fSHp6UDdfM2Jxc0pBNGljREtmbA?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 17:19:00 GMT",
-          "content": "沒瘦10%賠200萬！矢板明夫1個月「暴瘦11kg」　3大秘密武器曝  ETtoday新聞雲",
-          "source": "ETtoday",
-          "guid": "CBMiXkFVX3lxTE4wWFhHTWZ4NFBNRm1nSW1sX2JlU0ZIMDFZdTZGcjd0YmN1Mm1CaTBZR09ZUjdzSmtUbEZ5UVd0QjVrRmh6OHZkMklJR1A0RGU3RHJYMWtGY0tqMHA2UkHSAWhBVV95cUxPaEJKYnIzb2Q2XzB5MmNwc3M2QkJ1MFN3RXdVeE5lZEJ1My1aN3VtbWpHOXhMWnpvUE4tbnF3LXIwdFZhakxudHlJNnUzS1JZc3lkOW5fSHp6UDdfM2Jxc0pBNGljREtmbA"
-        },
-        {
-          "title": "短短1個月瘦11公斤！矢板明夫曝「3大秘密武器」",
-          "link": "https://news.ltn.com.tw/news/politics/breakingnews/5329395",
-          "pubDate": "Mon, 02 Feb 2026 00:44:04 +0800",
-          "content": "印太戰略智庫執行長矢板明夫週日（2/1）突然在臉書分享自己的減肥心得，自曝近一個月已經瘦了11公斤，他分享這次有「3大秘密武器」讓他成功減重，分別是「強烈到不容失敗的動機」、「醫...…",
-          "source": "自由時報",
-          "guid": "https://news.ltn.com.tw/news/politics/breakingnews/5329395"
-        }
-      ]
-    },
-    {
-      "topic": "毛嘉慶性騷疑雲",
-      "synthesis": {
-        "title": "毛嘉慶性騷疑雲：「小草女神」劉芩妤證實感受不適",
-        "summary": "名嘴毛嘉慶近日被指控涉嫌性騷擾。民眾黨台中市議員參選人「小草女神」劉芩妤已出面證實，並表示對毛嘉慶的言行感到「確實不舒服」。毛嘉慶目前有意代表民眾黨參選桃園市議員。",
-        "factList": [
-          "名嘴毛嘉慶捲入性騷擾疑雲。",
-          "指控者為被稱為「小草女神」的民眾黨志工/參選人劉芩妤。",
-          "劉芩妤證實對毛嘉慶的行為感到「確實不舒服」。",
-          "指控內容涉及毛嘉慶曾邀約對方「開房間」。",
-          "毛嘉慶有意代表民眾黨參選桃園市中壢選區議員。"
+          "媒體人毛嘉慶被指控涉嫌性騷擾。",
+          "指控對象為民眾黨女性志工劉芩妤，她亦被稱為「小草女神」。",
+          "劉芩妤已公開表示對此事件感到「確實不舒服」。",
+          "報導指出毛嘉慶曾邀約劉芩妤「開房間」。",
+          "毛嘉慶曾有意代表民眾黨參選桃園市中壢區議員。",
+          "劉芩妤為民眾黨提名參選台中市議員的候選人。"
         ],
         "viewpointDifferences": [
           {
             "source": "自由時報",
-            "viewpoint": "該媒體報導強調毛嘉慶「開口約砲」、「脫口邀約對方去開房間」的直接言詞，並以「驚傳」形容事件爆發，語氣較為直接且帶有渲染效果，凸顯事件的震驚性。"
+            "viewpoint": "該報導語氣直接且肯定，明確指出毛嘉慶「曾性騷擾」並「開口約砲」，並強調「被害人終於現身」，傾向以確認性騷擾發生的角度呈現，並聚焦於受害者的表態。"
           },
           {
             "source": "ETtoday",
-            "viewpoint": "該媒體標題使用「疑雲」一詞，語氣相對中性；報導內容聚焦於劉芩妤打破沉默證實感受不適，表述較為簡潔，直接呈現當事人回應。"
+            "viewpoint": "該報導標題使用「性騷疑雲」，語氣上略帶保留，但在內文迅速確認受害者「打破沉默認了」，顯示其報導重點仍放在當事人劉芩妤的公開證實與感受。"
           }
         ],
-        "balancedContent": "名嘴毛嘉慶近日捲入性騷擾疑雲，據報導指出，他曾對一位民眾黨女性志工有不當言行。被指控的對象是目前被稱為「小草女神」的民眾黨台中市議員參選人劉芩妤。劉芩妤已打破沉默，證實確有此事，並表示她對毛嘉慶的言行感到「確實不舒服」。報導中提及的具體指控內容包含毛嘉慶曾邀約對方「開房間」。毛嘉慶目前有意代表台灣民眾黨參選桃園市中壢選區議員。此事件自曝光以來，已引起各界廣泛關注。",
+        "balancedContent": "媒體人毛嘉慶近期捲入性騷擾指控，被指控對象為一名民眾黨女性志工，即被稱為「小草女神」的劉芩妤。據報導，指控內容涉及毛嘉慶曾對劉芩妤提出不當言詞，包括邀約「開房間」。劉芩妤在事發後打破沉默，公開證實她對此事件感到「確實不舒服」。據悉，毛嘉慶曾有意代表台灣民眾黨參選桃園市中壢區議員，而劉芩妤則是民眾黨提名參選台中市議員的候選人。此事件在政治圈及社會上引起廣泛討論與關注。",
         "isCached": false
       },
       "originalArticles": [
@@ -520,96 +572,65 @@
           "guid": "CBMiaEFVX3lxTE5EOTFGZjZOTkdkb3hYWDRpNlNPOTBYZFJaNDVYVWNEVkM1UGcyZmxuQWZrRUZSOFVHUnlleGp4RThUcGVwcXF1Q0pkbUdndl9hVTJYQmdaT0Ixckt5WEhKcUlmNWVWa2xB0gFoQVVfeXFMTkQ5MUZmNk5OR2RveFhYNGk2U085MFhkUlo0NVhVY0RWQzVQZzJmbG5BZmtFRlI4VUdSeWV4anhFOFRwZXBxcXVDSmRtR2d2X2FVMlhCZ1pPQjFyS3lYSEpxSWY1ZVZrbEE"
         }
       ]
-    },
-    {
-      "topic": "TWS高雄演唱會停電意外",
-      "synthesis": {
-        "title": "TWS高雄演唱會發生電力狀況 粉絲以手機燈光應援",
-        "summary": "韓國團體TWS在高雄流行音樂中心舉辦演唱會期間，演出一度因場地電力供應異常而中斷，導致音響設備停止運作或場地變暗。現場粉絲自發性地以手機燈光應援，展現其應變能力。",
-        "factList": [
-          "韓國團體TWS於高雄舉行演唱會。",
-          "演唱會進行期間發生演出中斷。",
-          "現場音響設備停止運作或場地燈光變暗。",
-          "現場粉絲使用手機燈光進行應援。"
-        ],
-        "viewpointDifferences": [
-          {
-            "source": "TVBS",
-            "viewpoint": "該報導強調「音響停了」及「疑停電」等具體狀況，並特別提及粉絲自發性的「星海應援」，凸顯粉絲的應變與支持。"
-          },
-          {
-            "source": "自由時報",
-            "viewpoint": "該報導詳細描述場館一度「烏漆麻黑」的視覺情境，並指出粉絲起初誤以為是「彩蛋」的心理反應，同時明確點出演出地點為高雄流行音樂中心。"
-          }
-        ],
-        "balancedContent": "韓國男團TWS日前在高雄流行音樂中心舉行演唱會。在其中一場演出進行到一半時，現場電力供應出現異常狀況，導致部分音響設備停止運作，舞台與觀眾區一度陷入黑暗。面對突如其來的狀況，現場歌迷展現高度應變能力，紛紛打開手機燈光，形成一片燈海為偶像應援。據部分現場粉絲表示，初期曾誤以為這是演唱會的特殊環節或「彩蛋」。此事件引發外界對演唱會場地設施的關注，並肯定了粉絲的應變與支持。",
-        "isCached": false
-      },
-      "originalArticles": [
-        {
-          "title": "韓團TWS高雄演唱會「音響停了」疑停電粉絲「星海應援」｜TVBS新聞 @TVBSNEWS01│TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5abnJ1VFZSUlh6aVBrbm1DR2h6dmNlcko5NW5ZU3lVRzY5R3lfQXpobS04TVM5SmlaaVQ4VkZwVlUwamlITG50LWIzVm1IaGFXQWE2dzd2ZWo?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 15:36:50 GMT",
-          "content": "韓團TWS高雄演唱會「音響停了」疑停電粉絲「星海應援」｜TVBS新聞 @TVBSNEWS01│TVBS新聞網  TVBS新聞網",
-          "source": "TVBS",
-          "guid": "CBMiWEFVX3lxTE5abnJ1VFZSUlh6aVBrbm1DR2h6dmNlcko5NW5ZU3lVRzY5R3lfQXpobS04TVM5SmlaaVQ4VkZwVlUwamlITG50LWIzVm1IaGFXQWE2dzd2ZWo"
-        },
-        {
-          "title": "TWS唱一半驚傳場館全黑！台粉「手機燈海」照亮高流：以為是彩蛋",
-          "link": "https://ent.ltn.com.tw/news/breakingnews/5329365",
-          "pubDate": "Sun, 01 Feb 2026 22:11:12 +0800",
-          "content": "〔娛樂頻道／綜合報導〕韓國團體「TWS」昨天（31日）起一連兩天在高雄流行音樂中心開唱，今天第二天的演出依舊熱鬧滾滾，結果歌唱到一半，整個場館烏漆麻黑，台下的42（粉絲名）一度以為是彩蛋，紛紛打開手機...…",
-          "source": "自由時報",
-          "guid": "https://ent.ltn.com.tw/news/breakingnews/5329365"
-        }
-      ]
-    },
-    {
-      "topic": "台灣國片《冠軍之路》票房與討論",
-      "synthesis": {
-        "title": "台灣國片《冠軍之路》票房近八千萬 各界關注與包場迴響",
-        "summary": "台灣國片《冠軍之路》近期表現亮眼，票房已接近新台幣八千萬元，顯示國片市場熱潮。該片不僅在商業上取得成功，也吸引了不同層面的關注，並舉辦了多場包場活動，其中導演龍男也親臨與觀眾交流。",
-        "factList": [
-          "台灣國片《冠軍之路》近期上映。",
-          "《冠軍之路》票房已接近新台幣8千萬元。",
-          "《冠軍之路》舉辦了多場包場活動。",
-          "導演龍男曾現身包場座談與觀眾互動。",
-          "國民黨曾包場觀看《冠軍之路》，連勝武亦有出席。"
-        ],
-        "viewpointDifferences": [
-          {
-            "source": "民視新聞網",
-            "viewpoint": "該報導著重於國民黨包場觀影的政治層面，並特別提及連勝武出席，以此作為「不分朝野一起挺台灣」的象徵，強調影片的跨黨派支持與凝聚力。"
-          },
-          {
-            "source": "Yahoo新聞",
-            "viewpoint": "該報導重點在於《冠軍之路》的商業票房表現（近8千萬），並將其置於「台灣國片熱」的整體趨勢中，同時提及導演龍男親自現身包場座談，強調影片與觀眾的互動與市場熱度。"
-          }
-        ],
-        "balancedContent": "台灣國片《冠軍之路》近期上映後，在票房與話題上皆表現亮眼。據統計，該片票房已累積接近新台幣八千萬元，顯示其在國片市場中的商業潛力。這股熱潮也帶動了各界對影片的關注與支持。\n\n為了回應觀眾與支持團體，《冠軍之路》舉辦了多場包場活動。其中一場由國民黨團體發起，並有多位人士出席觀影，包括連勝武在內。此外，導演龍男也親自參與了部分包場座談會，與現場觀眾進行面對面的交流，聽取迴響並分享創作理念。這些活動不僅為影片帶來更多曝光，也突顯了《冠軍之路》在觀眾群體中引起的廣泛共鳴，以及台灣國片整體市場的活絡。",
-        "isCached": false
-      },
-      "originalArticles": [
-        {
-          "title": "不分朝野一起挺台灣！國民黨包場看《冠軍之路》 連勝武也來了",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPcW1IVFdDeUlkbTdiUEM0ZXNqSlZoalp5SmZNSG1DRERfeVFCN0tvcXVBQnJTZFZ0dEJYcUpDTXVWQ1dZYmNXTTdRZkVtbmlSdndEdWNmZW0xUEVjNDI2ZA?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 15:04:04 GMT",
-          "content": "不分朝野一起挺台灣！國民黨包場看《冠軍之路》 連勝武也來了  民視新聞網",
-          "source": "民視新聞網",
-          "guid": "CBMiYEFVX3lxTFBPcW1IVFdDeUlkbTdiUEM0ZXNqSlZoalp5SmZNSG1DRERfeVFCN0tvcXVBQnJTZFZ0dEJYcUpDTXVWQ1dZYmNXTTdRZkVtbmlSdndEdWNmZW0xUEVjNDI2ZA"
-        },
-        {
-          "title": "台灣國片熱! \"冠軍之路\"賣近8千萬 導演龍男現身包場座談",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQZnlMUllaeS1SQWt1Rlo5Z1JIODdoN2ZIU3lKZ2FuU2w5VUJyZ3V2MUwyNmZGbWhWVk9TNHBqV2lxdHRxZlRVV2M4M2VtTkZjczVVNDNET2ZYS01lMUZZaHpVWUJPeVBmeTdnOXRUYUw3WTU4VVBHSmlpdVpkcXpYeUg5V2ZmaXg1SHBGZ3ppTFNWczFqbXA2eWJjbktocjNSZGZQa0FIRVcxdEtQblZ1clR4NmhyOERwTHlaallETm9jT0VCcFFTR0RBek53Mm9WZE9xelhYaXhpOXhuMWFSUjV5WjVLOHgtTHhUbmFKWE13R2VHZ1dKZjFFRlFzcVVINlVwMkFxdXBhbEJzOFZNVTdNaVc5Z3hJYVdTWDJYRHVjRTNkNVFjYlB4ZzRBRFJueDJZd2x0ZUhXSjQxbGNqV1ZscnVkT3Q2RjBubl9wSXhjQUtqWWpRZlg3V092SlJKZHlwMThwQmxZLU15?oc=5",
-          "pubDate": "Sun, 01 Feb 2026 14:37:04 GMT",
-          "content": "台灣國片熱! \"冠軍之路\"賣近8千萬 導演龍男現身包場座談  Yahoo新聞",
-          "source": "Yahoo新聞",
-          "guid": "CBMi7AJBVV95cUxQZnlMUllaeS1SQWt1Rlo5Z1JIODdoN2ZIU3lKZ2FuU2w5VUJyZ3V2MUwyNmZGbWhWVk9TNHBqV2lxdHRxZlRVV2M4M2VtTkZjczVVNDNET2ZYS01lMUZZaHpVWUJPeVBmeTdnOXRUYUw3WTU4VVBHSmlpdVpkcXpYeUg5V2ZmaXg1SHBGZ3ppTFNWczFqbXA2eWJjbktocjNSZGZQa0FIRVcxdEtQblZ1clR4NmhyOERwTHlaallETm9jT0VCcFFTR0RBek53Mm9WZE9xelhYaXhpOXhuMWFSUjV5WjVLOHgtTHhUbmFKWE13R2VHZ1dKZjFFRlFzcVVINlVwMkFxdXBhbEJzOFZNVTdNaVc5Z3hJYVdTWDJYRHVjRTNkNVFjYlB4ZzRBRFJueDJZd2x0ZUhXSjQxbGNqV1ZscnVkT3Q2RjBubl9wSXhjQUtqWWpRZlg3V092SlJKZHlwMThwQmxZLU15"
-        }
-      ]
     }
   ],
   "unclusteredNews": [
+    {
+      "title": "PEUGEOT 408 GT RAPIDE快意馳騁",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fT1NhQTQ4NUlYZDF4bzlCV3NTclpOQTVYdElKZ3VOclBKMTZlWHNycDN1eldyRGM3TjhUczJiNGpfUWJCczQzT09Hd084QlZ0OHRhdGtSbWttUk82YnBpb3hUaFBRdWRQWHN1dWxR?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 19:33:09 GMT",
+      "content": "PEUGEOT 408 GT RAPIDE快意馳騁  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMibkFVX3lxTE5fT1NhQTQ4NUlYZDF4bzlCV3NTclpOQTVYdElKZ3VOclBKMTZlWHNycDN1eldyRGM3TjhUczJiNGpfUWJCczQzT09Hd084QlZ0OHRhdGtSbWttUk82YnBpb3hUaFBRdWRQWHN1dWxR"
+    },
+    {
+      "title": "《TAIPEI TIMES》 AI college alliance sees success, growing enrollments",
+      "link": "https://news.ltn.com.tw/news/focus/breakingnews/5329376",
+      "pubDate": "Mon, 02 Feb 2026 03:00:00 +0800",
+      "content": "By Rachel Lin / Staff reporter\r\n\r\nThe Taiwan Artificial Intelligence College Alliance （TAICA） launch...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/focus/breakingnews/5329376"
+    },
+    {
+      "title": "《TAIPEI TIMES》 More than 95％ support ‘quiet carriage’: THSRC",
+      "link": "https://news.ltn.com.tw/news/focus/breakingnews/5329380",
+      "pubDate": "Mon, 02 Feb 2026 03:00:00 +0800",
+      "content": "NOISY LIST:Among those making noise, 49 percent were people on the phone, 27 percent talking loudly ...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/focus/breakingnews/5329380"
+    },
+    {
+      "title": "《TAIPEI TIMES》 Low cholesterol, risk of dementia are linked: study",
+      "link": "https://news.ltn.com.tw/news/focus/breakingnews/5329385",
+      "pubDate": "Mon, 02 Feb 2026 03:00:00 +0800",
+      "content": "By Tang Shih-ming and Jonathan Chin / Staff reporter, with staff writer\r\n\r\nA study by a Taiwanese do...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/focus/breakingnews/5329385"
+    },
+    {
+      "title": "嘉科二期環評 拚春節前過關",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQlE0OUp1R01PNW0xbTA4c1NGYnJQQmxpai1vSmZZNXo4R2tMa29ucy1TZVZmUmlJTzRmQ1UxNDZ4Zk9tNkdzQ1N3Q1JDQUMwRjVnNFY0b1prQdIBX0FVX3lxTE1aTWliWVlNZHpPT2NtYTVIY1lTZkpwNTVBS2N3ZE14U1I0RDFlbmhUbXpwZzV2VWs4NEo3eThEWmtQMVczcDZCYUNMMC1OMjhEWlhiLWxrcl9UcHF5RmhB?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 18:25:20 GMT",
+      "content": "嘉科二期環評 拚春節前過關  經濟日報",
+      "source": "聯合報",
+      "guid": "CBMiWkFVX3lxTE5GQlE0OUp1R01PNW0xbTA4c1NGYnJQQmxpai1vSmZZNXo4R2tMa29ucy1TZVZmUmlJTzRmQ1UxNDZ4Zk9tNkdzQ1N3Q1JDQUMwRjVnNFY0b1prQdIBX0FVX3lxTE1aTWliWVlNZHpPT2NtYTVIY1lTZkpwNTVBS2N3ZE14U1I0RDFlbmhUbXpwZzV2VWs4NEo3eThEWmtQMVczcDZCYUNMMC1OMjhEWlhiLWxrcl9UcHF5RmhB"
+    },
+    {
+      "title": "優惠好康情報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WVml1VjFwTEVtbVFLZFFjRVFOUDJnVXZnblAwVjUwSGlBSlhiOTREMWx0ZkM1dVRKVjE2MXc5TEJERGwzejRIVTBXYW9pcGJ1V2xmaUZsdGxpYlE5?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 18:21:50 GMT",
+      "content": "優惠好康情報  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMiXEFVX3lxTE1WVml1VjFwTEVtbVFLZFFjRVFOUDJnVXZnblAwVjUwSGlBSlhiOTREMWx0ZkM1dVRKVjE2MXc5TEJERGwzejRIVTBXYW9pcGJ1V2xmaUZsdGxpYlE5"
+    },
+    {
+      "title": "馬來西亞餐廳",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2o1QWtvTHZDczRjWV9lS1lRMnZCMEFSUUxDemJ6VmRuR2FiXzdKNG5HQ2RoS3lIS0NDMU5Fb0J5S2V4Z3VBQzdpRWVzQkxtSGxKQkJmYU94MEtxV25MOE05UGVHaTdfcXFXYU05ZEZyTENqMVNlYzFkeGFteGRPX1dRcDFhelo3WVdPOEpnSWx6dw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 18:02:56 GMT",
+      "content": "馬來西亞餐廳  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMikgFBVV95cUxOc2o1QWtvTHZDczRjWV9lS1lRMnZCMEFSUUxDemJ6VmRuR2FiXzdKNG5HQ2RoS3lIS0NDMU5Fb0J5S2V4Z3VBQzdpRWVzQkxtSGxKQkJmYU94MEtxV25MOE05UGVHaTdfcXFXYU05ZEZyTENqMVNlYzFkeGFteGRPX1dRcDFhelo3WVdPOEpnSWx6dw"
+    },
     {
       "title": "《行拳演禪》 - 禪與詩 的部落格",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ScDBtZ09FZ1BOcHBnVVVZNzVTRjhDcC11UHNoZUR2cHkzekF3b2E1NllqZVR6aVp6S2V3Sm9XaGRCWXo5eXVPWkVyVWtYV0VMTjZiSE4yeDYyWWhNalFSbjJRVTBaTTdhMVMxNU9yZzZOSFRpYkE?oc=5",
@@ -627,60 +648,12 @@
       "guid": "CBMiXkFVX3lxTE9XNlh3WUtqeXQyeG10Vklma3ZlV2hOZU9saE1yckRsYmZyTmY0TEt1dkMxNVNMSkxUSFVSeTlHRnFFRG1pV2c1ejVqb3NZd1FONnhfaTMwWkZRWDZmVFHSAWhBVV95cUxQUkp6ZDFVMjhIazNNWlBPMWFZLV95aU4zWkxoSFVBZFV4UFE0amlFaTY5Z1YxWWpyazhjMGdjN0VCTDEwVVp5VTh0V1pRejV1Smk5eDhoNEtOejc2Qk5TQlZIZ3lGakozYw"
     },
     {
-      "title": "捷克總統指控外交部長政治勒索　8萬人上街支持總統",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329403",
-      "pubDate": "Mon, 02 Feb 2026 01:06:03 +0800",
-      "content": "「民主百萬時刻協會」今天在布拉格舉行支持捷克總統帕維爾的集會，吸引逾8萬人響應。此次活動源於帕維爾拒絕任命「汽車黨」成員圖雷克為環境部長，因而與外交部長馬欽卡起衝突。帕維爾指控，馬欽卡透過簡...…",
-      "source": "自由時報",
-      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329403"
-    },
-    {
-      "title": "布拉格租金與物價飆升　中東歐生活成本最高城市",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329404",
-      "pubDate": "Mon, 02 Feb 2026 01:06:03 +0800",
-      "content": "根據調查，隨著捷克首都布拉格的租金、食品價格上漲，布拉格已超越波蘭華沙、斯洛伐克首都布拉第斯拉瓦，以及匈牙利首都布達佩斯，成為中東歐生活成本最高的首都。此現象迫使居民重新評估長期居住在布拉格...…",
-      "source": "自由時報",
-      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329404"
-    },
-    {
-      "title": "即時",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ldXpKcGtmS1RrdWIyNEk5eTlFcUN2ZC1uNG55RHFrY01mWHZUa3FjMEtOa2FvV09hM1M5R1c3czYzYUxGUVBKSGwtNnNJZlIzakxoYmRIaw?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 16:49:53 GMT",
-      "content": "即時  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMiV0FVX3lxTE5ldXpKcGtmS1RrdWIyNEk5eTlFcUN2ZC1uNG55RHFrY01mWHZUa3FjMEtOa2FvV09hM1M5R1c3czYzYUxGUVBKSGwtNnNJZlIzakxoYmRIaw"
-    },
-    {
-      "title": "台中市長人選未定 江啟臣深夜表態：已簽署黨中央提名協議！",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5329398",
-      "pubDate": "Mon, 02 Feb 2026 00:46:25 +0800",
-      "content": "2026九合一大選腳步越來越近，相比民進黨各縣市首長提名相繼定於一尊率先跑選戰，國民黨許多地區仍陷於地方勢力較勁內鬥升溫，讓藍營支持者暗自焦急。其中較受關注的台中市長提名，被視為...…",
-      "source": "自由時報",
-      "guid": "https://news.ltn.com.tw/news/politics/breakingnews/5329398"
-    },
-    {
-      "title": "【2/2～2/8星座錦囊】天王星順行金牛+水星進雙魚…「6星座」喜接財富雨",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5329400",
-      "pubDate": "Mon, 02 Feb 2026 00:43:12 +0800",
-      "content": "〔娛樂頻道／綜合報導〕期待中樂透、尾牙摸中頭獎、年終獎金大豐收？2月第一週遇上天王星在金牛座順行（2/4），以及水星進雙魚（2/7）兩件星象大事，星座達人「安德魯的賤聲房」觀測天象預告：有「6個...…",
-      "source": "自由時報",
-      "guid": "https://ent.ltn.com.tw/news/breakingnews/5329400"
-    },
-    {
-      "title": "捷克修法嚴管共產宣傳　親俄商品成法律灰色地帶",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329401",
-      "pubDate": "Mon, 02 Feb 2026 00:39:03 +0800",
-      "content": "捷克新修正的刑法自今年1月1日生效，明確將共產主義與納粹主義並列，最高可判處5年有期徒刑。這項法律也讓布拉格商店的俄羅斯紀念品陷入法律灰色地帶，促使捷克社會重新思考這些親俄象徵在公共空間的意...…",
-      "source": "自由時報",
-      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329401"
-    },
-    {
-      "title": "霍諾德徒手攀101掀熱潮 高雄電影館春節再現經典《極限攀登》VR",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5329399",
-      "pubDate": "Mon, 02 Feb 2026 00:37:54 +0800",
-      "content": "美國「極限攀岩傳奇」艾力克斯霍諾德（ Alex Honnold ）成功徒手攻頂台北101，轟動全球，高市電影館VR體感劇院農曆春節2月20日、21日將推出《極限攀登》新春特典場...…",
-      "source": "自由時報",
-      "guid": "https://news.ltn.com.tw/news/life/breakingnews/5329399"
+      "title": "沒瘦10%賠200萬！矢板明夫1個月「暴瘦11kg」　3大秘密武器曝",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wWFhHTWZ4NFBNRm1nSW1sX2JlU0ZIMDFZdTZGcjd0YmN1Mm1CaTBZR09ZUjdzSmtUbEZ5UVd0QjVrRmh6OHZkMklJR1A0RGU3RHJYMWtGY0tqMHA2UkHSAWhBVV95cUxPaEJKYnIzb2Q2XzB5MmNwc3M2QkJ1MFN3RXdVeE5lZEJ1My1aN3VtbWpHOXhMWnpvUE4tbnF3LXIwdFZhakxudHlJNnUzS1JZc3lkOW5fSHp6UDdfM2Jxc0pBNGljREtmbA?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 17:19:00 GMT",
+      "content": "沒瘦10%賠200萬！矢板明夫1個月「暴瘦11kg」　3大秘密武器曝  ETtoday新聞雲",
+      "source": "ETtoday",
+      "guid": "CBMiXkFVX3lxTE4wWFhHTWZ4NFBNRm1nSW1sX2JlU0ZIMDFZdTZGcjd0YmN1Mm1CaTBZR09ZUjdzSmtUbEZ5UVd0QjVrRmh6OHZkMklJR1A0RGU3RHJYMWtGY0tqMHA2UkHSAWhBVV95cUxPaEJKYnIzb2Q2XzB5MmNwc3M2QkJ1MFN3RXdVeE5lZEJ1My1aN3VtbWpHOXhMWnpvUE4tbnF3LXIwdFZhakxudHlJNnUzS1JZc3lkOW5fSHp6UDdfM2Jxc0pBNGljREtmbA"
     },
     {
       "title": "美戰略報告未提台灣 鄭旗生：已無利用價值",
@@ -699,28 +672,12 @@
       "guid": "https://www.bbc.com/zhongwen/articles/clyz8g01vl7o/trad#6"
     },
     {
-      "title": "「時隔太久」：施紀賢習近平在北京「談及人權問題」",
-      "link": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 29 Jan 2026 15:25:48 GMT",
-      "content": "英國首相施紀賢爵士對中國國家主席習近平說，英中建設「更精細」關係至關重要。",
-      "source": "BBC中文",
-      "guid": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad#4"
-    },
-    {
       "title": "馬年將至，這隻「哭哭馬」玩具在中國春節前意外走紅",
       "link": "https://www.bbc.com/zhongwen/articles/c3ed2xzlz9ko/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "Thu, 29 Jan 2026 08:25:13 GMT",
       "content": "店主表示，這個產品起初只是一次生產失誤，但是卻意外擊中了上班族的「牛馬」心情。",
       "source": "BBC中文",
       "guid": "https://www.bbc.com/zhongwen/articles/c3ed2xzlz9ko/trad#6"
-    },
-    {
-      "title": "為什麼中國將英國首相施紀賢來訪視為更大局面的一部分？",
-      "link": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 29 Jan 2026 08:18:08 GMT",
-      "content": "施紀賢是近期前往北京的多位世界領導人之一。",
-      "source": "BBC中文",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad#4"
     },
     {
       "title": "宏福苑大火兩個月：重覓家園路在何方？災後重建難題待解",
@@ -745,14 +702,6 @@
       "content": "人工智能正幫助視障人士獲得關於自己身體的視覺反饋——這對許多人而言是人生首次。但其情緒和心理影響，卻才剛剛開始浮現。",
       "source": "BBC中文",
       "guid": "https://www.bbc.com/zhongwen/articles/cn82pn4nvj9o/trad#6"
-    },
-    {
-      "title": "英國首相八年來首次訪華　施紀賢亞洲行的時機和任務",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 27 Jan 2026 06:43:08 GMT",
-      "content": "施紀賢星期二出發先後訪問往北京和東京。日本方面透露施紀賢將於31日到訪，期間將會晤日本首相高市早苗。",
-      "source": "BBC中文",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad#4"
     },
     {
       "title": "Grok AI深偽涉黃 歐盟對馬斯克旗下的X立案調查",
@@ -793,14 +742,6 @@
       "content": "近期，中國當局集中處理了一批討論、號召「反清復明」的貼文和賬號，首次提出「1644史觀」這個名詞，並將其與「極端女權」等中國當局長期打壓的意見並列。",
       "source": "BBC中文",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgp53r9gvyo/trad#5"
-    },
-    {
-      "title": "特朗普准軍事行動封鎖委內瑞拉清理拉美後院  是否危及中國石油供應？",
-      "link": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 25 Dec 2025 07:39:15 GMT",
-      "content": "美國對委內瑞拉的施壓，背後預示美中地緣競爭的深化。短期內，封鎖已推升油價 3%，全球能源市場警鈴大作。對委內瑞拉來說，經濟恐雪上加霜。",
-      "source": "BBC中文",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad#5"
     },
     {
       "title": "傳統中醫何以扎根港澳等地？「疑中醫論」陰影下公眾信心從何而來？",
@@ -971,22 +912,6 @@
       "guid": "https://www.cnn.com/2013/11/08/world/kashmir-fast-facts/index.html"
     },
     {
-      "title": "Hundreds stranded after deadly 7.4 magnitude quake hits Taiwan",
-      "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html",
-      "pubDate": "",
-      "content": "Rescue teams are trying to reach more than 700 people stranded in eastern Taiwan following the strongest earthquake to hit the island in decades.",
-      "source": "CNN",
-      "guid": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html"
-    },
-    {
-      "title": "7.4 magnitude quake hits Taiwan, strongest in 25 years",
-      "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/index.html",
-      "pubDate": "",
-      "content": "A major earthquake has hit the east coast of Taiwan with a magnitude of 7.4, the strongest on the island in 25 years.",
-      "source": "CNN",
-      "guid": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/index.html"
-    },
-    {
       "title": "North Korea Nuclear Timeline Fast Facts",
       "link": "https://www.cnn.com/2013/10/29/world/asia/north-korea-nuclear-timeline---fast-facts/index.html",
       "pubDate": "",
@@ -1001,14 +926,6 @@
       "content": "Read CNN's Fast Facts about Philippines President Rodrigo Duterte.",
       "source": "CNN",
       "guid": "https://www.cnn.com/2016/12/16/asia/rodrigo-duterte-fast-facts/index.html"
-    },
-    {
-      "title": "Australian Open Fast Facts",
-      "link": "https://www.cnn.com/2013/10/30/world/australian-open-fast-facts/index.html",
-      "pubDate": "",
-      "content": "Read CNN's Fast Facts about the Australian Open, one of four competitions that make up the \"Grand Slam\" in professional tennis.",
-      "source": "CNN",
-      "guid": "https://www.cnn.com/2013/10/30/world/australian-open-fast-facts/index.html"
     },
     {
       "title": "India's Ayodhya Ram Mandir temple inaugurated by Modi",
@@ -1051,12 +968,100 @@
       "guid": "https://www.cnn.com/2023/12/08/asia/indonesia-sulawesi-nickel-ev-as-equals-intl-hnk/index.html"
     },
     {
+      "title": "台灣經濟研究院副院長左峻德領軍推動去碳電力- 日報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zYm5oVWRoY3lMMHluSVd5ZDJTdUhlZkxLeU0xNDVrWFJrRzl6Mzl0OVRUTUdBbW9vVUlwUVdpcnlabldnRG1VbE5Cdy01VzhKc19YcFZxeUdUc2ppb013?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 19:00:00 GMT",
+      "content": "台灣經濟研究院副院長左峻德領軍推動去碳電力- 日報  工商時報",
+      "source": "工商時報",
+      "guid": "CBMiX0FVX3lxTE4zYm5oVWRoY3lMMHluSVd5ZDJTdUhlZkxLeU0xNDVrWFJrRzl6Mzl0OVRUTUdBbW9vVUlwUVdpcnlabldnRG1VbE5Cdy01VzhKc19YcFZxeUdUc2ppb013"
+    },
+    {
+      "title": "台灣產業需要高瞻遠矚的決策",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Zc081dmJYek40dWYwZ0Q1RkdmaFIyZmt6R25FcXhiZktybENsQWNEd2c0dlpwcHZJV3JJU055YTVFMFRFck9LY3gzMTZmTFJDclprMHFfS2xfZ9IBX0FVX3lxTE83WFdKTFFIcEVSbjFRbjJxQUpNcUtXa2c5dE9saFhmZ3dEOV9BVmFlNHZUT01fem1UVWFyTFFSa2hyWW94eFBLTXYtNUdtQ2x3eGNuVlY2YnlzeHpLNXU0?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 18:44:56 GMT",
+      "content": "台灣產業需要高瞻遠矚的決策  經濟日報",
+      "source": "經濟日報",
+      "guid": "CBMiWkFVX3lxTE1Zc081dmJYek40dWYwZ0Q1RkdmaFIyZmt6R25FcXhiZktybENsQWNEd2c0dlpwcHZJV3JJU055YTVFMFRFck9LY3gzMTZmTFJDclprMHFfS2xfZ9IBX0FVX3lxTE83WFdKTFFIcEVSbjFRbjJxQUpNcUtXa2c5dE9saFhmZ3dEOV9BVmFlNHZUT01fem1UVWFyTFFSa2hyWW94eFBLTXYtNUdtQ2x3eGNuVlY2YnlzeHpLNXU0"
+    },
+    {
+      "title": "捷克總統指控外交部長政治勒索　8萬人上街支持總統",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329403",
+      "pubDate": "Mon, 02 Feb 2026 01:06:03 +0800",
+      "content": "「民主百萬時刻協會」今天在布拉格舉行支持捷克總統帕維爾的集會，吸引逾8萬人響應。此次活動源於帕維爾拒絕任命「汽車黨」成員圖雷克為環境部長，因而與外交部長馬欽卡起衝突。帕維爾指控，馬欽卡透過簡...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329403"
+    },
+    {
+      "title": "布拉格租金與物價飆升　中東歐生活成本最高城市",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329404",
+      "pubDate": "Mon, 02 Feb 2026 01:06:03 +0800",
+      "content": "根據調查，隨著捷克首都布拉格的租金、食品價格上漲，布拉格已超越波蘭華沙、斯洛伐克首都布拉第斯拉瓦，以及匈牙利首都布達佩斯，成為中東歐生活成本最高的首都。此現象迫使居民重新評估長期居住在布拉格...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329404"
+    },
+    {
+      "title": "即時",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ldXpKcGtmS1RrdWIyNEk5eTlFcUN2ZC1uNG55RHFrY01mWHZUa3FjMEtOa2FvV09hM1M5R1c3czYzYUxGUVBKSGwtNnNJZlIzakxoYmRIaw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 16:49:53 GMT",
+      "content": "即時  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMiV0FVX3lxTE5ldXpKcGtmS1RrdWIyNEk5eTlFcUN2ZC1uNG55RHFrY01mWHZUa3FjMEtOa2FvV09hM1M5R1c3czYzYUxGUVBKSGwtNnNJZlIzakxoYmRIaw"
+    },
+    {
+      "title": "台中市長人選未定 江啟臣深夜表態：已簽署黨中央提名協議！",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5329398",
+      "pubDate": "Mon, 02 Feb 2026 00:46:25 +0800",
+      "content": "2026九合一大選腳步越來越近，相比民進黨各縣市首長提名相繼定於一尊率先跑選戰，國民黨許多地區仍陷於地方勢力較勁內鬥升溫，讓藍營支持者暗自焦急。其中較受關注的台中市長提名，被視為...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/politics/breakingnews/5329398"
+    },
+    {
+      "title": "短短1個月瘦11公斤！矢板明夫曝「3大秘密武器」",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5329395",
+      "pubDate": "Mon, 02 Feb 2026 00:44:04 +0800",
+      "content": "印太戰略智庫執行長矢板明夫週日（2/1）突然在臉書分享自己的減肥心得，自曝近一個月已經瘦了11公斤，他分享這次有「3大秘密武器」讓他成功減重，分別是「強烈到不容失敗的動機」、「醫...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/politics/breakingnews/5329395"
+    },
+    {
+      "title": "【2/2～2/8星座錦囊】天王星順行金牛+水星進雙魚…「6星座」喜接財富雨",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5329400",
+      "pubDate": "Mon, 02 Feb 2026 00:43:12 +0800",
+      "content": "〔娛樂頻道／綜合報導〕期待中樂透、尾牙摸中頭獎、年終獎金大豐收？2月第一週遇上天王星在金牛座順行（2/4），以及水星進雙魚（2/7）兩件星象大事，星座達人「安德魯的賤聲房」觀測天象預告：有「6個...…",
+      "source": "自由時報",
+      "guid": "https://ent.ltn.com.tw/news/breakingnews/5329400"
+    },
+    {
+      "title": "捷克修法嚴管共產宣傳　親俄商品成法律灰色地帶",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329401",
+      "pubDate": "Mon, 02 Feb 2026 00:39:03 +0800",
+      "content": "捷克新修正的刑法自今年1月1日生效，明確將共產主義與納粹主義並列，最高可判處5年有期徒刑。這項法律也讓布拉格商店的俄羅斯紀念品陷入法律灰色地帶，促使捷克社會重新思考這些親俄象徵在公共空間的意...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329401"
+    },
+    {
+      "title": "霍諾德徒手攀101掀熱潮 高雄電影館春節再現經典《極限攀登》VR",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5329399",
+      "pubDate": "Mon, 02 Feb 2026 00:37:54 +0800",
+      "content": "美國「極限攀岩傳奇」艾力克斯霍諾德（ Alex Honnold ）成功徒手攻頂台北101，轟動全球，高市電影館VR體感劇院農曆春節2月20日、21日將推出《極限攀登》新春特典場...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/life/breakingnews/5329399"
+    },
+    {
       "title": "科技方舟降落嘉南平原！2026台灣燈會「農業無人機」主燈 點亮智慧農業新亮點",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DYThNRkZXY3dyRmxFOGJ4enRYaGtJbVRPRHhfekpkaXBpdXBVQ3ZaX2V0eE9yYmdCS1RvSGNZWHhWM2kwM3c?oc=5",
       "pubDate": "Sun, 01 Feb 2026 16:26:49 GMT",
       "content": "科技方舟降落嘉南平原！2026台灣燈會「農業無人機」主燈 點亮智慧農業新亮點  台灣新聞雲報",
       "source": "台灣新聞雲報",
       "guid": "CBMiRkFVX3lxTE1DYThNRkZXY3dyRmxFOGJ4enRYaGtJbVRPRHhfekpkaXBpdXBVQ3ZaX2V0eE9yYmdCS1RvSGNZWHhWM2kwM3c"
+    },
+    {
+      "title": "Violette 30",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMERSc3hTV3k0ZFZTYjVRUVJvbndTaGRLTnFSZmRzaU1HbmlNUXJ1NTVtcC1pMkxMTkhwc3J2ZHVTWUVpVU1wUWxoY3k3TzBVS3JDNjlrblFkR3M?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 16:24:05 GMT",
+      "content": "Violette 30  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMiW0FVX3lxTE1hMERSc3hTV3k0ZFZTYjVRUVJvbndTaGRLTnFSZmRzaU1HbmlNUXJ1NTVtcC1pMkxMTkhwc3J2ZHVTWUVpVU1wUWxoY3k3TzBVS3JDNjlrblFkR3M"
     },
     {
       "title": "修杰楷閃兵停工3個月首發文！IG曬跑步照「6字」揭近況- 華人星光",
@@ -1068,11 +1073,11 @@
     },
     {
       "title": "桃園市立綜合體育館戶外景觀改善工程　開工了！",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zTWFyeTMyTGxIWktBbGNlaG1OdG03MmkzZ3hWTWJJdER6OW1heVp5UF9Sc0gzZ2NNaW9qNE1mMDJVQk9UQU5pTHJTQS1HQThVWmItN0M1QkZtLTZmV3fSAWhBVV95cUxPajdJMXBIbHpLRkRMRmVyeF8yc1dGY2hzbkV0WHprRVBmYWdRRGtPY21GOTlVakFvU0JKbkNjU1htTjZlTzlxM3FuVkVtQjlscDVXMVdLc1MyemdxY25UTUZORWpYQktudQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qN0kxcEhsektGRExGZXJ4XzJzV0ZjaHNuRXRYemtFUGZhZ1FEa09jbUY5OVVqQW9TQkpuQ2NTWG1ONmVPOXEzcW5WRW1COWxwNVcxV0tzUzJ6Z3FjblRNRk5FalhCS2510gFoQVVfeXFMT2o3STFwSGx6S0ZETEZlcnhfMnNXRmNoc25FdFh6a0VQZmFnUURrT2NtRjk5VWpBb1NCSm5DY1NYbU42ZU85cTNxblZFbUI5bHA1VzFXS3NTMnpncWNuVE1GTkVqWEJLbnU?oc=5",
       "pubDate": "Sun, 01 Feb 2026 16:14:00 GMT",
       "content": "桃園市立綜合體育館戶外景觀改善工程　開工了！  ETtoday新聞雲",
       "source": "ETtoday",
-      "guid": "CBMiXkFVX3lxTE4zTWFyeTMyTGxIWktBbGNlaG1OdG03MmkzZ3hWTWJJdER6OW1heVp5UF9Sc0gzZ2NNaW9qNE1mMDJVQk9UQU5pTHJTQS1HQThVWmItN0M1QkZtLTZmV3fSAWhBVV95cUxPajdJMXBIbHpLRkRMRmVyeF8yc1dGY2hzbkV0WHprRVBmYWdRRGtPY21GOTlVakFvU0JKbkNjU1htTjZlTzlxM3FuVkVtQjlscDVXMVdLc1MyemdxY25UTUZORWpYQktudQ"
+      "guid": "CBMiaEFVX3lxTE9qN0kxcEhsektGRExGZXJ4XzJzV0ZjaHNuRXRYemtFUGZhZ1FEa09jbUY5OVVqQW9TQkpuQ2NTWG1ONmVPOXEzcW5WRW1COWxwNVcxV0tzUzJ6Z3FjblRNRk5FalhCS2510gFoQVVfeXFMT2o3STFwSGx6S0ZETEZlcnhfMnNXRmNoc25FdFh6a0VQZmFnUURrT2NtRjk5VWpBb1NCSm5DY1NYbU42ZU85cTNxblZFbUI5bHA1VzFXS3NTMnpncWNuVE1GTkVqWEJLbnU"
     },
     {
       "title": "新聞總覽",
@@ -1081,6 +1086,22 @@
       "content": "新聞總覽  ETtoday新聞雲",
       "source": "ETtoday",
       "guid": "CBMiZ0FVX3lxTFB0LU1qMDNqdzFmVUZLbmVGb2F0TFNCLTFaS3Q3cmxWWHBpcGtqMDJYSU9QV0pPbFhNLTI4XzJSM3cwLU5KQzEzVE9FMk8wMWN5QXZSN2xyUHRRbjBhRllQTnVfRVZUWGs"
+    },
+    {
+      "title": "2026居家佈置新趨勢：用軟裝打造療癒生活空間| 買屋新知",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jMjROSXBOOWpWNEJIZFR0SzRISVAxM2VjRFZBY1NiaThmWVdKWEdKanJiUVdQOFo1dm13a1IxdncxdUhwc0VWOXpheWtYZXFQWFRWelhPenFiZkVsaHZJdVhUSnNEQUl3VnA0bzhDdmJJX2tY?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 16:00:16 GMT",
+      "content": "2026居家佈置新趨勢：用軟裝打造療癒生活空間| 買屋新知  udn房地產",
+      "source": "聯合報",
+      "guid": "CBMidEFVX3lxTE9jMjROSXBOOWpWNEJIZFR0SzRISVAxM2VjRFZBY1NiaThmWVdKWEdKanJiUVdQOFo1dm13a1IxdncxdUhwc0VWOXpheWtYZXFQWFRWelhPenFiZkVsaHZJdVhUSnNEQUl3VnA0bzhDdmJJX2tY"
+    },
+    {
+      "title": "信義代銷風雨中挺進平溪實踐生態與文化共好| 買屋新知",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRGVxMEtCeGdRd1U5SFQxb3pRWnVJLWR4ZUtacHBwLTcyOVREb1l2OVZGazZEYnJPV2xxWWdqWk1Va09JLWNpR0N2dW5Id25iWS1EeXlMSGk3QThJZkZwUWtlODJOV0pkNDZ3ZEVQa1RJY1JlLXFqR1c5Y3htbF8wYmR6SQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 16:00:06 GMT",
+      "content": "信義代銷風雨中挺進平溪實踐生態與文化共好| 買屋新知  udn房地產",
+      "source": "聯合報",
+      "guid": "CBMigwFBVV95cUxPRGVxMEtCeGdRd1U5SFQxb3pRWnVJLWR4ZUtacHBwLTcyOVREb1l2OVZGazZEYnJPV2xxWWdqWk1Va09JLWNpR0N2dW5Id25iWS1EeXlMSGk3QThJZkZwUWtlODJOV0pkNDZ3ZEVQa1RJY1JlLXFqR1c5Y3htbF8wYmR6SQ"
     },
     {
       "title": "烏拉圭總統昨抵北京委國變天後首位到訪拉美領袖| 兩岸要聞| 兩岸",
@@ -1113,6 +1134,14 @@
       "content": "青森睡魔祭到台灣燈會 作家下町貴族攜文總促交流【專訪】|文教  僑務電子報",
       "source": "僑務電子報",
       "guid": "CBMiS0FVX3lxTE40UjFlSzJuVkhpWXRhTGdESzFzNHI4XzdWd0lNMm51aHloOEZDWjNHTjZwUTRTMUVGblUyZzJtd3FXTU1aZkNXd2VlNA"
+    },
+    {
+      "title": "黃仁勳的話台灣能源政策警訊| 民意論壇| 評論",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05R1haelNaM1owU3BiVjJtT1h2MXNjV2JjMHNZRFJXUlUwTFhhb0lDMUV1VW0zazVVdTZiczNYeElKaVVuakJwVUNJRm1TTHRR?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 16:00:00 GMT",
+      "content": "黃仁勳的話台灣能源政策警訊| 民意論壇| 評論  聯合新聞網",
+      "source": "聯合新聞網",
+      "guid": "CBMiUEFVX3lxTE05R1haelNaM1owU3BiVjJtT1h2MXNjV2JjMHNZRFJXUlUwTFhhb0lDMUV1VW0zazVVdTZiczNYeElKaVVuakJwVUNJRm1TTHRR"
     },
     {
       "title": "最萌沙發客！美小牛險凍死 進屋與小孩共枕 畫面超療癒",
@@ -1171,12 +1200,28 @@
       "guid": "CBMiTkFVX3lxTE8tQWV2N3NIbXBqRTBuRzJiMFlKdnpZcnc4MmNaNVZZYWpKWHBENWR1MW5yRFlncDFFakhpQWNSNDVLVk1FZnliR3EwM2R1UQ"
     },
     {
+      "title": "這茶很厲害 - 美國家事五四三",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WTHU4VENBZW9lR3Y1TTIzczVITGNUdzdOcVBhcGtVYkoweEthVVY3bEtnM2VyS3E3SXQ0ZFNjblRJVjY2QkN5RmM3b3VWdndlNHQtZENR?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 15:43:10 GMT",
+      "content": "這茶很厲害 - 美國家事五四三  udn部落格",
+      "source": "聯合報",
+      "guid": "CBMiVkFVX3lxTE5WTHU4VENBZW9lR3Y1TTIzczVITGNUdzdOcVBhcGtVYkoweEthVVY3bEtnM2VyS3E3SXQ0ZFNjblRJVjY2QkN5RmM3b3VWdndlNHQtZENR"
+    },
+    {
       "title": "被酸黑道選縣長！陳見賢發言人竟這樣澄清 她驚：承認是超大尾流氓",
       "link": "https://news.ltn.com.tw/news/politics/breakingnews/5329364",
       "pubDate": "Sun, 01 Feb 2026 23:42:12 +0800",
       "content": "地方大選在即，國民黨新竹縣長提名掀內戰，風波持續升溫。表態參選的立委徐欣瑩開嗆對手、現任竹縣副縣長陳見賢，還酸他有黑道背景。面對地方反對勢力說陳見賢是1990年「二清專案」的管訓...…",
       "source": "自由時報",
       "guid": "https://news.ltn.com.tw/news/politics/breakingnews/5329364"
+    },
+    {
+      "title": "韓團TWS高雄演唱會「音響停了」疑停電粉絲「星海應援」｜TVBS新聞 @TVBSNEWS01│TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5abnJ1VFZSUlh6aVBrbm1DR2h6dmNlcko5NW5ZU3lVRzY5R3lfQXpobS04TVM5SmlaaVQ4VkZwVlUwamlITG50LWIzVm1IaGFXQWE2dzd2ZWo?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 15:36:50 GMT",
+      "content": "韓團TWS高雄演唱會「音響停了」疑停電粉絲「星海應援」｜TVBS新聞 @TVBSNEWS01│TVBS新聞網  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMiWEFVX3lxTE5abnJ1VFZSUlh6aVBrbm1DR2h6dmNlcko5NW5ZU3lVRzY5R3lfQXpobS04TVM5SmlaaVQ4VkZwVlUwamlITG50LWIzVm1IaGFXQWE2dzd2ZWo"
     },
     {
       "title": "疫情後，拜登、川普雖頻繁介入美國半導體政策，但在研發稅負優惠上，美國反而是主要經濟體中最低的，中國、韓國、歐洲、台灣、日本都更積極，也因此，美國近年開始用直接補貼、投資抵減來補破洞，否則單靠企業自發投入，很難和其他國家的政策工具對打。",
@@ -1196,11 +1241,11 @@
     },
     {
       "title": "21歲男闖夜店「身分是總統」！14歲建國領薪水：領土比梵蒂岡大",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HT3VZTjB1bXZIRE16WDlKMkVCM29ROHlyRkhsZ21kcUFsYTF3dFNkVXN1SkRVOWUyblB1X2Q5T3Z5VldIY1lHeDk5ZWdxekp3QWlMZU0zdGM2N1hVc1HSAWhBVV95cUxQMGZHeW1LYXgxcFZaenVzUnRlX1Jzek9GQWdIbkFsd0U0ZUFDUVpNNkhldVhQdW5yekpPWEg3VUt2X2loV0tFdkJBUU5rTEZ2YnFnS0NjamhIbnZ4WFlSeTRQaUExcG9FbQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwZkd5bUtheDFwVlp6dXNSdGVfUnN6T0ZBZ0huQWx3RTRlQUNRWk02SGV1WFB1bnJ6Sk9YSDdVS3ZfaWhXS0V2QkFRTmtMRnZicWdLQ2NqaEhudnhYWVJ5NFBpQTFwb0Vt0gFoQVVfeXFMUDBmR3ltS2F4MXBWWnp1c1J0ZV9Sc3pPRkFnSG5BbHdFNGVBQ1FaTTZIZXVYUHVucnpKT1hIN1VLdl9paFdLRXZCQVFOa0xGdmJxZ0tDY2poSG52eFhZUnk0UGlBMXBvRW0?oc=5",
       "pubDate": "Sun, 01 Feb 2026 15:34:00 GMT",
       "content": "21歲男闖夜店「身分是總統」！14歲建國領薪水：領土比梵蒂岡大  ETtoday新聞雲",
       "source": "ETtoday",
-      "guid": "CBMiXkFVX3lxTE1HT3VZTjB1bXZIRE16WDlKMkVCM29ROHlyRkhsZ21kcUFsYTF3dFNkVXN1SkRVOWUyblB1X2Q5T3Z5VldIY1lHeDk5ZWdxekp3QWlMZU0zdGM2N1hVc1HSAWhBVV95cUxQMGZHeW1LYXgxcFZaenVzUnRlX1Jzek9GQWdIbkFsd0U0ZUFDUVpNNkhldVhQdW5yekpPWEg3VUt2X2loV0tFdkJBUU5rTEZ2YnFnS0NjamhIbnZ4WFlSeTRQaUExcG9FbQ"
+      "guid": "CBMiaEFVX3lxTFAwZkd5bUtheDFwVlp6dXNSdGVfUnN6T0ZBZ0huQWx3RTRlQUNRWk02SGV1WFB1bnJ6Sk9YSDdVS3ZfaWhXS0V2QkFRTmtMRnZicWdLQ2NqaEhudnhYWVJ5NFBpQTFwb0Vt0gFoQVVfeXFMUDBmR3ltS2F4MXBWWnp1c1J0ZV9Sc3pPRkFnSG5BbHdFNGVBQ1FaTTZIZXVYUHVucnpKT1hIN1VLdl9paFdLRXZCQVFOa0xGdmJxZ0tDY2poSG52eFhZUnk0UGlBMXBvRW0"
     },
     {
       "title": "點子農場／為什麼民主比晶片更能保護台灣",
@@ -1291,12 +1336,36 @@
       "guid": "CBMiS0FVX3lxTE5XWkhfXzZ6bXhra1R2Q2lxekR5RXgxRmwtRncyNXI3bm0ycWV0bzI3Tkp3SWxJN29iakVMZGJ2RkpIa2M4QUxZSnU3aw"
     },
     {
+      "title": "不分朝野一起挺台灣！國民黨包場看《冠軍之路》 連勝武也來了",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPcW1IVFdDeUlkbTdiUEM0ZXNqSlZoalp5SmZNSG1DRERfeVFCN0tvcXVBQnJTZFZ0dEJYcUpDTXVWQ1dZYmNXTTdRZkVtbmlSdndEdWNmZW0xUEVjNDI2ZA?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 15:04:04 GMT",
+      "content": "不分朝野一起挺台灣！國民黨包場看《冠軍之路》 連勝武也來了  民視新聞網",
+      "source": "民視新聞網",
+      "guid": "CBMiYEFVX3lxTFBPcW1IVFdDeUlkbTdiUEM0ZXNqSlZoalp5SmZNSG1DRERfeVFCN0tvcXVBQnJTZFZ0dEJYcUpDTXVWQ1dZYmNXTTdRZkVtbmlSdndEdWNmZW0xUEVjNDI2ZA"
+    },
+    {
       "title": "TPVL》台中主場維持不敗 連莊力克台北伊斯特奪第30勝",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNENNUkR6bWFGMENFU3JwZDlSWW42YXJhVk5EWmJRNUF6Nm1RdFNPdVFxa0tHNkhqLXk2ckoydi1vMFdINlM2RHZ1ZFBrckFCSzhRSzVkdzg5dkozWjNSM3pBbW1rbWJMSkhOSGFnQ3g0V2tLb1BhdFZjZE5TSFNZZzJOUl9vdlV0dVIwYmQtVQ?oc=5",
       "pubDate": "Sun, 01 Feb 2026 15:01:10 GMT",
       "content": "TPVL》台中主場維持不敗 連莊力克台北伊斯特奪第30勝  中時新聞網",
       "source": "中時新聞網",
       "guid": "CBMijwFBVV95cUxQNENNUkR6bWFGMENFU3JwZDlSWW42YXJhVk5EWmJRNUF6Nm1RdFNPdVFxa0tHNkhqLXk2ckoydi1vMFdINlM2RHZ1ZFBrckFCSzhRSzVkdzg5dkozWjNSM3pBbW1rbWJMSkhOSGFnQ3g0V2tLb1BhdFZjZE5TSFNZZzJOUl9vdlV0dVIwYmQtVQ"
+    },
+    {
+      "title": "日眾院大選民調 執政黨可望單獨過半",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329389",
+      "pubDate": "Sun, 01 Feb 2026 22:59:59 +0800",
+      "content": "日本朝日新聞今天公布最新調查顯示，執政的自民黨可望在這次眾院大選單獨過半（233席），並議席大幅成長，若加上日本維新會，執政陣營合計超過300席以上，中道改革聯盟欲振...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329389"
+    },
+    {
+      "title": "民調：高市早苗內閣支持率63.6％微升",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329336",
+      "pubDate": "Sun, 01 Feb 2026 22:55:34 +0800",
+      "content": "日本共同通信社於1月31日、2月1日實施全國電話民調顯示，日本首相高市早苗的內閣支持率為63.6%，比上次民調小幅上升0.5個百分點；不支持率為25.6%，上升0.6個百分點，整體而言幾乎持...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329336"
     },
     {
       "title": "【TpGS 26】台灣最速獵人誕生！「Monster Hunter Wilds Taiwan Championship」冠軍出爐",
@@ -1323,6 +1392,14 @@
       "guid": "https://ent.ltn.com.tw/news/breakingnews/5329379"
     },
     {
+      "title": "日眾院大選 共同社民調：自民黨比例代表領先優勢擴大",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329388",
+      "pubDate": "Sun, 01 Feb 2026 22:51:31 +0800",
+      "content": "日本眾議院大選將在8日舉行投開票，最新民調顯示，自民黨在小選區和比例代表方面的支持率均擴大，高市早苗內閣的支持率則小增0.5個百分點，仍維持在6成以上。\r\n\r\n共同社1月31...…",
+      "source": "自由時報",
+      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329388"
+    },
+    {
       "title": "50歲玉女歌手突公開素顏 19歲嫩照曝光遭虧是「沒化妝林阿姨」",
       "link": "https://ent.ltn.com.tw/news/breakingnews/5329384",
       "pubDate": "Sun, 01 Feb 2026 22:50:35 +0800",
@@ -1347,20 +1424,12 @@
       "guid": "https://news.ltn.com.tw/news/life/breakingnews/5329370"
     },
     {
-      "title": "謠言不攻自破！周春米帶領南台灣見證奇景 恆春出火地質公園啟用",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOSmJSV08zX0hRUnAyVk9lekZOd3pUQ0F3WUJzemplYmVuVW9BMlhTNnp3c1hwY0xpVmVrekhfempxUDZzd19XVVBFX1hJaHhVa25mbFE2ZzNWMEI5N3o2U3RYeFpTeHZOSXNyVVJvTzNyMlF5VV9RR3k2ZEtRcjNFZ1FudnhEVGxMbVZrc08za0RJOGFILUxvT2VuQXBNWnlHaTNzVWUxa0JCcnNfX0gwRW10WklJYmNfMGs2UkZJczhwbUwxcTBYUWFsaWRYNUdHZ2lPZ3ZIMlVQbk1hbFkzSHNMQkFfYkwya3VrRUpraURzR0pUemdVZ093VzNrMkdubi1jWHRHcWZxWlBDSS15OW0wYzZ2WTRmYWFSTWJ5ODVwQlNlbjBaVHhQNUZqQU1uVEZGQ0tyRm5RQS1pMkpyWjJrbzdEajlKUGI2bzZxNzk3OXNEa2FpcGlDVkt6YTkyZ1lUMkhUbk5PQlpUSS1NX2VtbmFocm5vZUNfaEhPcE9mQjRRX2lER01sWk9LWGtNSlM4bVdBM2tIU3VsTkRTRk1VcTFpQQ?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 14:41:48 GMT",
-      "content": "謠言不攻自破！周春米帶領南台灣見證奇景 恆春出火地質公園啟用  Yahoo新聞",
+      "title": "台灣國片熱! \"冠軍之路\"賣近8千萬 導演龍男現身包場座談",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQZnlMUllaeS1SQWt1Rlo5Z1JIODdoN2ZIU3lKZ2FuU2w5VUJyZ3V2MUwyNmZGbWhWVk9TNHBqV2lxdHRxZlRVV2M4M2VtTkZjczVVNDNET2ZYS01lMUZZaHpVWUJPeVBmeTdnOXRUYUw3WTU4VVBHSmlpdVpkcXpYeUg5V2ZmaXg1SHBGZ3ppTFNWczFqbXA2eWJjbktocjNSZGZQa0FIRVcxdEtQblZ1clR4NmhyOERwTHlaallETm9jT0VCcFFTR0RBek53Mm9WZE9xelhYaXhpOXhuMWFSUjV5WjVLOHgtTHhUbmFKWE13R2VHZ1dKZjFFRlFzcVVINlVwMkFxdXBhbEJzOFZNVTdNaVc5Z3hJYVdTWDJYRHVjRTNkNVFjYlB4ZzRBRFJueDJZd2x0ZUhXSjQxbGNqV1ZscnVkT3Q2RjBubl9wSXhjQUtqWWpRZlg3V092SlJKZHlwMThwQmxZLU15?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 14:37:04 GMT",
+      "content": "台灣國片熱! \"冠軍之路\"賣近8千萬 導演龍男現身包場座談  Yahoo新聞",
       "source": "Yahoo新聞",
-      "guid": "CBMipgNBVV95cUxOSmJSV08zX0hRUnAyVk9lekZOd3pUQ0F3WUJzemplYmVuVW9BMlhTNnp3c1hwY0xpVmVrekhfempxUDZzd19XVVBFX1hJaHhVa25mbFE2ZzNWMEI5N3o2U3RYeFpTeHZOSXNyVVJvTzNyMlF5VV9RR3k2ZEtRcjNFZ1FudnhEVGxMbVZrc08za0RJOGFILUxvT2VuQXBNWnlHaTNzVWUxa0JCcnNfX0gwRW10WklJYmNfMGs2UkZJczhwbUwxcTBYUWFsaWRYNUdHZ2lPZ3ZIMlVQbk1hbFkzSHNMQkFfYkwya3VrRUpraURzR0pUemdVZ093VzNrMkdubi1jWHRHcWZxWlBDSS15OW0wYzZ2WTRmYWFSTWJ5ODVwQlNlbjBaVHhQNUZqQU1uVEZGQ0tyRm5RQS1pMkpyWjJrbzdEajlKUGI2bzZxNzk3OXNEa2FpcGlDVkt6YTkyZ1lUMkhUbk5PQlpUSS1NX2VtbmFocm5vZUNfaEhPcE9mQjRRX2lER01sWk9LWGtNSlM4bVdBM2tIU3VsTkRTRk1VcTFpQQ"
-    },
-    {
-      "title": "澳網》喬科維奇不放棄大滿貫25冠夢想：我始終相信能做到！",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5329377",
-      "pubDate": "Sun, 01 Feb 2026 22:37:20 +0800",
-      "content": "喬科維奇（Novak Djokovic）在2026年澳洲網球公開賽功虧一簣，4盤遭到22歲西班牙球王艾卡拉茲（Carlos Alcaraz）逆襲，儘管墨爾本公園男單決戰1...…",
-      "source": "自由時報",
-      "guid": "https://sports.ltn.com.tw/news/breakingnews/5329377"
+      "guid": "CBMi7AJBVV95cUxQZnlMUllaeS1SQWt1Rlo5Z1JIODdoN2ZIU3lKZ2FuU2w5VUJyZ3V2MUwyNmZGbWhWVk9TNHBqV2lxdHRxZlRVV2M4M2VtTkZjczVVNDNET2ZYS01lMUZZaHpVWUJPeVBmeTdnOXRUYUw3WTU4VVBHSmlpdVpkcXpYeUg5V2ZmaXg1SHBGZ3ppTFNWczFqbXA2eWJjbktocjNSZGZQa0FIRVcxdEtQblZ1clR4NmhyOERwTHlaallETm9jT0VCcFFTR0RBek53Mm9WZE9xelhYaXhpOXhuMWFSUjV5WjVLOHgtTHhUbmFKWE13R2VHZ1dKZjFFRlFzcVVINlVwMkFxdXBhbEJzOFZNVTdNaVc5Z3hJYVdTWDJYRHVjRTNkNVFjYlB4ZzRBRFJueDJZd2x0ZUhXSjQxbGNqV1ZscnVkT3Q2RjBubl9wSXhjQUtqWWpRZlg3V092SlJKZHlwMThwQmxZLU15"
     },
     {
       "title": "週三就是「立春」！廖大乙：送走「破枯壞礙」迎好運",
@@ -1390,7 +1459,7 @@
       "title": "FTISLAND崔敏煥演唱會昏倒！　公司急發聲明曝現況",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoRkZGdjVrTGxJVTViTlkzU2lwYmREOWFudGpIbXo5R3FEMWdESGx5c2xNYlRpVzY5Y1VZN282QW1VVEVyQXJ1dWl3M0hZWU4ya1hMYVdUa0xEQmR0TU9tcFRFN21pMDM3OHfSAWpBVV95cUxQaEZGRnY1a0xsSVU1Yk5ZM1NpcGJkRDlhbnRqSG16OUdxRDFnREhseXNsTWJUaVc2OWNVWTdvNkFtVVRFckFydXVpdzNIWVlOMmtYTGFXVGtMREJkdE1PbXBURTdtaTAzNzh3?oc=5",
       "pubDate": "Sun, 01 Feb 2026 14:33:00 GMT",
-      "content": "FTISLAND崔敏煥演唱會昏倒！　公司急發聲明曝現況  star.ettoday.net",
+      "content": "FTISLAND崔敏煥演唱會昏倒！　公司急發聲明曝現況  ETtoday星光雲| ETtoday新聞雲",
       "source": "ETtoday",
       "guid": "CBMiakFVX3lxTFBoRkZGdjVrTGxJVTViTlkzU2lwYmREOWFudGpIbXo5R3FEMWdESGx5c2xNYlRpVzY5Y1VZN282QW1VVEVyQXJ1dWl3M0hZWU4ya1hMYVdUa0xEQmR0TU9tcFRFN21pMDM3OHfSAWpBVV95cUxQaEZGRnY1a0xsSVU1Yk5ZM1NpcGJkRDlhbnRqSG16OUdxRDFnREhseXNsTWJUaVc2OWNVWTdvNkFtVVRFckFydXVpdzNIWVlOMmtYTGFXVGtMREJkdE1PbXBURTdtaTAzNzh3"
     },
@@ -1403,36 +1472,12 @@
       "guid": "CBMiXkFVX3lxTFB3SW42YzQtZzA0UEpXN01HT0RPb3hmUVU3aXh2bXdCRFExTjVZUmx2U01XWUFnR1kta292VVI5SzBSWHU0bU91UjdqNmFxR1lOdnBIWUVqNkVpdmFLT2fSAWhBVV95cUxQY3RWc2xNVlpoNUswb0REY0VRRU8yaFJ4RFZobUR6dWRBc3A1dUFLNV90ZldJRzNLSEpzNlV4MkxEY09PTDRLbi0wMFRTWURkNE5NZG01S2RaV3h6ZHc0dWpFbE83WVhEVQ"
     },
     {
-      "title": "不只是王子！威廉首訪沙國會王儲 成英國外交秘密武器",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5329369",
-      "pubDate": "Sun, 01 Feb 2026 22:32:59 +0800",
-      "content": "英國皇室今年替威廉王儲擬定了許多活動，讓他驛馬星大動。身為威爾斯親王，威廉對中東地區的外交其實具備相當手腕。2018年局勢高度緊張之際，他就曾訪問以色列與被佔領的巴勒斯坦...…",
-      "source": "自由時報",
-      "guid": "https://ent.ltn.com.tw/news/breakingnews/5329369"
-    },
-    {
-      "title": "健康網》前港姐吳文忻乳癌復發  研究：5法降復發風險",
-      "link": "https://health.ltn.com.tw/article/breakingnews/5328925",
-      "pubDate": "Sun, 01 Feb 2026 22:32:00 +0800",
-      "content": "〔健康頻道／綜合報導〕51歲前港姐吳文忻（現名吳忻熹）前年乳癌復發，去年3月透露癌症已惡化到第4期。事實上，乳癌病人一向擔心復發，台北慈濟醫院一般外科醫師陳昱天指出，規律運動、維持健康體重、均衡...…",
-      "source": "自由時報",
-      "guid": "https://health.ltn.com.tw/article/breakingnews/5328925"
-    },
-    {
       "title": "25歲男駕贓車拒檢　衝撞警車翻覆受困再查出毒品",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mckhqNWk4d3pXajduVTlPZEZkOGhSbVB1SVBNOGlyUGc4Q2hxZFNhenM5Vmdnd3FvOFpxNTR6UGMtV3VDaHVpeHdBc3FaTjAtbWY3R2lwVlNBQnFheWfSAWhBVV95cUxQM3BxTGltaWdwOWxOcHQtLTV3YWc5SWZwb3czcThwYzFrY1l3NmNFLU9QMEpLeEgtSXpWczJUQThuQUxGenRQYW9vZ3pvVFRhbTNuUnJZUlJfWHZmekRmMkthZ2RqU1RIUQ?oc=5",
       "pubDate": "Sun, 01 Feb 2026 14:32:00 GMT",
       "content": "25歲男駕贓車拒檢　衝撞警車翻覆受困再查出毒品  ETtoday新聞雲",
       "source": "ETtoday",
       "guid": "CBMiXkFVX3lxTE9mckhqNWk4d3pXajduVTlPZEZkOGhSbVB1SVBNOGlyUGc4Q2hxZFNhenM5Vmdnd3FvOFpxNTR6UGMtV3VDaHVpeHdBc3FaTjAtbWY3R2lwVlNBQnFheWfSAWhBVV95cUxQM3BxTGltaWdwOWxOcHQtLTV3YWc5SWZwb3czcThwYzFrY1l3NmNFLU9QMEpLeEgtSXpWczJUQThuQUxGenRQYW9vZ3pvVFRhbTNuUnJZUlJfWHZmekRmMkthZ2RqU1RIUQ"
-    },
-    {
-      "title": "伊朗官員否認將在荷莫茲海峽實彈演習 駁斥報導不實",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329361",
-      "pubDate": "Sun, 01 Feb 2026 22:31:45 +0800",
-      "content": "伊朗官員今天告訴路透社，伊朗伊斯蘭革命衛隊（IRGC）海軍並未計畫在荷莫茲海峽（Strait of Hormuz）進行實彈演習，相關報導不實。\r\n\r\n伊朗國營新聞電視台Press TV 1月...…",
-      "source": "自由時報",
-      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329361"
     },
     {
       "title": "爛痘1年治不好！女大生臉藏「百隻8腳蟲」狂繁殖 醫：妳餵飽牠們",
@@ -1443,12 +1488,12 @@
       "guid": "CBMiUEFVX3lxTE12YVlGSnhzV3NaRHZuLVM0SFhhczNyWThxVEdmZzNNMVZaTVZnUW9Nak0zXzE5NUs4eW5kRUZKVjVsbVluSUFRZzh3Sm04cXN3"
     },
     {
-      "title": "艾普斯坦案再掀波瀾 第2名女子控被送英國與安德魯王子性接觸",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329359",
-      "pubDate": "Sun, 01 Feb 2026 22:28:33 +0800",
-      "content": "1名律師向英國廣播公司（BBC）表示，第二名女子指控自己曾被已故美國性犯罪富豪艾普斯坦（Jeffrey Epstein）送往英國，與英國國王查爾斯三世（King Charle...…",
-      "source": "自由時報",
-      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329359"
+      "title": "中國海上民兵排成500公里「漂浮牆」？前國防部視察示警3事：比封鎖台灣更可怕",
+      "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxPYkEwNGVDZ1lROWVkc09lMWhuZGc3X3M0dWtzWTZEQXQwMnlCR0pkT0xlTzR0X1U5c3NFSDEyRDVPdWhQdVc1cUMzOTZ2cGZTRVBvbl94Y0tKTjZBd01vTkw2REc2aHNiZnFndXZuSUhiRXhMNDFkb0RJcnZwZHVTbnBIc0tVU2FpY1ZLdlZSdk9hS3UtQ1R3TWpJdm1HdnJ3eFhxSldDekp4bEZpNmo5WnF1VE1wSzhCZmFadlcxVXlVWGVlVXQ1UlI3VlRuNmNvSDRzd3QyMU9fb1M0Yjl0TzZNbnFmV0kzeGpNZl9JdXlUQ09IV05sakhRN1ljOVpFeVV4MTFmVTNHdXdjMUlidjNlV2liUHhGNEZ1anpLTVBJUndRWmdkOFIycEFXOEVpUFg0TXNPYmR6MUNsUU1QbWZSTlVWbm43dU8zaGFsbFpqMW1qUkhiOU5pbDJ3ZGV5YXBjNUxsM3RuVnRQMzlzMmZTTW9GTzJXc3p4eWlJamRHTGxqaHk5Q0VrS0JWdVFqLVYyd1AzWkNQSTRvU0tuYVhEU1NmQ0RzNmhiSG5Mblp3Q2Jjd1RNQ0JIcTJudWZOQllVMQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 14:30:00 GMT",
+      "content": "中國海上民兵排成500公里「漂浮牆」？前國防部視察示警3事：比封鎖台灣更可怕  Yahoo新聞",
+      "source": "Yahoo新聞",
+      "guid": "CBMixANBVV95cUxPYkEwNGVDZ1lROWVkc09lMWhuZGc3X3M0dWtzWTZEQXQwMnlCR0pkT0xlTzR0X1U5c3NFSDEyRDVPdWhQdVc1cUMzOTZ2cGZTRVBvbl94Y0tKTjZBd01vTkw2REc2aHNiZnFndXZuSUhiRXhMNDFkb0RJcnZwZHVTbnBIc0tVU2FpY1ZLdlZSdk9hS3UtQ1R3TWpJdm1HdnJ3eFhxSldDekp4bEZpNmo5WnF1VE1wSzhCZmFadlcxVXlVWGVlVXQ1UlI3VlRuNmNvSDRzd3QyMU9fb1M0Yjl0TzZNbnFmV0kzeGpNZl9JdXlUQ09IV05sakhRN1ljOVpFeVV4MTFmVTNHdXdjMUlidjNlV2liUHhGNEZ1anpLTVBJUndRWmdkOFIycEFXOEVpUFg0TXNPYmR6MUNsUU1QbWZSTlVWbm43dU8zaGFsbFpqMW1qUkhiOU5pbDJ3ZGV5YXBjNUxsM3RuVnRQMzlzMmZTTW9GTzJXc3p4eWlJamRHTGxqaHk5Q0VrS0JWdVFqLVYyd1AzWkNQSTRvU0tuYVhEU1NmQ0RzNmhiSG5Mblp3Q2Jjd1RNQ0JIcTJudWZOQllVMQ"
     },
     {
       "title": "今彩539幸運議員是誰？王瑞德爆「大家都有聽到」：得主是非國民黨議員",
@@ -1459,22 +1504,6 @@
       "guid": "CBMiaEFVX3lxTE9mZ2o1Y2tYY2E0Y3otSlFmRmlyM1ZDUGNDMUNDZ1RLeVg3S3U2d1hlSFdTc1REV1VPeVl6WHlBMlVFVFVPTVhubW4wSTc2VW9vRW1vc0VGbkdkN05IUDZMeFUzYTFKYlYx0gFoQVVfeXFMT2ZnajVja1hjYTRjei1KUWZGaXIzVkNQY0MxQ0NnVEt5WDdLdTZ3WGVIV1NzVERXVU95WXpYeUEyVUVUVU9NWG5tbjBJNzZVb29FbW9zRUZuR2Q3TkhQNkx4VTNhMUpiVjE"
     },
     {
-      "title": "健康網》「小孩這麼瘦」長輩閒語有解 醫：長大才知身高",
-      "link": "https://health.ltn.com.tw/article/breakingnews/5326214",
-      "pubDate": "Sun, 01 Feb 2026 22:08:00 +0800",
-      "content": "〔健康頻道／綜合報導〕春節時間，最令家長煩躁甚或恐懼的，很可能是被長輩詢問「小孩怎麼這麼瘦？」、「是不是吃太少？」、「這樣以後會長不高喔！」但從兒童成長與青春期研究來看，所謂「精瘦」，好處其實遠...…",
-      "source": "自由時報",
-      "guid": "https://health.ltn.com.tw/article/breakingnews/5326214"
-    },
-    {
-      "title": "西藏流亡政府大選 北京反對聲中登場",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5329072",
-      "pubDate": "Sun, 01 Feb 2026 22:06:55 +0800",
-      "content": "流亡藏人今天展開獨特的全球大選，為多數藏人未曾踏足的故土選出領導層。選民表示，這場民主實踐具有極重要的象徵意義。\r\n\r\n從喜馬拉雅雪山中身著紅袍的僧侶，到南亞大城市的政治流亡者，再到澳洲、歐...…",
-      "source": "自由時報",
-      "guid": "https://news.ltn.com.tw/news/world/breakingnews/5329072"
-    },
-    {
       "title": "LiSA出道15年圓夢攻蛋唱2天 認巡演前會做惡夢靠這招克服",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMc0dRT1hVRkdWMVhTXzd1VEJkMElfLWQzUVlpZDY5cG5KckMzY3BWNGJfUzFtNllfbE9YbTNKNFVZYzZiSDBsQUZHbU9Ddks2TlQzR1VJRXktOTM2Vjc1T3AwTjBqbHpXUHJCTUhn?oc=5",
       "pubDate": "Sun, 01 Feb 2026 14:06:20 GMT",
@@ -1483,12 +1512,20 @@
       "guid": "CBMibkFVX3lxTFBMc0dRT1hVRkdWMVhTXzd1VEJkMElfLWQzUVlpZDY5cG5KckMzY3BWNGJfUzFtNllfbE9YbTNKNFVZYzZiSDBsQUZHbU9Ddks2TlQzR1VJRXktOTM2Vjc1T3AwTjBqbHpXUHJCTUhn"
     },
     {
-      "title": "柬埔寨清剿電詐園區！逾2000人落網「驚見5名台灣人」 刑事局要查身分",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPSzFkS2ZWVkFST3pzdGFRSm84bURkQjgycUFZSjJTWlVjR0dFWGtDemtnMFJoLXFyaGpyTG5LRFRwaUlULW1uNEtYTVdHbkZfUWVCaDlBMFhlLUx1aDRuZk4xSUZuSFNGdURVRUwxdXYxRk9tTklTT0xZXzI3dDE5eXRpc1cyTVBEcUd3RUlXYUFTSU43M0Z0TGdPUGt5UnJleXViMUV3NUZrYTZPMnQtWXJHb3FURW53ckZreWs2WnduM3FNRFVKVE52bGVMdDJKekd5RGNtaDZVWjhvVjl5bmhYRG5yVXFQaG1IZHg3RTk5UnZpRWdkLXU5NVNXVVNhNFVnMHk3NDRhVUVBcjBDYzJVVG9Mb3U5UnQzX2psYXlMMF81OFhxSFByNW05eXFCeTduRmJrSEVHYkpadEtXSDNtNW1Qd1BHajJRZnRJZkRNWHBDRm5hOFlUNVFWOXJZeWl2OG5PX3FaUXpNalBfT2Z4ckNncWtMWXI1R2E0cjFJWGV0UnVGT2ljemdtRTAtaU1oQXh3?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 14:06:00 GMT",
-      "content": "柬埔寨清剿電詐園區！逾2000人落網「驚見5名台灣人」 刑事局要查身分  Yahoo新聞",
-      "source": "Yahoo新聞",
-      "guid": "CBMilgNBVV95cUxPSzFkS2ZWVkFST3pzdGFRSm84bURkQjgycUFZSjJTWlVjR0dFWGtDemtnMFJoLXFyaGpyTG5LRFRwaUlULW1uNEtYTVdHbkZfUWVCaDlBMFhlLUx1aDRuZk4xSUZuSFNGdURVRUwxdXYxRk9tTklTT0xZXzI3dDE5eXRpc1cyTVBEcUd3RUlXYUFTSU43M0Z0TGdPUGt5UnJleXViMUV3NUZrYTZPMnQtWXJHb3FURW53ckZreWs2WnduM3FNRFVKVE52bGVMdDJKekd5RGNtaDZVWjhvVjl5bmhYRG5yVXFQaG1IZHg3RTk5UnZpRWdkLXU5NVNXVVNhNFVnMHk3NDRhVUVBcjBDYzJVVG9Mb3U5UnQzX2psYXlMMF81OFhxSFByNW05eXFCeTduRmJrSEVHYkpadEtXSDNtNW1Qd1BHajJRZnRJZkRNWHBDRm5hOFlUNVFWOXJZeWl2OG5PX3FaUXpNalBfT2Z4ckNncWtMWXI1R2E0cjFJWGV0UnVGT2ljemdtRTAtaU1oQXh3"
+      "title": "不只是碳烤吐司 真芳如何把台灣早餐變成一門文化生意？",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyNTA5VGlyYy1lYmNOVm9lM1hDQ3hVenlTQ3h0RmxzMkFxcVV4dkxMbWJzS3ZoR1FHQ1loWGRiSk1vZEJCUDBHclUtTnpsaERzZmdmQlNhMTdGT0lOQ2F6ZVA1U3o?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 14:01:02 GMT",
+      "content": "不只是碳烤吐司 真芳如何把台灣早餐變成一門文化生意？  食力 foodNEXT",
+      "source": "食力 foodNEXT",
+      "guid": "CBMiZEFVX3lxTFAyNTA5VGlyYy1lYmNOVm9lM1hDQ3hVenlTQ3h0RmxzMkFxcVV4dkxMbWJzS3ZoR1FHQ1loWGRiSk1vZEJCUDBHclUtTnpsaERzZmdmQlNhMTdGT0lOQ2F6ZVA1U3o"
+    },
+    {
+      "title": "快訊／2縣市大雨特報！華南雲系東移雨下不停　最新警戒區曝",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xbFdsRWNjOFNHTl9wN0NMMzgtMUdzMHZaQUdqTHlEUFFEQWMzQ2lGUXRCWS1GZkpvY29WY19xYW1qcWFtV21MZzhvbDZvcUdXRV9OVGwyYUJkaVBXTUHSAWhBVV95cUxNUVhOY2RRWWh1OHVqU0RQOGd4NU0wbVRMS09fYUxXX3RyQzQ1bUVOS0FBUU9zeTFxRFY1Yl8zX1ItWGZWVDdLUFMxN0h2MzM2VHZXWHdLd1Nwb3FxdWUxb05JTXhBMmtaZA?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 13:53:00 GMT",
+      "content": "快訊／2縣市大雨特報！華南雲系東移雨下不停　最新警戒區曝  ETtoday新聞雲",
+      "source": "ETtoday",
+      "guid": "CBMiXkFVX3lxTE4xbFdsRWNjOFNHTl9wN0NMMzgtMUdzMHZaQUdqTHlEUFFEQWMzQ2lGUXRCWS1GZkpvY29WY19xYW1qcWFtV21MZzhvbDZvcUdXRV9OVGwyYUJkaVBXTUHSAWhBVV95cUxNUVhOY2RRWWh1OHVqU0RQOGd4NU0wbVRMS09fYUxXX3RyQzQ1bUVOS0FBUU9zeTFxRFY1Yl8zX1ItWGZWVDdLUFMxN0h2MzM2VHZXWHdLd1Nwb3FxdWUxb05JTXhBMmtaZA"
     },
     {
       "title": "柬埔寨掃蕩詐騙園區抓逾2000人…5台灣人被逮 刑事局查證身分",
@@ -1515,12 +1552,12 @@
       "guid": "CBMiTkFVX3lxTE41bnZwYURFeTY3Z2tqT3ltSmpGOHljZFJyNFBlb3pfVXUxYXA2ZThBRmhVU2RFYlkyVl9MbjVjcHdBLWNidzZPaFhUUVdrQQ"
     },
     {
-      "title": "德國人變幽默了！ 發霍諾德「路過」影片 1句冷笑話被讚：有台灣哏",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQVFpOS05faUVnY05TTGh1UXBCcnc0ZHZwLXFVc1ZEbER6MVRzWE9fbmxlNGRhWTFOandSdTV0OGcyTGdfYURaUklFdjVpSEpud3UwZUd1Mm80U2twTDJKTEh0YXpaZHRBaDJ6aEJVNFBWdy1HWmNMd0Y5RGROWWZWSXJTeXN4R29zeU5QT0dpRmFlUG9nYnhOejhJM25seTBDU0JueWFrV1hWaTgxeUJfVVotY0hUbHp2Y1VUZGRsQXdhaHhrQkllRlR5ODNaRlpfZ1ZQdERKRVZ4UHExTzJ0QlNUc3V1eTFjRFhRdk9iaF9JbFhzN2xSMU02TDZvVW9JNzNsMU9ia1NGcTYtNmdnR21lZnBxYmZ2WGFFZ2tMd2lfYV9CUTJBVEZGbFg0ZUVJY1VwMVZpdlF5LVhhdzlleldheWNYZVF0bHE2dzhBNXNaem9WWW5mMl9xSFJqbnlfb3NtWGstQndpd0phY2lYWmhpSmVsSFJPMFBBOUZxSkNxUXA0N0o3ellvaUszdEF4aU1kQk1B?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 13:36:02 GMT",
-      "content": "德國人變幽默了！ 發霍諾德「路過」影片 1句冷笑話被讚：有台灣哏  facebook.com",
-      "source": "facebook.com",
-      "guid": "CBMilgNBVV95cUxQVFpOS05faUVnY05TTGh1UXBCcnc0ZHZwLXFVc1ZEbER6MVRzWE9fbmxlNGRhWTFOandSdTV0OGcyTGdfYURaUklFdjVpSEpud3UwZUd1Mm80U2twTDJKTEh0YXpaZHRBaDJ6aEJVNFBWdy1HWmNMd0Y5RGROWWZWSXJTeXN4R29zeU5QT0dpRmFlUG9nYnhOejhJM25seTBDU0JueWFrV1hWaTgxeUJfVVotY0hUbHp2Y1VUZGRsQXdhaHhrQkllRlR5ODNaRlpfZ1ZQdERKRVZ4UHExTzJ0QlNUc3V1eTFjRFhRdk9iaF9JbFhzN2xSMU02TDZvVW9JNzNsMU9ia1NGcTYtNmdnR21lZnBxYmZ2WGFFZ2tMd2lfYV9CUTJBVEZGbFg0ZUVJY1VwMVZpdlF5LVhhdzlleldheWNYZVF0bHE2dzhBNXNaem9WWW5mMl9xSFJqbnlfb3NtWGstQndpd0phY2lYWmhpSmVsSFJPMFBBOUZxSkNxUXA0N0o3ellvaUszdEF4aU1kQk1B"
+      "title": "「台灣祭 in 福岡2026」以台南為主題 黃偉哲親赴日本推廣",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTzdTUDNBaE9KVmlGZXZldWVVZ3ZlVXRVNW1TN3BBLUxHX3R2b3NhM3o2OUgyaFRxYVQ4ZDhKd3J4dUdEWGlVbTJPMGZNdTlWbEtiUEVaZkl0Yjk3MjRUYVV5SXJycVhJWms0blB1V0Nhb01jWV95el9LMUFMc2NQSXpYLVE4eEd4dWxqWExPNDk?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 13:37:35 GMT",
+      "content": "「台灣祭 in 福岡2026」以台南為主題 黃偉哲親赴日本推廣  PChome Online 新聞",
+      "source": "PChome Online 新聞",
+      "guid": "CBMikAFBVV95cUxQTzdTUDNBaE9KVmlGZXZldWVVZ3ZlVXRVNW1TN3BBLUxHX3R2b3NhM3o2OUgyaFRxYVQ4ZDhKd3J4dUdEWGlVbTJPMGZNdTlWbEtiUEVaZkl0Yjk3MjRUYVV5SXJycVhJWms0blB1V0Nhb01jWV95el9LMUFMc2NQSXpYLVE4eEd4dWxqWExPNDk"
     },
     {
       "title": "志心集28 - 心有靈曦",
@@ -1529,22 +1566,6 @@
       "content": "志心集28 - 心有靈曦  udn部落格",
       "source": "聯合報",
       "guid": "CBMiS0FVX3lxTE92WG11OWFXdnVPY25sODNtTWp6RWV0UG8xWmNkRTk5bVFZZ3NxZDRlanFFTlVxYmhrVE5LUFl5UEp3QmNHRVBMeFZMaw"
-    },
-    {
-      "title": "民意論壇",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hYlR3VTdNVkliRHZLS095UER4WW9WdkRoc0ktZ3oxMjU0TXl4OFNQMnl5RGt5TVg4enNmYXN4cTBCbk56UGxhVGNvSDhZOTZ4MEg4MktIeGJNMWZFalpFOQ?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 13:28:38 GMT",
-      "content": "民意論壇  聯合新聞網",
-      "source": "聯合報",
-      "guid": "CBMiYEFVX3lxTE9hYlR3VTdNVkliRHZLS095UER4WW9WdkRoc0ktZ3oxMjU0TXl4OFNQMnl5RGt5TVg4enNmYXN4cTBCbk56UGxhVGNvSDhZOTZ4MEg4MktIeGJNMWZFalpFOQ"
-    },
-    {
-      "title": "玉山下午降雪持續2小時 中央氣象署：明日也有機率",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS195aE5waEY3QXc5a2l5YnMxanN5QkJDUmFOcTN0b1N4c3RlSG9ZMGNzcWVpY2hEZF83VWQtVzgxWGNQaHBWUVBaSkM3RFF6Q0pQR1NWQ0xmbE4yUDFSMTVscGdZVkRfbEp4VWN5LXNjVWVWUUZIZkVqXzNCcU01RjNIYmoyNlZvdk9lVjlIVQ?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 13:28:35 GMT",
-      "content": "玉山下午降雪持續2小時 中央氣象署：明日也有機率  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMijwFBVV95cUxQS195aE5waEY3QXc5a2l5YnMxanN5QkJDUmFOcTN0b1N4c3RlSG9ZMGNzcWVpY2hEZF83VWQtVzgxWGNQaHBWUVBaSkM3RFF6Q0pQR1NWQ0xmbE4yUDFSMTVscGdZVkRfbEp4VWN5LXNjVWVWUUZIZkVqXzNCcU01RjNIYmoyNlZvdk9lVjlIVQ"
     },
     {
       "title": "【內幕】國共智庫論壇3日登場 北京關切台灣軍購及選戰議題企圖介選",
@@ -1628,11 +1649,11 @@
     },
     {
       "title": "公私協力關懷街友　新北善悅協會圍爐送暖迎新年",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10Qk03Rk55OXFfZXdVRGYyVW5ZV294X3BSMEFmUkgzYlctOHdpNlhIcFRIUGhQeFNNcEZnTDJPMHZJS21idHdQczBaaUljX1RMQXVhRE54MURXcVRmMFBzNVdDTVhoakhs0gFoQVVfeXFMTXRCTTdGTnk5cV9ld1VEZjJVbllXb3hfcFIwQWZSSDNiVy04d2k2WEhwVEhQaFB4U01wRmdMMk8wdklLbWJ0d1BzMFppSWNfVExBdWFETngxRFdxVGYwUHM1V0NNWGhqSGw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vcGlMZEdIUktLX0dpd3JtVm5PaFlmWUZuTExQRUpxNlBvY2FPa0xjeUNzUXJDOGpYNWZOY1ZwZDdBdFhxRV80QkNKTkF0UVRRUjlSRkZtcEhxckZqM2fSAWhBVV95cUxNdEJNN0ZOeTlxX2V3VURmMlVuWVdveF9wUjBBZlJIM2JXLTh3aTZYSHBUSFBoUHhTTXBGZ0wyTzB2SUttYnR3UHMwWmlJY19UTEF1YUROeDFEV3FUZjBQczVXQ01YaGpIbA?oc=5",
       "pubDate": "Sun, 01 Feb 2026 12:34:00 GMT",
       "content": "公私協力關懷街友　新北善悅協會圍爐送暖迎新年  ETtoday新聞雲",
       "source": "ETtoday",
-      "guid": "CBMiaEFVX3lxTE10Qk03Rk55OXFfZXdVRGYyVW5ZV294X3BSMEFmUkgzYlctOHdpNlhIcFRIUGhQeFNNcEZnTDJPMHZJS21idHdQczBaaUljX1RMQXVhRE54MURXcVRmMFBzNVdDTVhoakhs0gFoQVVfeXFMTXRCTTdGTnk5cV9ld1VEZjJVbllXb3hfcFIwQWZSSDNiVy04d2k2WEhwVEhQaFB4U01wRmdMMk8wdklLbWJ0d1BzMFppSWNfVExBdWFETngxRFdxVGYwUHM1V0NNWGhqSGw"
+      "guid": "CBMiXkFVX3lxTE5vcGlMZEdIUktLX0dpd3JtVm5PaFlmWUZuTExQRUpxNlBvY2FPa0xjeUNzUXJDOGpYNWZOY1ZwZDdBdFhxRV80QkNKTkF0UVRRUjlSRkZtcEhxckZqM2fSAWhBVV95cUxNdEJNN0ZOeTlxX2V3VURmMlVuWVdveF9wUjBBZlJIM2JXLTh3aTZYSHBUSFBoUHhTTXBGZ0wyTzB2SUttYnR3UHMwWmlJY19UTEF1YUROeDFEV3FUZjBQczVXQ01YaGpIbA"
     },
     {
       "title": "新通關密語？她申報行李「台灣1名產」 竟被澳洲海關秒放行",
@@ -1643,14 +1664,6 @@
       "guid": "CBMiZEFVX3lxTE9LMDNnVHZ6UjBKRmZPczV5QTZnNlFoTnB2Vm1mVU9VTUF2bzY1Ykc5NENKUWt0UTlYTDFBUHpPMFdoZWFiRVVBUi1iWklEMGxDWEV4ZkJ3UDhWT3AwYTlCclZQU2vSAWpBVV95cUxNMzVzZkthMHVZMk9IMWllYVBFdnM4ZWExUmtSekxPblc0dzNOU3V5ZEdUdlJaWTJ6Mmt3N1RxTlVjMWJQV0k0ZUt5U2tWbG1wTEJvNXRFS19reUFYZ3FoNE1WUExmLUV3c3Bn"
     },
     {
-      "title": "金融業年終半個月！妹子傻眼嘆好少 一票前輩曝原因：很正常",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUd4VTljWTZacU8yMTVZSG9aWEYxd2RFcEFKbTZJNFNaTFZINlhnUGJZamlLWG83WlQ1N3NDdEp4OVhVNGFuTElxM0doMTloYVBoNVo4WU9YMS1OTXdMd2NrR2MtRVNQeXpLalZKTnFqbGltU3o4akFaUERYdmptdl9OUjQ0bHM1VDlyXzRSYw?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 12:31:35 GMT",
-      "content": "金融業年終半個月！妹子傻眼嘆好少 一票前輩曝原因：很正常  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMijwFBVV95cUxQeUd4VTljWTZacU8yMTVZSG9aWEYxd2RFcEFKbTZJNFNaTFZINlhnUGJZamlLWG83WlQ1N3NDdEp4OVhVNGFuTElxM0doMTloYVBoNVo4WU9YMS1OTXdMd2NrR2MtRVNQeXpLalZKTnFqbGltU3o4akFaUERYdmptdl9OUjQ0bHM1VDlyXzRSYw"
-    },
-    {
       "title": "Fast Forever",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lNmVsNEd0MS1Ea1NWVmtBN0tXRFRfRkFnQ2RjYjJuSFRGcU9WU2FlSTBQVThFV0RVQ01oc0ZCczkyczhKTFhIelRvbE4yRWgzRWdmUzdoY3BvMjBV?oc=5",
       "pubDate": "Sun, 01 Feb 2026 12:31:32 GMT",
@@ -1659,12 +1672,36 @@
       "guid": "CBMiXEFVX3lxTE9lNmVsNEd0MS1Ea1NWVmtBN0tXRFRfRkFnQ2RjYjJuSFRGcU9WU2FlSTBQVThFV0RVQ01oc0ZCczkyczhKTFhIelRvbE4yRWgzRWdmUzdoY3BvMjBV"
     },
     {
+      "title": "當地時間 相關新聞報導 第165頁",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1JvR1lmYnNGX1VDWHpkOEg0aU9oeTJ5UGFEQ2l1V1dTWUpNREFoTjUxYUpqYWtvWkdOUXFnNm1Pb0dvdFpKUWZMUXpOSEVuMG5IaWs5LVoxWUd5OEdrbFpoWlJnWUhxa0ViSHlhSU5BcEt3NUExYmdTS1d3U3lhVVZFeVh6NVhqV0lOamg5ZFd3dw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 12:25:25 GMT",
+      "content": "當地時間 相關新聞報導 第165頁  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMikgFBVV95cUxPV1JvR1lmYnNGX1VDWHpkOEg0aU9oeTJ5UGFEQ2l1V1dTWUpNREFoTjUxYUpqYWtvWkdOUXFnNm1Pb0dvdFpKUWZMUXpOSEVuMG5IaWs5LVoxWUd5OEdrbFpoWlJnWUhxa0ViSHlhSU5BcEt3NUExYmdTS1d3U3lhVVZFeVh6NVhqV0lOamg5ZFd3dw"
+    },
+    {
+      "title": "晚安小雞出獄倒數！已淪通緝犯「憂一回台就被銬走」",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40cW1UVFRvNFIyS2hreS1NazF4eWc4c2U4T2xaREFJbDItRGw4ZWF3WmRvUE9OVWNudTFBdWczOUhMeGRSck92c0p0RTVyR1F5QWJYSklRNlhPUQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 12:25:05 GMT",
+      "content": "晚安小雞出獄倒數！已淪通緝犯「憂一回台就被銬走」  噓！星聞",
+      "source": "聯合報",
+      "guid": "CBMiWkFVX3lxTE40cW1UVFRvNFIyS2hreS1NazF4eWc4c2U4T2xaREFJbDItRGw4ZWF3WmRvUE9OVWNudTFBdWczOUhMeGRSck92c0p0RTVyR1F5QWJYSklRNlhPUQ"
+    },
+    {
       "title": "8旬翁順手偷盆栽！裡面竟是愛犬骨灰 飼主急壞：陪伴16年",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DMlptaF9JczF0Sm10UmxMSGtWTVNLcDlLalJyNE95U0dnUjkwT3lCeFh1Sm4tWEV5RkFLYVZPWVlETGlBdTJHMUdjY3pFdms?oc=5",
       "pubDate": "Sun, 01 Feb 2026 12:18:00 GMT",
       "content": "8旬翁順手偷盆栽！裡面竟是愛犬骨灰 飼主急壞：陪伴16年  TVBS新聞網",
       "source": "TVBS",
       "guid": "CBMiT0FVX3lxTE1DMlptaF9JczF0Sm10UmxMSGtWTVNLcDlLalJyNE95U0dnUjkwT3lCeFh1Sm4tWEV5RkFLYVZPWVlETGlBdTJHMUdjY3pFdms"
+    },
+    {
+      "title": "中科院銳指專案確定「復活」 新購142套數位微波機| 軍事 | 要聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oN2dFdHliS0o5R2haZElrWmFaY2FhQm9QTHBubzZrekhTRHh3MWI3OW5UMm1IdHcxVDRpUmNOR2tweFR1Y2s5cFJ6RUpBc19nWVE?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 12:13:43 GMT",
+      "content": "中科院銳指專案確定「復活」 新購142套數位微波機| 軍事 | 要聞  聯合新聞網",
+      "source": "聯合報",
+      "guid": "CBMiUkFVX3lxTE9oN2dFdHliS0o5R2haZElrWmFaY2FhQm9QTHBubzZrekhTRHh3MWI3OW5UMm1IdHcxVDRpUmNOR2tweFR1Y2s5cFJ6RUpBc19nWVE"
     },
     {
       "title": "66歲伯疑酒後「變身賽亞人」衝路中擋車、揮拳 遭民眾壓制",
@@ -1699,6 +1736,14 @@
       "guid": "CBMiT0FVX3lxTE4zNW52emFTZ0RWTlc4SWNrcjc5RnhzNW5wVlZlMTJpUkpQOW9qZC0zTDJrRjM2c2lNZWNXeW91MWxrUDlORXliRU8yWFMyakU"
     },
     {
+      "title": "(影)丟台灣人臉！網紅拍片隱射「暗殺高市早苗」 遭台日網友起底炎上| 網紅",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdWtROWtMN0hYZ2ludEJpZ2s3bXB6dXBWWjJaWUhaUlI0WlpGTGNNZEhwdWJKM0g4LWdSVDN2bHUxa2VIQXNWRVlhT19VZGFpejd4RlJBQjhqNHM?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 12:01:45 GMT",
+      "content": "(影)丟台灣人臉！網紅拍片隱射「暗殺高市早苗」 遭台日網友起底炎上| 網紅  Newtalk新聞",
+      "source": "Newtalk新聞",
+      "guid": "CBMiW0FVX3lxTE5OdWtROWtMN0hYZ2ludEJpZ2s3bXB6dXBWWjJaWUhaUlI0WlpGTGNNZEhwdWJKM0g4LWdSVDN2bHUxa2VIQXNWRVlhT19VZGFpejd4RlJBQjhqNHM"
+    },
+    {
       "title": "自由開講》中共為何將非洲分離議題視為「台灣前哨戰」",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45MjlWcjFEdlhES2tCM29uamZRZ0JLRjZGS3QycFd1MUp2QlNqejNxQmtqdDAxSTNkc1lKdEtjbWpuRmtCc05qeUs3djQ0UFFOcjRBcFZMa0hBOWdjQ1JZTUVB0gFnQVVfeXFMT1Y2RGxhQV81UDdvRmRRR213bmRTRGRyMWVYMW15dmZPTHh5bTJXdUxDZW5pS1ZoNEtfdnZRcWJhbmV2bVpxSVpFRW1LZk50S2RXTG53V3F1VGtLUmpId0ZLai13MkNzSQ?oc=5",
       "pubDate": "Sun, 01 Feb 2026 12:00:00 GMT",
@@ -1723,20 +1768,12 @@
       "guid": "CBMikAFBVV95cUxQUEdGNWgwOTBWM29GV05ZdWw2RTJtY21qRVFLYVlwcmJtRllHMldfVmlIOTI0MVpId0d6Z0QyRm1UZWtnUk1UQkw3VFd2OHJ5SUlfa293Q0FvMXUxTmdVVVg3QWVFNTNCa0g4aDZka0xWb2xuTmZzd24tcnFKNWhERm05Z2k5bTZ4MlNwZ2Z6Tlc"
     },
     {
-      "title": "美伊外交談判進行中 川普：希望談出可接受的結果",
-      "link": "https://news.pts.org.tw/article/793349",
-      "pubDate": "2026-02-01T11:56:48.000Z",
+      "title": "義務役將投入「聯勇操演」 王定宇：邁向戰力整合里程碑",
+      "link": "https://news.pts.org.tw/article/793348",
+      "pubDate": "2026-02-01T11:57:18.000Z",
       "content": "",
       "source": "公視新聞",
-      "guid": "https://news.pts.org.tw/article/793349"
-    },
-    {
-      "title": "施凱爾訪日會高市早苗 日英將致力稀土供應鏈合作",
-      "link": "https://news.pts.org.tw/article/793350",
-      "pubDate": "2026-02-01T11:56:15.000Z",
-      "content": "",
-      "source": "公視新聞",
-      "guid": "https://news.pts.org.tw/article/793350"
+      "guid": "https://news.pts.org.tw/article/793348"
     },
     {
       "title": "〈漫談雅和詩〉∕陳清揚",
@@ -1795,14 +1832,6 @@
       "guid": "https://news.pts.org.tw/article/793390"
     },
     {
-      "title": "血本無歸",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzemctb1Nsc2NrNGp1dGNERVdkdm9PLWlIYU5oMEljM2tzSGg4M1JSTFJsN29RbXQ1eE42X1MyQmhXbXV5eGRaS0pTMEpoQlRUUlVkazRaSk04NzJD?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 11:51:48 GMT",
-      "content": "血本無歸  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiXEFVX3lxTFAzemctb1Nsc2NrNGp1dGNERVdkdm9PLWlIYU5oMEljM2tzSGg4M1JSTFJsN29RbXQ1eE42X1MyQmhXbXV5eGRaS0pTMEpoQlRUUlVkazRaSk04NzJD"
-    },
-    {
       "title": "黃國昌新北競選總部開幕 趙少康現身站台",
       "link": "https://news.pts.org.tw/article/793343",
       "pubDate": "2026-02-01T11:51:36.000Z",
@@ -1843,6 +1872,14 @@
       "guid": "CBMiUEFVX3lxTE93QzhFVlZicXJzLU9hczh4bkc1TWpBVmtoVG9ydjJ2QmlHWkxwWUplNHFZeGRnYjQ4dDR3ZEkwXzNKeVFYeFJFWDd5ck1XM1Zw"
     },
     {
+      "title": "明天天氣／明一早急變天！ 水氣轟「7縣市」雨最猛",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vYTkwZXRBVGxoQ2IzV0ppWFBRT19vVUZ5ZkJ6T2Rhc3NnUnowVzlnVFhrZXlDN3Z1VlJ6ZlAyNDNaRWdySTcycjBYV0YxUmVFMzhhU1ZLN1pNdDdSSUhkalRjOFpLUFV2Sy1pcw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 11:35:00 GMT",
+      "content": "明天天氣／明一早急變天！ 水氣轟「7縣市」雨最猛  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMibEFVX3lxTE1vYTkwZXRBVGxoQ2IzV0ppWFBRT19vVUZ5ZkJ6T2Rhc3NnUnowVzlnVFhrZXlDN3Z1VlJ6ZlAyNDNaRWdySTcycjBYV0YxUmVFMzhhU1ZLN1pNdDdSSUhkalRjOFpLUFV2Sy1pcw"
+    },
+    {
       "title": "新北男闖入住家「躺床」性侵　女驚醒轉頭崩潰！他撐頭：怎麼是妳",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aZzJublB4MnJqQ2xndXFDcE9vQ3RIY3ZPMXkxRHU5WGlja3pzVlFWQzRqWGlrenViSF9BN0JzWWkweHBMbUxISDZPajFaaDdpMldjdTZNWmpRRmhDQkHSAWhBVV95cUxOcUhMZG5mWEhhWTR2WDRUMnBGNzZEWmRxQ1NveHd0a0dXRnF0U2VrTHhDTWxaMmNXbFNYNkRiSlhyNXhaMGNZSlFNSklYM2NSbXJJYUxoRnpZWWhvQVFXa01FMF8zQld3WQ?oc=5",
       "pubDate": "Sun, 01 Feb 2026 11:25:00 GMT",
@@ -1867,14 +1904,6 @@
       "guid": "CBMiSkFVX3lxTE1YTXA0NDhkRER4UVJJRDNJQ2dsaW9pX1hqSE9WVVRHSzZKMHRkUGhqM2VnUWpiZnFIQmRkazY1XzVpLWhxbjRwQm930gFfQVVfeXFMT0diNlB1RUFqVm1VWElTTS1QYWk3ZW5acEw4VWEtRWJkWTRSU0g4VGFuS2lHajRkWFpnd2dVYVQtRVREeWNkeTEtTTdCRWlFd2xpLXhabEpZRTFSeVFXVEk"
     },
     {
-      "title": "陳欣茵 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSTg4VE44LXl0anE5YmpmOU5IekhmWk5KVGlvM2ROREhIQV9sallfbEdlUGh4NjlJM3ZyTnQ5U19YMW9zbGNpUXFHTWkxXzZmZTh6a1Y1OVlfQWZMb1o4N01KeFl1bHBFZDZsZEVkcV9yMElZRUJfRDlZaW9CM2Exbw?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 11:16:27 GMT",
-      "content": "陳欣茵 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMigAFBVV95cUxNSTg4VE44LXl0anE5YmpmOU5IekhmWk5KVGlvM2ROREhIQV9sallfbEdlUGh4NjlJM3ZyTnQ5U19YMW9zbGNpUXFHTWkxXzZmZTh6a1Y1OVlfQWZMb1o4N01KeFl1bHBFZDZsZEVkcV9yMElZRUJfRDlZaW9CM2Exbw"
-    },
-    {
       "title": "台灣半導體科研合作助力立陶宛理工大學獲科技獎| 科技",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VUWszN01EeE1jelBOSTlYMVZmR1d5LVZxNllRa0dsTlVOS3BqQ1NBX1hTSWVQWVo0YUl1OHNCc0pNMEduU21XaUN4MHVfdEVndVhWeEw0bGpkQ0RmalE?oc=5",
       "pubDate": "Sun, 01 Feb 2026 11:13:00 GMT",
@@ -1889,6 +1918,22 @@
       "content": "chia chia在旅途中遇見日常  udn部落格",
       "source": "聯合報",
       "guid": "CBMiaEFVX3lxTE5va1RqTEExZXJnei1JV2xqUlE4UUVMckhMWXZxLXQ3dGRVRmJmMUFmU1o4RlpRRVJqN0RxM2RuRnR5ems0dVQ4OHJGdTYzQl8tTER1bFA1ZTlISW95YkQ5RXFDSFk0WER1"
+    },
+    {
+      "title": "黃仁勳：從未承諾砸千億美元投資OPEN AI　對每一輪融資都會評估",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ub0xSYnNtUlhySC1KM2UzbTRrTWF1MGctWUYxZlhySWM3SWhBSjZLSHFpU2dHNk5HSXlhZFhJT3JvRUl6Qzl1X1MwbkZmbXFvUlHSAW5BVV95cUxOUThSbHRLQWw5eFVucUFvb292T2JDbWEtYVVjVml5UXNDdEtRQWNmZDQzTUxwTkR1amt2WjdraGZDRlpsQ001QXYycGpBUjl2ejhxRkk1Mi1BcHVhR2ZQYXVwZ2lubndNZmFBMTZaQQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 11:10:00 GMT",
+      "content": "黃仁勳：從未承諾砸千億美元投資OPEN AI　對每一輪融資都會評估  ETtoday財經雲",
+      "source": "ETtoday",
+      "guid": "CBMiUkFVX3lxTE5Ub0xSYnNtUlhySC1KM2UzbTRrTWF1MGctWUYxZlhySWM3SWhBSjZLSHFpU2dHNk5HSXlhZFhJT3JvRUl6Qzl1X1MwbkZmbXFvUlHSAW5BVV95cUxOUThSbHRLQWw5eFVucUFvb292T2JDbWEtYVVjVml5UXNDdEtRQWNmZDQzTUxwTkR1amt2WjdraGZDRlpsQ001QXYycGpBUjl2ejhxRkk1Mi1BcHVhR2ZQYXVwZ2lubndNZmFBMTZaQQ"
+    },
+    {
+      "title": "黃仁勳與台積電高層餐敘 談北士科總部：非常期待！",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZNGFONjR6VFNoV3N1SG9HWWlLcVp1aXo1cko5WExpSXg4UEVMOFIxdGdLVnB4Y0tZR3RlRTdLeHV0Y2FiQ2NIMGZ1Mi04VXFSV0g3MFNhYUNITzBhb3QxZHVOd2FvWU90WFZBbnN3?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 11:08:09 GMT",
+      "content": "黃仁勳與台積電高層餐敘 談北士科總部：非常期待！  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMibkFVX3lxTE9ZNGFONjR6VFNoV3N1SG9HWWlLcVp1aXo1cko5WExpSXg4UEVMOFIxdGdLVnB4Y0tZR3RlRTdLeHV0Y2FiQ2NIMGZ1Mi04VXFSV0g3MFNhYUNITzBhb3QxZHVOd2FvWU90WFZBbnN3"
     },
     {
       "title": "Beauty Poster - Taiwan-newpoem的部落格",
@@ -1907,6 +1952,14 @@
       "guid": "CBMia0FVX3lxTE9oV3FUbmZkZi1YaXMybElGOEVRNk1sM2g0ekFJUjd5amFwanZuY0RVU2tvWmt0bWpKR1I2NVpVZWxXdW5qTm9haDZEZGR5RWxYbTVrMXZ1R2JPSTlBSE45ZjdEWUNxWVAzSE5R0gFrQVVfeXFMT2hXcVRuZmRmLVhpczJsSUY4RVE2TWwzaDR6QUlSN3lqYXBqdm5jRFVTa29aa3RtakpHUjY1WlVlbFd1bmpOb2FoNkRkZHlFbFhtNWsxdnVHYk9JOUFITjlmN0RZQ3FZUDNITlE"
     },
     {
+      "title": "北台灣明濕冷探13度 冷空氣接力再降溫 時間曝光",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOdmpZcXk1S1VibjBEQTd0dDZlVTRxQzZYY0VrUDlHdjNUS05EelFFVzBUbk1hZ01Pak1uOWV4RXc0UTBvYnRFZDR4dWdPSXU4TUlVbFhrVWdKZGNqUDBVTV93dmF6UUVWcTN1cExXSFFpWXk1WU00all3MTBkOHdZSDdJQ0xxd01wRktadE9GbXZfc1hPbXBlZDFHYzcyZEt6VmFqZW5ObXBPenFyamhkOFhCaHlyTlBZbmFmemNkUVpiRjlsUVdYRWtocnpTX3hiOGZ0b2pHb2lFZXMzU19yOWFVUHItMExKQ2xwNVo0Y0hPdVEzNktZZ2FNTFROZndFRkNEVzRqdFR2WDQtV0lrREZtX1dEUExNQ1JKRy1SOThtU0wyN2k3bW1CNjRlNkc2TDFHV0d1NDRIUGtpWTlnZnNUMmpMc2hzam84akp0TzBCbUMtckFieHRxdw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 11:00:13 GMT",
+      "content": "北台灣明濕冷探13度 冷空氣接力再降溫 時間曝光  facebook.com",
+      "source": "facebook.com",
+      "guid": "CBMi2wJBVV95cUxOdmpZcXk1S1VibjBEQTd0dDZlVTRxQzZYY0VrUDlHdjNUS05EelFFVzBUbk1hZ01Pak1uOWV4RXc0UTBvYnRFZDR4dWdPSXU4TUlVbFhrVWdKZGNqUDBVTV93dmF6UUVWcTN1cExXSFFpWXk1WU00all3MTBkOHdZSDdJQ0xxd01wRktadE9GbXZfc1hPbXBlZDFHYzcyZEt6VmFqZW5ObXBPenFyamhkOFhCaHlyTlBZbmFmemNkUVpiRjlsUVdYRWtocnpTX3hiOGZ0b2pHb2lFZXMzU19yOWFVUHItMExKQ2xwNVo0Y0hPdVEzNktZZ2FNTFROZndFRkNEVzRqdFR2WDQtV0lrREZtX1dEUExNQ1JKRy1SOThtU0wyN2k3bW1CNjRlNkc2TDFHV0d1NDRIUGtpWTlnZnNUMmpMc2hzam84akp0TzBCbUMtckFieHRxdw"
+    },
+    {
       "title": "高雄綠鬣蜥獵人未注意高度 抓捕時誤觸高壓電線",
       "link": "https://news.pts.org.tw/article/793340",
       "pubDate": "2026-02-01T10:57:27.000Z",
@@ -1921,6 +1974,22 @@
       "content": "AI Insider News Brief – EP6  udn部落格",
       "source": "聯合報",
       "guid": "CBMiVkFVX3lxTE1xT1JMcWpka2FySDZXUlI1WEcxYWRWZTc5TXZabTJiUmlGZkJaQkU4aVdHUm96YVYzek82NjJZT0NoMU4yMkxDYWpVSC1zMjcxQU1zaVBn"
+    },
+    {
+      "title": "黃仁勳再宴請供應鏈廠商 指未來將出現3種新工廠型態",
+      "link": "https://news.pts.org.tw/article/793344",
+      "pubDate": "2026-02-01T10:55:48.000Z",
+      "content": "",
+      "source": "公視新聞",
+      "guid": "https://news.pts.org.tw/article/793344"
+    },
+    {
+      "title": "輝達總部未定案　黃仁勳喊「簽約很簡單」盼快開工",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdko2OHlVUHBnVTNQMThDS0VvMmt1QlBMWGhYRHNINDNDZ0Vza3dmUTFlR1FEMXdybUxfakotOFVUbEJyWUptT0VCSUJMUmY1cWfSAW5BVV95cUxPMUNKQUZRQ1VaRDJfVnVHQzN2TFdhWEhVTjR0dXJ0UlNha1M1Vy1xUG9UOUYzdHQxNWRTUy0zbVBRWEVtRXgyWjg1TWNOTkw2NDVQeC0ydDhSRVZWNlNtQlNWYlBfUHZKVnlzZm9IZw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 10:55:00 GMT",
+      "content": "輝達總部未定案　黃仁勳喊「簽約很簡單」盼快開工  ETtoday財經雲",
+      "source": "ETtoday",
+      "guid": "CBMiUkFVX3lxTE1mdko2OHlVUHBnVTNQMThDS0VvMmt1QlBMWGhYRHNINDNDZ0Vza3dmUTFlR1FEMXdybUxfakotOFVUbEJyWUptT0VCSUJMUmY1cWfSAW5BVV95cUxPMUNKQUZRQ1VaRDJfVnVHQzN2TFdhWEhVTjR0dXJ0UlNha1M1Vy1xUG9UOUYzdHQxNWRTUy0zbVBRWEVtRXgyWjg1TWNOTkw2NDVQeC0ydDhSRVZWNlNtQlNWYlBfUHZKVnlzZm9IZw"
     },
     {
       "title": "【車勢星聞】影音／&TEAM來台錄《紅白》，台灣成員王奕翔NICHOLAS推薦早餐店、貢丸湯",
@@ -1985,6 +2054,14 @@
       "content": "新北外送員突恍神　公車站前猛撞公車尾慘摔！撞斷腿哀號  ETtoday新聞雲",
       "source": "ETtoday",
       "guid": "CBMiXkFVX3lxTE44cGNNRnhWRG1KQV92ejdsd3hrY0NINWY5a0sxQXo5SVVZYkMzcmVCRnJEMFcxWXZ6WmRUd1NuY2pwR3lqRk12RjJzRGw1QllGcmFBTHdEQnBtdDF1M1HSAWhBVV95cUxPemswM2QyV0N1NWVQYVJFQy0yWmhDbUdhR0pRanVzczFKWHp0R3A0TjZxWFN4SWlseTNnWFk2VlRNa1NSSTk1Um94Z0ZqRVhrU0hWZTREZkxKSndIQUlyX2t5TWZBRUVxaQ"
+    },
+    {
+      "title": "竹縣平均薪資5.7萬超車北市　陳見賢揮毫「宜居竹縣」",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjVWFUeHFUZTAyei16S2Q5MEhydTlUeHdXRTJjc1JibGl3bmZ4QXNMa245R1dSSTY2dDROZVVqQjRYWHBONkgxX2ZHR19FdW03bVBVQ3AtN2x5Qjg4UUHSAWhBVV95cUxNd3pzQjFzWnVCMnlsTXJNd2JJb0xLYjNabW1admhNcDVrRVRXMlNiNWFoUXFUZzlZNGVxVkZiY0FBRkl5a0VJamxtSkowYk5KZ3E0RVZtQUpDZi12ZWREMm9jaFdIVmg2ZQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 10:36:00 GMT",
+      "content": "竹縣平均薪資5.7萬超車北市　陳見賢揮毫「宜居竹縣」  ETtoday新聞雲",
+      "source": "ETtoday",
+      "guid": "CBMiXkFVX3lxTFBjVWFUeHFUZTAyei16S2Q5MEhydTlUeHdXRTJjc1JibGl3bmZ4QXNMa245R1dSSTY2dDROZVVqQjRYWHBONkgxX2ZHR19FdW03bVBVQ3AtN2x5Qjg4UUHSAWhBVV95cUxNd3pzQjFzWnVCMnlsTXJNd2JJb0xLYjNabW1admhNcDVrRVRXMlNiNWFoUXFUZzlZNGVxVkZiY0FBRkl5a0VJamxtSkowYk5KZ3E0RVZtQUpDZi12ZWREMm9jaFdIVmg2ZQ"
     },
     {
       "title": "民眾黨版軍購條例 相關新聞報導 第1頁",
@@ -2091,6 +2168,14 @@
       "guid": "CBMisAFBVV95cUxQNUhFanRGMWNYS1FnZ2FaQWhoNW1XRTNfYXdPN3pGbU9ZWWItdnQyaTZqZnlGNzBORlZham5TdklfN1Z3TGp2dWZhOVgweEFsWl93WUN6Q1N6YVgtYWV4aGJMUGNINmFTMTNRRVBncEdtTDJnbGFpTVJaZ2hTVm1FWGxBeERZOVZsMjREcHRTVmlXMVVfcTd0ZHNLcmFCVHRiYlJzaUV0M3F0S3BRMUc2Sw"
     },
     {
+      "title": "夜市劵",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QSEQ0ZHVRZTdETlhjQ1A4V3RpRnB2WWVaQzBoME5UY29IeEtjcVFuUlF0RjdfRmtwWUJYY3ZIQm1VVmNXU1cwOUNsNVpqS0Zxc2RLUDZXbmxHQ3h2bW1vX1d5YnlfR1BERTc1M3dn?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 10:19:09 GMT",
+      "content": "夜市劵  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMibkFVX3lxTE5QSEQ0ZHVRZTdETlhjQ1A4V3RpRnB2WWVaQzBoME5UY29IeEtjcVFuUlF0RjdfRmtwWUJYY3ZIQm1VVmNXU1cwOUNsNVpqS0Zxc2RLUDZXbmxHQ3h2bW1vX1d5YnlfR1BERTc1M3dn"
+    },
+    {
       "title": "墜樓原因 相關新聞報導 第1頁",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTN2dnVCQXB6a2dQYmFqbVhzYWUyUk9QbWNzbTBRWGJTSW82VUtHX1NBcHlqY1dvX2NCT3k2SGxtcnh1RkpKMmNNcVFrTXNWd0Z5ZFFUTGZUaDhoVTlTbDFxUzFMX3NRUkYwQjdIbkJXSkJEQXB3NFZvQVVTMGpSRHdDVnFHWjZsakF4VQ?oc=5",
       "pubDate": "Sun, 01 Feb 2026 10:16:37 GMT",
@@ -2132,11 +2217,11 @@
     },
     {
       "title": "物調券加倍效益發酵　台中市場夜市湧現排隊人潮",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IZUZLYk9PNmpmSHVPay1ZOWJpcmJfd3kzdVlBU2I4b0pwaEVyM004OGNxc3Y0WmR3OWNmQWRNOHRtTjMyV1d1eWtTanJTUWtjcjRjSnh0RjRmeVFvaDhRRXlDQ0NCVWxp0gFoQVVfeXFMT0hlRktiT082amZIdU9rLVk5YmlyYl93eTN1WUFTYjhvSnBoRXIzTTg4Y3FzdjRaZHc5Y2ZBZE04dG1OMzJXV3V5a1NqclNRa2NyNGNKeHRGNGZ5UW9oOFFFeUNDQ0JVbGk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PMmtKUGtNT0FQZTN6TVNoRDJ1dnh6R3h1aFJQcFZZUHBGcDZmOFBJWDYzbU9oUHFRa0V2dnBjNFVkRGh0STdDTXIwYnRZZElSU2w5SUtuQVY0TGZrY1HSAWhBVV95cUxPSGVGS2JPTzZqZkh1T2stWTliaXJiX3d5M3VZQVNiOG9KcGhFcjNNODhjcXN2NFpkdzljZkFkTTh0bU4zMldXdXlrU2pyU1FrY3I0Y0p4dEY0ZnlRb2g4UUV5Q0NDQlVsaQ?oc=5",
       "pubDate": "Sun, 01 Feb 2026 10:05:00 GMT",
       "content": "物調券加倍效益發酵　台中市場夜市湧現排隊人潮  ETtoday新聞雲",
       "source": "ETtoday",
-      "guid": "CBMiaEFVX3lxTE9IZUZLYk9PNmpmSHVPay1ZOWJpcmJfd3kzdVlBU2I4b0pwaEVyM004OGNxc3Y0WmR3OWNmQWRNOHRtTjMyV1d1eWtTanJTUWtjcjRjSnh0RjRmeVFvaDhRRXlDQ0NCVWxp0gFoQVVfeXFMT0hlRktiT082amZIdU9rLVk5YmlyYl93eTN1WUFTYjhvSnBoRXIzTTg4Y3FzdjRaZHc5Y2ZBZE04dG1OMzJXV3V5a1NqclNRa2NyNGNKeHRGNGZ5UW9oOFFFeUNDQ0JVbGk"
+      "guid": "CBMiXkFVX3lxTE9PMmtKUGtNT0FQZTN6TVNoRDJ1dnh6R3h1aFJQcFZZUHBGcDZmOFBJWDYzbU9oUHFRa0V2dnBjNFVkRGh0STdDTXIwYnRZZElSU2w5SUtuQVY0TGZrY1HSAWhBVV95cUxPSGVGS2JPTzZqZkh1T2stWTliaXJiX3d5M3VZQVNiOG9KcGhFcjNNODhjcXN2NFpkdzljZkFkTTh0bU4zMldXdXlrU2pyU1FrY3I0Y0p4dEY0ZnlRb2g4UUV5Q0NDQlVsaQ"
     },
     {
       "title": "春秋時代為何便有中國？",
@@ -2177,6 +2262,14 @@
       "content": "NBA／騎士國王交易腳步仍未停 美媒分析這幾人將被打包出清  udn NBA",
       "source": "聯合報",
       "guid": "CBMiXkFVX3lxTE9WSDFjRDN6NEpZSjM5MWVUak44cE9RUjdSZXoxcDFPemU3dXctWDdsYUxKbTN1bXRoZDZCb2VVdTFVQXdWNzJ0emVTeWN3NndDSnhybWR0YlBOcHRuNWc"
+    },
+    {
+      "title": "政大校友會",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1lucmFodU9JTUZkYVpZRVBnbndoRldDN00tckdyR0ROVjlsUjNuLXBLZ1lFRUpkUHdNVHlnRXkxaWctRnpjZldNU1QzMUlMSV9rMV9RcUY4Z2JkZVkxS0NZTFlIX0I5QVg2NEJMSTdjRWMyVmF5c2ZrNlZCZFRtSmtVRDFIQQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 10:01:15 GMT",
+      "content": "政大校友會  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMihgFBVV95cUxOU1lucmFodU9JTUZkYVpZRVBnbndoRldDN00tckdyR0ROVjlsUjNuLXBLZ1lFRUpkUHdNVHlnRXkxaWctRnpjZldNU1QzMUlMSV9rMV9RcUY4Z2JkZVkxS0NZTFlIX0I5QVg2NEJMSTdjRWMyVmF5c2ZrNlZCZFRtSmtVRDFIQQ"
     },
     {
       "title": "爆裂風險 相關新聞報導 第1頁",
@@ -2291,6 +2384,22 @@
       "guid": "CBMihAFBVV95cUxNeHFzVE5wVDRyWWVzbjNhcVo3Q05xN195UDY5dTlsbjMyeWotVGtVQWp2RjRzNFg5UWQ0a2tLMDFPM3VKMG5QS1NYN0dPMFJOOWFhXzVscFdQUVFMM3NIejE2MEM3TE44RXotaDhhTFc4OExNbFVOWHdWMnJzdlpkc0JHc2I"
     },
     {
+      "title": "私人財損 相關新聞報導 第1頁",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDJWTU5ONFFJMUNIRVM3T1JvTENZNGstSEFibkV2ZlVsbk9aRTlndU1JbWc3djh3SXgyUjNIbHF6MjZ0MDRuRzlUSkxOYWJfZ2poX3JNWDAxRDVQRXpDeVVQWVhZNno3cnNGaWIzOUVaUExxbEtJTTZLdERTNmJoR3RlTXVoWE5Hc0kzRzgtbzM?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 09:52:23 GMT",
+      "content": "私人財損 相關新聞報導 第1頁  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMikAFBVV95cUxPVDJWTU5ONFFJMUNIRVM3T1JvTENZNGstSEFibkV2ZlVsbk9aRTlndU1JbWc3djh3SXgyUjNIbHF6MjZ0MDRuRzlUSkxOYWJfZ2poX3JNWDAxRDVQRXpDeVVQWVhZNno3cnNGaWIzOUVaUExxbEtJTTZLdERTNmJoR3RlTXVoWE5Hc0kzRzgtbzM"
+    },
+    {
+      "title": "警械室 相關新聞報導 第1頁",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlVCYm9sMnlqbHJPcjVibUpzbVlFbUR3cGRHQ3RGRFNlOE4yYVl6NTNEZnIxdktfNlBPZjZCOWltdTNCLVZBcnJidDJKZDNhc3I4Q2d4QmwtcnhvN3VyZGRmdFZIb1N2eDRnclZZS215X3RXWnBqYkNWbXM1XzBpbTlkRjc?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 09:52:22 GMT",
+      "content": "警械室 相關新聞報導 第1頁  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMihAFBVV95cUxPTlVCYm9sMnlqbHJPcjVibUpzbVlFbUR3cGRHQ3RGRFNlOE4yYVl6NTNEZnIxdktfNlBPZjZCOWltdTNCLVZBcnJidDJKZDNhc3I4Q2d4QmwtcnhvN3VyZGRmdFZIb1N2eDRnclZZS215X3RXWnBqYkNWbXM1XzBpbTlkRjc"
+    },
+    {
       "title": "開5小時車南下找30年前「老戰友」　內埔警牽線助圓夢",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhMEk0Zy1fQUZrbmJoNzg1SjhRSkNXWkhfN2ZFdXdiSFY5R2ZHVjg5R0JibFJJOHRpemdMdnRhVFMtdGZWcmRNRHVqeWxVT0wtMy0xeHAzX2ZGOHV2Y0ItczZLRDE0N1JN0gFoQVVfeXFMUGEwSTRnLV9BRmtuYmg3ODVKOFFKQ1daSF83ZkV1d2JIVjlHZkdWODlHQmJsUkk4dGl6Z0x2dGFUUy10ZlZyZE1EdWp5bFVPTC0zLTF4cDNfZkY4dXZjQi1zNktEMTQ3Uk0?oc=5",
       "pubDate": "Sun, 01 Feb 2026 09:50:00 GMT",
@@ -2371,20 +2480,20 @@
       "guid": "CBMiaEFVX3lxTE9xN1NndVFMTG12bjZnV1RJZ3pJVHlkUzlxMVpQMmFzb2x2Z1ZIaTBUYU9FTHVFU1g0QzdhclcySEllVXFGNENnTmk4dHhObWxDUEZhalQ2V2FUYlR5NnI0Tm1hT1dkeVM3"
     },
     {
-      "title": "幕後花絮- 小鹿園地",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmLUdEM3NRR09EakswUHo3NW5vaXdqc2t5QUJ5YzR5M1ZsN3RIZU1rdUNoYjlGeXJFYjRWT2JEdGxtZTJXeGo5dlJGX2ZXRzNpb29N?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 09:38:13 GMT",
-      "content": "幕後花絮- 小鹿園地  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiU0FVX3lxTFBmLUdEM3NRR09EakswUHo3NW5vaXdqc2t5QUJ5YzR5M1ZsN3RIZU1rdUNoYjlGeXJFYjRWT2JEdGxtZTJXeGo5dlJGX2ZXRzNpb29N"
-    },
-    {
       "title": "新莊瓊林棒球場 相關新聞報導 第1頁",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVJOQW5MMTdSMWhGV2FFd2NkZnB0eWY1aV9oNTFhcGJJYUJWd2NQVFJBQ0JERVktcU1rVVQtTnJUY0JpWVYtTTA5VXJ3MWxESXZMeFZOWURNQmczM3BYY1BEc0VkWjdIejlKVHpibk9vRmtrbG1DejQtb3RXMUdIWjdxUEpieG9vcFhkR25LX3RXTkhuVS1CNktRN01JenVKNC0xQmk0V25lc0NyQ0VkQw?oc=5",
       "pubDate": "Sun, 01 Feb 2026 09:35:50 GMT",
       "content": "新莊瓊林棒球場 相關新聞報導 第1頁  TVBS新聞網",
       "source": "TVBS",
       "guid": "CBMisAFBVV95cUxNeVJOQW5MMTdSMWhGV2FFd2NkZnB0eWY1aV9oNTFhcGJJYUJWd2NQVFJBQ0JERVktcU1rVVQtTnJUY0JpWVYtTTA5VXJ3MWxESXZMeFZOWURNQmczM3BYY1BEc0VkWjdIejlKVHpibk9vRmtrbG1DejQtb3RXMUdIWjdxUEpieG9vcFhkR25LX3RXTkhuVS1CNktRN01JenVKNC0xQmk0V25lc0NyQ0VkQw"
+    },
+    {
+      "title": "狗群闖入棒球場狂追人！外野手遭咬傷 球員持棒驅趕",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EWWVESkxlNlhiQ09iS1prVHJFenFpbVVjenZVZmItcHkwTml6UGtTRGxZU09ZZk5VVHhrYkdXLW1Cd1RiejFWaUxTMjFPRmM?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 09:35:00 GMT",
+      "content": "狗群闖入棒球場狂追人！外野手遭咬傷 球員持棒驅趕  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMiT0FVX3lxTE9EWWVESkxlNlhiQ09iS1prVHJFenFpbVVjenZVZmItcHkwTml6UGtTRGxZU09ZZk5VVHhrYkdXLW1Cd1RiejFWaUxTMjFPRmM"
     },
     {
       "title": "月薪42K！「年終一發」她臉綠了　過來人吐實話：已經不錯了",
@@ -2417,6 +2526,14 @@
       "content": "吐口水 相關新聞報導 第1頁  TVBS新聞網",
       "source": "TVBS",
       "guid": "CBMihAFBVV95cUxNNzZLZERoaGl1ZWwxRHdIamd0WVpnMzJrQU9QeDI1d3ZXaFdOYWpZRlMySEQ3RHhaRFRyUHhOMHFyTlZiR0lOQmtja182VHREaGJ0UGMxLVEtSGJnNVo0cjJyVFJ0eTEwTVVsZ0tHemVkMzFLRFdGNDktUEpMSGM0Yi1UeFI"
+    },
+    {
+      "title": "表揚男大生 相關新聞報導 第1頁",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0N2ZWJOVnpBSUtaVHIydTd3cXQ3RUI4dDNxMlp4MzVHNWRmTVFQQjlwc1FFQmN2TXJQb3ZnUHV1RmFXRHE4Y19zWFNObGJxRjd3QXVQQ1FqeElJeVptTGYzYjRfVTdZLUctcC11Q0dTXzA4VXI3QTlfSWQwYVgycEo3YlZfQlZrRnU4blFYcnEtZmoxb0RGbw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 09:31:10 GMT",
+      "content": "表揚男大生 相關新聞報導 第1頁  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMimAFBVV95cUxNb0N2ZWJOVnpBSUtaVHIydTd3cXQ3RUI4dDNxMlp4MzVHNWRmTVFQQjlwc1FFQmN2TXJQb3ZnUHV1RmFXRHE4Y19zWFNObGJxRjd3QXVQQ1FqeElJeVptTGYzYjRfVTdZLUctcC11Q0dTXzA4VXI3QTlfSWQwYVgycEo3YlZfQlZrRnU4blFYcnEtZmoxb0RGbw"
     },
     {
       "title": "嘉義縣2026台灣燈會 打造全台首座「農業無人機」主燈",
@@ -2547,14 +2664,6 @@
       "guid": "CBMikAFBVV95cUxNZEE3Q3ZuN3NjdmhnMVZZdFQ0YmRhcmRXSGJ0cVYzUGVfeTZQRGM3alJ2VU1aRkprQ2kwSzdJTHVLRlVyTGszQ3N2d0VDQ3hGVUVvQ3VNcDBDdXN1bnNITlo4QnlseVZLdG5OYWs2X09OWDkwX3JSYWVYT2ctT2N5c1hIV3ZwNjJ0U3BLM0RTV2w"
     },
     {
-      "title": "《接受水晶王國的力量》",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sbWxoV0xmYU55SEU1ZFhBb1dDSS1yZGZJTWFNckpIOFBtRkp4OTIzZ3h6QllDTDYzcG1LM0RqZDAxU3NpX0JZUWxhd0VNamM?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 09:13:22 GMT",
-      "content": "《接受水晶王國的力量》  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiT0FVX3lxTE1sbWxoV0xmYU55SEU1ZFhBb1dDSS1yZGZJTWFNckpIOFBtRkp4OTIzZ3h6QllDTDYzcG1LM0RqZDAxU3NpX0JZUWxhd0VNamM"
-    },
-    {
       "title": "NBA／湖人為何爭取杭特加盟失敗？原因竟出在交易主角身上",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5adUwwRjhvOEhjQlhJU0N3NTJVd2RKSkxFU0Vqa3g5UGJVODEzTmY0UzVPZ1dQYVJGc25sNHZHa1Nfc2tLUVl4OTAyMVNEV29lamFRUUF0NmoxTXlLaXc?oc=5",
       "pubDate": "Sun, 01 Feb 2026 09:13:10 GMT",
@@ -2627,6 +2736,14 @@
       "guid": "CBMihAFBVV95cUxPcG1qWWg0STdXV3YzV3daWjlTeHZwZ2ZBUmsxYXhTM2ZVc1c3SWd6b1ZFV0RqOWY4ZGdIYlFNbGc0MDRMSHR4SndubWUtbDh2V1MyN05Mb3FXQXFxVXJuZnRIUzZQWndQNy1QN3VWdVJ2RktWQTVIdmpKeGlmcFFVb2UyMWw"
     },
     {
+      "title": "離婚威脅 相關新聞報導 第1頁",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkxEOUdjRUhPYUo1a1BzRGxmc0FNWV81UEdnbGNZMHk0OUFCTjl5NllJLWZLdG1LVzNoWHQxZGlfTXJMSU9ieHVqanFHZHdIMDBzcFFtYlNUMmZiRDlZNkJ2T0t2OXNYTDkwLWFhSzduYXNzXy1JNnRlYzBkdFM3czROQ1luR3lXWll0eQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 09:05:05 GMT",
+      "content": "離婚威脅 相關新聞報導 第1頁  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMijAFBVV95cUxNQkxEOUdjRUhPYUo1a1BzRGxmc0FNWV81UEdnbGNZMHk0OUFCTjl5NllJLWZLdG1LVzNoWHQxZGlfTXJMSU9ieHVqanFHZHdIMDBzcFFtYlNUMmZiRDlZNkJ2T0t2OXNYTDkwLWFhSzduYXNzXy1JNnRlYzBkdFM3czROQ1luR3lXWll0eQ"
+    },
+    {
       "title": "日經：台灣加快腳步強化海上雷達與監控系統| 政治",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyVHRtMGlWLVJ6SHBOMnFYVXczdzh6RHRfSDRlS0k0cS1DN0JHQ25UcDh0eFh2Zjk5cGZVZlI4cnlPMnRWXy1LSndWaDZZWHhWcms3Tm5TUk5WQ3Vob0lB?oc=5",
       "pubDate": "Sun, 01 Feb 2026 09:05:00 GMT",
@@ -2635,12 +2752,20 @@
       "guid": "CBMiX0FVX3lxTFAyVHRtMGlWLVJ6SHBOMnFYVXczdzh6RHRfSDRlS0k0cS1DN0JHQ25UcDh0eFh2Zjk5cGZVZlI4cnlPMnRWXy1LSndWaDZZWHhWcms3Tm5TUk5WQ3Vob0lB"
     },
     {
+      "title": "外遇懷疑 相關新聞報導 第1頁",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNW1Zdl9CR2JiV1YxWkpfRkNaNWFyc09YWFM3aHE3TFJfQkoyaU9TbFFYaW9KenkxWGpUUzFWNGRqbE16cm5scGd4N0xYXzJKQmQtQzZlaGdIS0xWb1ppc3BKcHkwUVZmV0Qwem5CTU9Pa25teWRNSGtlNWk0ZHhnRzNXR2JQeklSMERHSg?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 09:03:18 GMT",
+      "content": "外遇懷疑 相關新聞報導 第1頁  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMijAFBVV95cUxQNW1Zdl9CR2JiV1YxWkpfRkNaNWFyc09YWFM3aHE3TFJfQkoyaU9TbFFYaW9KenkxWGpUUzFWNGRqbE16cm5scGd4N0xYXzJKQmQtQzZlaGdIS0xWb1ppc3BKcHkwUVZmV0Qwem5CTU9Pa25teWRNSGtlNWk0ZHhnRzNXR2JQeklSMERHSg"
+    },
+    {
       "title": "北市無情惡火釀情侶雙亡！ 初步「起火原因」出爐",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyTmxoMnFaQUg5SXVZSVkxM1JVREJJNk1KbUtxMlhnc1U1ME54VmtpS1NmdFFkNU9hdV9JSHQxaFBHMkpBRVB1dlR6YmgyX21qb3dlOWExVlo3TEVRWUlsR1A2ZlNaczhlaHJCQkRR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDJGbWgwMzN2RjBGMXE5SWlMUmpxX0tJREEtcldSWVhJMjB0ZHNSZjRfNDFBRC1qZ29sY0ZNT2kxVkExMnliTi03ZlNodUtEWnRlQkVJVFYwM1MyU2hVcmUzLUZNcTNPZEpSNTRQMmhyN0Q5bU9ZRVJyTHUtTXZCWEZnbVNuR3NGd0RHQko0MA?oc=5",
       "pubDate": "Sun, 01 Feb 2026 09:01:20 GMT",
       "content": "北市無情惡火釀情侶雙亡！ 初步「起火原因」出爐  中時新聞網",
       "source": "中時新聞網",
-      "guid": "CBMibkFVX3lxTFAyTmxoMnFaQUg5SXVZSVkxM1JVREJJNk1KbUtxMlhnc1U1ME54VmtpS1NmdFFkNU9hdV9JSHQxaFBHMkpBRVB1dlR6YmgyX21qb3dlOWExVlo3TEVRWUlsR1A2ZlNaczhlaHJCQkRR"
+      "guid": "CBMijwFBVV95cUxOSDJGbWgwMzN2RjBGMXE5SWlMUmpxX0tJREEtcldSWVhJMjB0ZHNSZjRfNDFBRC1qZ29sY0ZNT2kxVkExMnliTi03ZlNodUtEWnRlQkVJVFYwM1MyU2hVcmUzLUZNcTNPZEpSNTRQMmhyN0Q5bU9ZRVJyTHUtTXZCWEZnbVNuR3NGd0RHQko0MA"
     },
     {
       "title": "全台首座無人機主燈！2026台灣燈會「未來方舟」降落嘉義- 生活",
@@ -2723,20 +2848,20 @@
       "guid": "CBMijwFBVV95cUxOZUg0WXJuY1NlZmF2Nk9ZZ0FiT1VTOW9UcFA2VC1LSXM0a0JiMHRCd3RUTlFlQXNJc0VTal9wdy14b0R2OHRDTlplS2VqazlpWGFrQ1VMdDZYdEJidWVpV0pQMW14dzhRQVVWQ3BCVzVNeHF6a0RBbEJTbVRCRm9YdklRc3pRZlpmR1N0Mndscw"
     },
     {
-      "title": "高雄燕巢排水溝完工卻惹議！防鼠與防災能兼顧？市府回應了",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1RWNmh0VXM3MS1haTgzemZfOG1BLWJzaEFBaFNLeHl0VGpkNlBNdldENWUydDBqenAzUnd5N1lHZFE3dXluRnpaa3VydHdLNmMzVEdJRnVMNi1HRWV2OUlPVHlna09QR1JfcFMxR29RREdyZ1pvVU53ZVJNbzVfMzJ0b1NhS242Qk90dlVCTQ?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 08:48:59 GMT",
-      "content": "高雄燕巢排水溝完工卻惹議！防鼠與防災能兼顧？市府回應了  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMijwFBVV95cUxON1RWNmh0VXM3MS1haTgzemZfOG1BLWJzaEFBaFNLeHl0VGpkNlBNdldENWUydDBqenAzUnd5N1lHZFE3dXluRnpaa3VydHdLNmMzVEdJRnVMNi1HRWV2OUlPVHlna09QR1JfcFMxR29RREdyZ1pvVU53ZVJNbzVfMzJ0b1NhS242Qk90dlVCTQ"
-    },
-    {
       "title": "沒有張又俠踩剎車、習近平將發動「窒息戰」對付台灣？《華爾街日報》又在配合中國認知作戰？",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EbGo0Z3Y1TzFyZXN1aUtYbFRIN2hoRUFzNFgzX1VKaGZTN2o2bm91NXF2TzFyXzdJbnRPak83cGl4ZDJsbjUwN0ItWWFjWDJjSEE?oc=5",
       "pubDate": "Sun, 01 Feb 2026 08:48:43 GMT",
       "content": "沒有張又俠踩剎車、習近平將發動「窒息戰」對付台灣？《華爾街日報》又在配合中國認知作戰？  放言Fount Media",
       "source": "放言Fount Media",
       "guid": "CBMiUkFVX3lxTE5EbGo0Z3Y1TzFyZXN1aUtYbFRIN2hoRUFzNFgzX1VKaGZTN2o2bm91NXF2TzFyXzdJbnRPak83cGl4ZDJsbjUwN0ItWWFjWDJjSEE"
+    },
+    {
+      "title": "中國工商銀行指貴金屬價格波動籲投資人避免盲目追漲殺跌- 國際",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16b2VGVnR1TzF3QnFFOTVZU2VLTGZmMVR3bDNhdVpDdUxQYnJ1R3dTNkxVWlJGTFpwaXEtVzlKcVFjc3JidmFPVkltdW96VEtNWE9kWWdwYnNhVDVuMTRiYVFaVzFnYnpnVHc?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 08:46:47 GMT",
+      "content": "中國工商銀行指貴金屬價格波動籲投資人避免盲目追漲殺跌- 國際  旺得富理財網",
+      "source": "中時新聞網",
+      "guid": "CBMiakFVX3lxTE16b2VGVnR1TzF3QnFFOTVZU2VLTGZmMVR3bDNhdVpDdUxQYnJ1R3dTNkxVWlJGTFpwaXEtVzlKcVFjc3JidmFPVkltdW96VEtNWE9kWWdwYnNhVDVuMTRiYVFaVzFnYnpnVHc"
     },
     {
       "title": "怪男大喊「我要帶你一起走」 18歲德女遭熊抱落軌！釀2死",
@@ -2787,20 +2912,20 @@
       "guid": "CBMiW0FVX3lxTE1PVE9DanRtelVqNkRpVWlHVTNiZkRMdnh5R0JOdEFSaEhQdk1VbjVqMHRxVFhiR254RVdtQVhoNVNyTzdXVG9wdENER1VKX05WTnNRTnVRTTh0d3M"
     },
     {
-      "title": "中國海警、民兵頻擾台海 台灣升級ISR打造「全時監控網」反制灰色地帶威脅",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zZ3o3SDVrMTgxcDAyVG11SFJZY1dtMHRLcWNKVDJIUTN0V3RaUXZBaHZMY2ZSQzRrOVR4bTVUS0lqczJIeFkyV1BINWlSVzZoeUtYaGdpWW9RSVhVLUtZcWtMZXAtdE0?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 08:35:00 GMT",
-      "content": "中國海警、民兵頻擾台海 台灣升級ISR打造「全時監控網」反制灰色地帶威脅  上報Up Media",
-      "source": "上報Up Media",
-      "guid": "CBMiZ0FVX3lxTE0zZ3o3SDVrMTgxcDAyVG11SFJZY1dtMHRLcWNKVDJIUTN0V3RaUXZBaHZMY2ZSQzRrOVR4bTVUS0lqczJIeFkyV1BINWlSVzZoeUtYaGdpWW9RSVhVLUtZcWtMZXAtdE0"
-    },
-    {
       "title": "遭母親狂砍！日男童「滿身血」飛奔求救　妹妹無呼吸心跳倒地",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ELVRsWUdxTmZpaF9OY2I2RzVlN05pR1lSVnNpZTI3MDRJcHpMaC1Qd1BYN0ZNRnBnalV3azFpZ1dXdkpiVXRad05ucHN6VlpDb2o3LVZ0T3NhR0lhTnfSAWhBVV95cUxPNnRIQ0w1VVZtcWlVeVJpaDMxZ1dydV96ZkdhNVJmZGkwZHBGa1piWTVYUUpzRVlRZDFCTXFoMGEtMkE2eVFRZGVhRDJsQ0tjSGNtQWJYdU41d2xXSXFvYlNaVlkyb1piRA?oc=5",
       "pubDate": "Sun, 01 Feb 2026 08:34:00 GMT",
       "content": "遭母親狂砍！日男童「滿身血」飛奔求救　妹妹無呼吸心跳倒地  ETtoday新聞雲",
       "source": "ETtoday",
       "guid": "CBMiXkFVX3lxTE5ELVRsWUdxTmZpaF9OY2I2RzVlN05pR1lSVnNpZTI3MDRJcHpMaC1Qd1BYN0ZNRnBnalV3azFpZ1dXdkpiVXRad05ucHN6VlpDb2o3LVZ0T3NhR0lhTnfSAWhBVV95cUxPNnRIQ0w1VVZtcWlVeVJpaDMxZ1dydV96ZkdhNVJmZGkwZHBGa1piWTVYUUpzRVlRZDFCTXFoMGEtMkE2eVFRZGVhRDJsQ0tjSGNtQWJYdU41d2xXSXFvYlNaVlkyb1piRA"
+    },
+    {
+      "title": "烏龍廠商送錯文件太瞎！台中3.2億古蹟修復案又流標- 臺中市- 中時",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWR0d0M3WC0xM1dWTFNnSmlnWG1wa3BIaWdhYmVxSkNOa2hLZmN6czRNV1QtZ2Uzd2hub2w3ZWwwMk1VZTdocnRRWGJ5YWw4UnJZSEJLRUVDT0FmbE1TZnJNcnRsalFkYk5IaGdUV0dvSEpoaVpTcmRFbHpQNjBjM0JZdHllaDI1TXhEN05OQQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 08:30:49 GMT",
+      "content": "烏龍廠商送錯文件太瞎！台中3.2億古蹟修復案又流標- 臺中市- 中時  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMijwFBVV95cUxPeWR0d0M3WC0xM1dWTFNnSmlnWG1wa3BIaWdhYmVxSkNOa2hLZmN6czRNV1QtZ2Uzd2hub2w3ZWwwMk1VZTdocnRRWGJ5YWw4UnJZSEJLRUVDT0FmbE1TZnJNcnRsalFkYk5IaGdUV0dvSEpoaVpTcmRFbHpQNjBjM0JZdHllaDI1TXhEN05OQQ"
     },
     {
       "title": "謝典霖開箱700坪豪宅引關注 胞姊謝衣鳯切割「與我選縣長無關」",
@@ -2817,6 +2942,14 @@
       "content": "台灣年度銷量榜公布！最暢銷安卓不是旗艦、而是這款平價神機  自由電子報3C科技",
       "source": "自由電子報3C科技",
       "guid": "CBMiR0FVX3lxTE9ZSVF1UlNRaDh5WjR1ZXUzQnJZT3NsczZKOElsczFiTkJaQXQ2RnFlZ0YxbG12VkV4ZjdnMkRKenFjWl8yRlNz0gFMQVVfeXFMTk1VbVhoVTZDUzBMN2lLUEdDTXAzdTBoN2VSWGdqaXhBUWFKOUNjZXlveHV5Qzc5azREczluTTdvM2pTeWNwckdPWU1JUQ"
+    },
+    {
+      "title": "上海創新創意設計研究院",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMjlYRjk4QjQwYy1FZWpLOV9IWWlYWHVTcnY5bjBwNHNKcF9ub0xFMEJhSXNvQ2RORG9kbjRYb1o1RmpmZkpVbVUybDRvc3N0YXBQV3lxZXZFeWdWbzRTRFJycVVhT01jMUVRWnhydmQydDRLSEhQT2JZMjhEcUVzQWJIOUgtclV1V3F6VkNYV3JxeC1KYWlCRnl3UXpVTTJXazNXeHVHQXNNVzcxaXctRlREUHI4dV9qQloweHV4M0c2LVY0VE5CdTFHSXFDZw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 08:28:06 GMT",
+      "content": "上海創新創意設計研究院  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMizgFBVV95cUxPMjlYRjk4QjQwYy1FZWpLOV9IWWlYWHVTcnY5bjBwNHNKcF9ub0xFMEJhSXNvQ2RORG9kbjRYb1o1RmpmZkpVbVUybDRvc3N0YXBQV3lxZXZFeWdWbzRTRFJycVVhT01jMUVRWnhydmQydDRLSEhQT2JZMjhEcUVzQWJIOUgtclV1V3F6VkNYV3JxeC1KYWlCRnl3UXpVTTJXazNXeHVHQXNNVzcxaXctRlREUHI4dV9qQloweHV4M0c2LVY0VE5CdTFHSXFDZw"
     },
     {
       "title": "高雄阿公順手抱走路邊盆栽！　失主焦急報案求協尋：那是骨灰盆",
@@ -2995,12 +3128,12 @@
       "guid": "CBMijAFBVV95cUxQcWpqMXVnQ01NbUI2b3NpLUFLVTc1WXlhcjgySDNuN2FTSHYzdTVaVEsyWVJBSmgtU2Y3aE1Lei04WG4tOEMtbEFac0RCLWlmYXNjdHU0S0xoVW1DazNPUWhOZFBZTHE4TFhkVjNCQjVRaHg3c2l4eFNhV19ibXlpdVQ3cTgwZlRHMUV2RA"
     },
     {
-      "title": "啦啦NEWS 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mQ1RORi0xSXhXTFNrTHVQZ0dMWmtyVHpmYW5kRWFfN19ZSk9XUmRvN2JBdTA0NGZZRDFFeXUtV0hRQm95bWpnQTlRcS1NbUNjRk5fcHhqSl95V1NVNDdSZ1U5ckpJVEFTUXh0Z25oN0FMbHdObmVVSHVB?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 07:56:34 GMT",
-      "content": "啦啦NEWS 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMiekFVX3lxTE5mQ1RORi0xSXhXTFNrTHVQZ0dMWmtyVHpmYW5kRWFfN19ZSk9XUmRvN2JBdTA0NGZZRDFFeXUtV0hRQm95bWpnQTlRcS1NbUNjRk5fcHhqSl95V1NVNDdSZ1U5ckpJVEFTUXh0Z25oN0FMbHdObmVVSHVB"
+      "title": "斷姊姊縣長路？謝典霖開箱「謝家白宮」拚議長連任",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaGRVcWVnWW1XcG1MaTJhRllCXzJVdzlYU1FPR0hfWGstWHdzcXlNOWl0c0t1RkxEUE5ZTzhfZHlwNXpuLWItd3dwdXNGWVNvdjV3eERGRmJXbGl5UlFCdzNEZ0p2Z0U4NWc3dlk3NEY3M0ZNdGNzNnRNb1ZseEgteDYwQkZHNTQxOEdZamZyVQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 07:57:31 GMT",
+      "content": "斷姊姊縣長路？謝典霖開箱「謝家白宮」拚議長連任  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMijwFBVV95cUxPaGRVcWVnWW1XcG1MaTJhRllCXzJVdzlYU1FPR0hfWGstWHdzcXlNOWl0c0t1RkxEUE5ZTzhfZHlwNXpuLWItd3dwdXNGWVNvdjV3eERGRmJXbGl5UlFCdzNEZ0p2Z0U4NWc3dlk3NEY3M0ZNdGNzNnRNb1ZseEgteDYwQkZHNTQxOEdZamZyVQ"
     },
     {
       "title": "19歲網紅爬雪山活活凍死！　愛犬頂暴風雪「守屍4天」不吃不喝",
@@ -3017,14 +3150,6 @@
       "content": "不是鳳梨酥！日本人來台瘋吃超商「1神級美食」：每月狂吃15個  ETtoday新聞雲",
       "source": "ETtoday",
       "guid": "CBMiaEFVX3lxTE1keDltOHlONWJfMlp3V1NkOXBPakpvMlpoSnNCcGI2dXFCQm92TS14amNOcVFKcUxad25jc2FwZnQxeFlLd2xKSVM4bnNfQ3RIYV9hYTZlc3d2ZDd1MjRuWVRxazJvc0tW0gFoQVVfeXFMTWR4OW04eU41Yl8yWndXU2Q5cE9qSm8yWmhKc0JwYjZ1cUJCb3ZNLXhqY05xUUpxTFp3bmNzYXBmdDF4WUt3bEpJUzhuc19DdEhhX2FhNmVzd3ZkN3UyNG5ZVHFrMm9zS1Y"
-    },
-    {
-      "title": "GDP超車無感？南韓起薪多台灣4成 揭密「這一行」差距最大達1.6倍",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQNjdWYkpha3dVV3haaFRpUGpWR1lhdzZodVV1TFpGY2ZFOTRnTUFQYnl6aWtILVJSNVVST1doVkJVcFk3Z2ZVWWQtNjRqcFVlcXdwTnp4bFVuaUdfNl9hSmhEUk5QUDJTa0RxM1dKZEhOSzhOZUFncEJGYmdnNWdaTUhCVFg0UFlHMVl3aVctckFOY0x6ZFJJX29oMkdtUHRDU3VMcVdIT0FKVExmb3Jyb2ZscmltTjZXN1BCQmRnazRtRVVJQzdRTWhNdE9seEc4QVdkcTl4RnNvQXFtc0ZqSUJKV2lqTkRmNUVmZlFhc2cyWFU2RWtZR1hFYTZiMm9QaVFKR2xoTXYtSjBWSUNrY082T0s2WU9pV2VCMlFB?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 07:54:51 GMT",
-      "content": "GDP超車無感？南韓起薪多台灣4成 揭密「這一行」差距最大達1.6倍  Yahoo新聞",
-      "source": "Yahoo新聞",
-      "guid": "CBMingJBVV95cUxQNjdWYkpha3dVV3haaFRpUGpWR1lhdzZodVV1TFpGY2ZFOTRnTUFQYnl6aWtILVJSNVVST1doVkJVcFk3Z2ZVWWQtNjRqcFVlcXdwTnp4bFVuaUdfNl9hSmhEUk5QUDJTa0RxM1dKZEhOSzhOZUFncEJGYmdnNWdaTUhCVFg0UFlHMVl3aVctckFOY0x6ZFJJX29oMkdtUHRDU3VMcVdIT0FKVExmb3Jyb2ZscmltTjZXN1BCQmRnazRtRVVJQzdRTWhNdE9seEc4QVdkcTl4RnNvQXFtc0ZqSUJKV2lqTkRmNUVmZlFhc2cyWFU2RWtZR1hFYTZiMm9QaVFKR2xoTXYtSjBWSUNrY082T0s2WU9pV2VCMlFB"
     },
     {
       "title": "馬斯克的SpaceX準備將100萬顆AI算力衛星送入太空",
@@ -3065,6 +3190,14 @@
       "content": "王有美  中時新聞網",
       "source": "中時新聞網",
       "guid": "CBMibkFVX3lxTE5VWDY4SjRWQ2pfa016ZnJ3dVZRT3RfOXhOdVhlRU5aVzJZUmtEamw4eXY3SEF0eGxkaWJWTkh1WkwwWW1WZzRMVVI5cDd1NVJZNjBhNVRUdl9yOU10a0h4SGV1bXQxZ3ZURlRrcHJn"
+    },
+    {
+      "title": "原要走私到台灣！柬國查獲毒品1.5噸 2台男共8人遭判終身監禁",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQSkdkandjMW1xbFhhanJlSjlBaEFLZndkbGxHMEdUVGc0cjFvTWxnU29fc1FfSDhicEZXLTE3SlFmNUJSQW9DLWlfbzBTaWFFcnZPODVKbWt3dTdFbG51bVdobVdxZVhaOXkwMVMyYzZzXzNDZzViZzVjN1lPTTVpNS1fRWgyWGNQRUhIVlVkcEQ4ekQ0NWpicG1XRFEtZmk1VGZOZkNPVnU3RDQyX0kxRTl1ZU5qMXFyNXRtdHpMTTNKN1JTZG9majZRaGFDcWg5SWFZQzNoOFRrSkdiOHpzeC1zd0FWaUJTM25ORmNNdnpRSVllRy12d2ljXzZtU0ppN0EwczZPYmk1aVNaMjNKS0hycWV0ZE5RTlBKcFl6UFN4RzlaeXQ0em5LMDEteEZPazR3cDAtZGVEU2hYY2MxbkxyV214SnlBY041MG11MlhLR3BBR0RadGJ6NG03SjUwM0VPWDc1Mjg2cG8tRXhjOU5pc1FHVDdZdm9hbw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 07:44:19 GMT",
+      "content": "原要走私到台灣！柬國查獲毒品1.5噸 2台男共8人遭判終身監禁  Yahoo新聞",
+      "source": "Yahoo新聞",
+      "guid": "CBMi_AJBVV95cUxQSkdkandjMW1xbFhhanJlSjlBaEFLZndkbGxHMEdUVGc0cjFvTWxnU29fc1FfSDhicEZXLTE3SlFmNUJSQW9DLWlfbzBTaWFFcnZPODVKbWt3dTdFbG51bVdobVdxZVhaOXkwMVMyYzZzXzNDZzViZzVjN1lPTTVpNS1fRWgyWGNQRUhIVlVkcEQ4ekQ0NWpicG1XRFEtZmk1VGZOZkNPVnU3RDQyX0kxRTl1ZU5qMXFyNXRtdHpMTTNKN1JTZG9majZRaGFDcWg5SWFZQzNoOFRrSkdiOHpzeC1zd0FWaUJTM25ORmNNdnpRSVllRy12d2ljXzZtU0ppN0EwczZPYmk1aVNaMjNKS0hycWV0ZE5RTlBKcFl6UFN4RzlaeXQ0em5LMDEteEZPazR3cDAtZGVEU2hYY2MxbkxyV214SnlBY041MG11MlhLR3BBR0RadGJ6NG03SjUwM0VPWDc1Mjg2cG8tRXhjOU5pc1FHVDdZdm9hbw"
     },
     {
       "title": "路邊盆栽別亂撿！高雄阿公整盆抱走 屋主傷心「那是骨灰罈」",
@@ -3219,12 +3352,36 @@
       "guid": "CBMiX0FVX3lxTE4ydGV5Nl92M1NkSHdIbUlCVlI2T1YxVkVPU1IwSnBfWEV1OTVNZ0t0ZllqamcxZlVMTEtXSVlWd1Z0cE84UGhuSjFRWFZmTFo3WlVON3ZETmxQNFhBR0tv0gFkQVVfeXFMTTM4ZDliT1B0RlhST3ZTa2JSc0VOZDdkTldzM1VpT3JjeVl2VFdvX3FncUVnVXFPY0NOTTF2ajFOUFhJVGE3TFRYbVd3NWVVYS1ETVAwQUh3bVR3VVNkT191WlR0Sg"
     },
     {
+      "title": "Sony新專利曝光「PS手把或變觸控式」？自由調整按鍵位置大小",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91N3JDY3pfNnFNMDhzMGlZSjFiM2czVU1pNFpldnJKZnU5N2d6eml1dEtxUjFWdW1mZ3dfdk93Smh6SmwxejdoZkV2bnNCM1UxajNBczlac9IBakFVX3lxTFBXTWhNbXNVV095R09fZXNaU1FJMGlySGtneFplNElJM2w0V0JiMGRHVmJSY2VydDRrWU8zSjRCTkVTWENwcUFscGRsNTYxRFllcTdiSms1WTB6LXlWTTMzVHVoZVlRdVdrV0E?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 06:55:00 GMT",
+      "content": "Sony新專利曝光「PS手把或變觸控式」？自由調整按鍵位置大小  ETtoday遊戲雲",
+      "source": "ETtoday",
+      "guid": "CBMiV0FVX3lxTE91N3JDY3pfNnFNMDhzMGlZSjFiM2czVU1pNFpldnJKZnU5N2d6eml1dEtxUjFWdW1mZ3dfdk93Smh6SmwxejdoZkV2bnNCM1UxajNBczlac9IBakFVX3lxTFBXTWhNbXNVV095R09fZXNaU1FJMGlySGtneFplNElJM2w0V0JiMGRHVmJSY2VydDRrWU8zSjRCTkVTWENwcUFscGRsNTYxRFllcTdiSms1WTB6LXlWTTMzVHVoZVlRdVdrV0E"
+    },
+    {
       "title": "世紀血案",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fSGlwMzB2UWtyRjd3YVFmQXpFcmJwRWF6OWRnOUNwT182VGxRY2hueWxJRm1XdVdhUFNjaThtUURmTUtLUWdRZXFGcUdJUzJNMGhTY2pSNWozMFZJT0xGN1doUUltVXVGX3hMZlZ2dlFaeEg2OHRKVTVn?oc=5",
       "pubDate": "Sun, 01 Feb 2026 06:51:48 GMT",
       "content": "世紀血案  中時新聞網",
       "source": "中時新聞網",
       "guid": "CBMiekFVX3lxTE5fSGlwMzB2UWtyRjd3YVFmQXpFcmJwRWF6OWRnOUNwT182VGxRY2hueWxJRm1XdVdhUFNjaThtUURmTUtLUWdRZXFGcUdJUzJNMGhTY2pSNWozMFZJT0xGN1doUUltVXVGX3hMZlZ2dlFaeEg2OHRKVTVn"
+    },
+    {
+      "title": "芬蘭歌手咖力亞登大港開唱期待感受台灣觀眾熱情| 娛樂",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsc3VnZDZwbGpUdnVCbkI1U2tLRm1UemRxRlpGZ3RRekkwdDlOYS04bUUxVTVMQy1KNnR6VEVXa3dqQzNpMXpsRVdvMkZ1NFYwS0dCdFpreTFieXN1djY4?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 06:48:00 GMT",
+      "content": "芬蘭歌手咖力亞登大港開唱期待感受台灣觀眾熱情| 娛樂  中央社 CNA",
+      "source": "中央社 CNA",
+      "guid": "CBMiX0FVX3lxTFBsc3VnZDZwbGpUdnVCbkI1U2tLRm1UemRxRlpGZ3RRekkwdDlOYS04bUUxVTVMQy1KNnR6VEVXa3dqQzNpMXpsRVdvMkZ1NFYwS0dCdFpreTFieXN1djY4"
+    },
+    {
+      "title": "赴豐原果菜市場拜票楊瓊瓔提2事：攤商不用再日曬雨淋很欣慰- 政治",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaW5TREx4U2pKLXdUVzh4bDhsems5YnBCa1k5LV9XdFM2Z180bkdCaFdIaE1CSERMSG5wajJYOXZJNERTM2w0YXBpNm4wOWZaNEpVSUhXN3FEbzliTjJsS1lxVzBELVRESC1PNFFqZWFPbmtXUkFmaDd2SzY3TEJWUi0wQ2pHTUdLbTEwMWdYbw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 06:46:35 GMT",
+      "content": "赴豐原果菜市場拜票楊瓊瓔提2事：攤商不用再日曬雨淋很欣慰- 政治  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMijwFBVV95cUxQaW5TREx4U2pKLXdUVzh4bDhsems5YnBCa1k5LV9XdFM2Z180bkdCaFdIaE1CSERMSG5wajJYOXZJNERTM2w0YXBpNm4wOWZaNEpVSUhXN3FEbzliTjJsS1lxVzBELVRESC1PNFFqZWFPbmtXUkFmaDd2SzY3TEJWUi0wQ2pHTUdLbTEwMWdYbw"
     },
     {
       "title": "虛擬幣圈大屠殺！美元走強 42萬人爆倉慘賠逾800億",
@@ -3251,6 +3408,14 @@
       "guid": "CBMiaEFVX3lxTE5vaTBGTGVTV3FHbjFBczdWWXZVYUV0OFJDWklHRmJEbFo4R2hKWXVLOUVsUnM4eGNjZ2VRTkZ1YWhORFA4Y1hWV1FVZFhBdHFYT2hTUnZkbFlycWtpaThvZWdfT1FMZG130gFoQVVfeXFMTm9pMEZMZVNXcUduMUFzN1ZZdlVhRXQ4UkNaSUdGYkRsWjhHaEpZdUs5RWxSczh4Y2NnZVFORnVhaE5EUDhjWFZXUVVkWEF0cVhPaFNSdmRsWXJxa2lpOG9lZ19PUUxkbXc"
     },
     {
+      "title": "充電線勒脖 相關新聞報導 第1頁",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGx4MGw3Tlh0c09GNXhFZldFWmFhUkc5dmVuMDBxNmlFb0R4aFc4QVNBaEJZeVZVMkYxb20zelRTRlFSV0RjSm1JdUg2OWJXc3dIaUl3YkZYalhzZWJIdERNZlZZc09Pb25vMDV6dUt2UTFLNTRReEhReWx6RFB1c29hZENxM1lrU0Z6b3NaRkdWMS1RX1VyTw?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 06:39:46 GMT",
+      "content": "充電線勒脖 相關新聞報導 第1頁  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMimAFBVV95cUxQZGx4MGw3Tlh0c09GNXhFZldFWmFhUkc5dmVuMDBxNmlFb0R4aFc4QVNBaEJZeVZVMkYxb20zelRTRlFSV0RjSm1JdUg2OWJXc3dIaUl3YkZYalhzZWJIdERNZlZZc09Pb25vMDV6dUt2UTFLNTRReEhReWx6RFB1c29hZENxM1lrU0Z6b3NaRkdWMS1RX1VyTw"
+    },
+    {
       "title": "快訊 ∕ 中橫百公斤落石砸車頭！女駕駛驚魂：差2秒不堪設想",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sQTFKOVVuVFBpTXE5SFhLYVFfWURKbDAyMS1fTWsxN20tMkxnRm5UNWhrbC1fckptXzZwZXpiTDBuX3UxYzREd3QtbGY5eEJvTFJ5MHlGeHZOdVBPVnpIYkx0Sy1IRmhK0gFoQVVfeXFMT2xBMUo5VW5UUGlNcTlIWEthUV9ZREpsMDIxLV9NazE3bS0yTGdGblQ1aGtsLV9ySm1fNnBlemJMMG5fdTFjNER3dC1sZjl4Qm9MUnkweUZ4dk51UE9WekhiTHRLLUhGaEo?oc=5",
       "pubDate": "Sun, 01 Feb 2026 06:38:00 GMT",
@@ -3259,28 +3424,20 @@
       "guid": "CBMiaEFVX3lxTE9sQTFKOVVuVFBpTXE5SFhLYVFfWURKbDAyMS1fTWsxN20tMkxnRm5UNWhrbC1fckptXzZwZXpiTDBuX3UxYzREd3QtbGY5eEJvTFJ5MHlGeHZOdVBPVnpIYkx0Sy1IRmhK0gFoQVVfeXFMT2xBMUo5VW5UUGlNcTlIWEthUV9ZREpsMDIxLV9NazE3bS0yTGdGblQ1aGtsLV9ySm1fNnBlemJMMG5fdTFjNER3dC1sZjl4Qm9MUnkweUZ4dk51UE9WekhiTHRLLUhGaEo"
     },
     {
+      "title": "Episode 157: The Limits of AI’s Impact on Human Nature",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yaGlkU25EcDZqbW9xVnpTTDYtaHcwRlNOLTNfeHRzQlFFRGNyWUVFY3lwek03VFhRUE92bWx5WEgxc05uSVRHV2l3N0J4c3VManM0blJB?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 06:31:33 GMT",
+      "content": "Episode 157: The Limits of AI’s Impact on Human Nature  udn部落格",
+      "source": "聯合報",
+      "guid": "CBMiVkFVX3lxTE0yaGlkU25EcDZqbW9xVnpTTDYtaHcwRlNOLTNfeHRzQlFFRGNyWUVFY3lwek03VFhRUE92bWx5WEgxc05uSVRHV2l3N0J4c3VManM0blJB"
+    },
+    {
       "title": "李貞秀尚未提交放棄中國國籍證明！杜奕瑾：刻意測試台灣制度底線| 政治",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhWld4eVlrdkFkbHBwS3hjWUR6d0ZtdVdvT25GcVVhaVA1ZVJPQWt5YXdQdWtrVlNIbGxud2QwRFVYaHlFemV2dHItRkp2ekl0OW1zUExja2FuY0k?oc=5",
       "pubDate": "Sun, 01 Feb 2026 06:30:51 GMT",
       "content": "李貞秀尚未提交放棄中國國籍證明！杜奕瑾：刻意測試台灣制度底線| 政治  Newtalk新聞",
       "source": "Newtalk新聞",
       "guid": "CBMiW0FVX3lxTFBhWld4eVlrdkFkbHBwS3hjWUR6d0ZtdVdvT25GcVVhaVA1ZVJPQWt5YXdQdWtrVlNIbGxud2QwRFVYaHlFemV2dHItRkp2ekl0OW1zUExja2FuY0k"
-    },
-    {
-      "title": "2026年2月1日 wildwood - youryouryoursuan@悠悠璇璇璇",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNNEV0QlQycXpOSDQzajJadmVOTVZxZ1RkSG5qUDNVcFlVajI2Zm9zaC1LWmZpUGZUeW15T1ZJdklzajY5ZU44cXp5aExaUW1la2c?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 06:30:04 GMT",
-      "content": "2026年2月1日 wildwood - youryouryoursuan@悠悠璇璇璇  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiUkFVX3lxTFBNNEV0QlQycXpOSDQzajJadmVOTVZxZ1RkSG5qUDNVcFlVajI2Zm9zaC1LWmZpUGZUeW15T1ZJdklzajY5ZU44cXp5aExaUW1la2c"
-    },
-    {
-      "title": "波波恰恰",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YcWhmcTY4MllkWWw1OWZPUVVsQ0paNkdGTjFnNGFvaFE4RjhvajUtdVV4aUlNTEsyZHlhSGVBUWxzOGk2aGUwc1hHSjN1dTdJdkdVNng4NTlnVzhfZW5TVERoTU1zelBEMm5mczltZTllckdiS2VEbDhB?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 06:28:01 GMT",
-      "content": "波波恰恰  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMiekFVX3lxTE9YcWhmcTY4MllkWWw1OWZPUVVsQ0paNkdGTjFnNGFvaFE4RjhvajUtdVV4aUlNTEsyZHlhSGVBUWxzOGk2aGUwc1hHSjN1dTdJdkdVNng4NTlnVzhfZW5TVERoTU1zelBEMm5mczltZTllckdiS2VEbDhB"
     },
     {
       "title": "柬埔寨警破獲跨國電詐園區 2044人落網！驚見5名台灣人",
@@ -3355,12 +3512,12 @@
       "guid": "CBMibkFVX3lxTFB1b3M3TEt5NTFmNWo1U3lmU3dfbmJjX1ktdUVNdGJjNGZBVXVZaVF3dHFRMUw2aHh6WEN1b091ZHBCM1VZdUdTVHJRMUVZS3ZxY1cyQ0pnNjUwbjlMbWtBc3JyLXVPakM4SzlFRk1R"
     },
     {
-      "title": "獨家》包偉銘攜愛妻做公益 曝劉依純生日將「飛離台灣」",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0FodWNGd2V3WDRiZENSTzVOTlc1b3JyS2VMTTllaVNQZ01xTzVYM2NsVTRZMUJuTGtHOGt1dGUtbXNMY3BJZzRFUGhjRTlhZWVLa21lSlpMQWh1YzFDaU1CUGw5ajJrSjZGNzF5cXhRY1lNZlJBU1pnQ1RKWXhCdFNZX3VfM1VIYnowVTRlRQ?oc=5",
+      "title": "獨家》包偉銘攜愛妻做公益 曝劉依純生日「飛離台灣」享受天倫之樂",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1ZHk4ZllFM3IteW5vZ3Q0QUl1MEkwNTNfUF9mMlZJVURLVlk5Z2pNZHZ2QnA0Q0FnVVB2MW5kMkZVcUNmSzM5QW9ab1BZdkxZVTdlbEgzcVdJSXNBdVNkMUI2S2hEREVBTnp5M25n?oc=5",
       "pubDate": "Sun, 01 Feb 2026 06:10:24 GMT",
-      "content": "獨家》包偉銘攜愛妻做公益 曝劉依純生日將「飛離台灣」  中時新聞網",
+      "content": "獨家》包偉銘攜愛妻做公益 曝劉依純生日「飛離台灣」享受天倫之樂  中時新聞網",
       "source": "中時新聞網",
-      "guid": "CBMijwFBVV95cUxOS0FodWNGd2V3WDRiZENSTzVOTlc1b3JyS2VMTTllaVNQZ01xTzVYM2NsVTRZMUJuTGtHOGt1dGUtbXNMY3BJZzRFUGhjRTlhZWVLa21lSlpMQWh1YzFDaU1CUGw5ajJrSjZGNzF5cXhRY1lNZlJBU1pnQ1RKWXhCdFNZX3VfM1VIYnowVTRlRQ"
+      "guid": "CBMibkFVX3lxTFA1ZHk4ZllFM3IteW5vZ3Q0QUl1MEkwNTNfUF9mMlZJVURLVlk5Z2pNZHZ2QnA0Q0FnVVB2MW5kMkZVcUNmSzM5QW9ab1BZdkxZVTdlbEgzcVdJSXNBdVNkMUI2S2hEREVBTnp5M25n"
     },
     {
       "title": "鄭宗哲今冬DFA次數已逼近歷史極端案例　今返中華隊持續備戰經典賽",
@@ -3369,22 +3526,6 @@
       "content": "鄭宗哲今冬DFA次數已逼近歷史極端案例　今返中華隊持續備戰經典賽  ETtoday運動雲",
       "source": "ETtoday",
       "guid": "CBMiUEFVX3lxTE5YNlFqNDdVenVkT3prbUVaZ044RE1Cb0hFWVdjSUxYUjFMRjZ1Zm1CMDlKRENoWkZLNG9OQmM5UnF6MVNGMFhQVS1PcklsaHJT0gFsQVVfeXFMTk9tcmJPZ01vdy15YWNuNGxoZHRyYU1QZ19va3dWQ3JzSnpWaDZNd3diUUZOVF9YVTlEcG5QYU9XTVR5VFdWNkFVSWxYTzYwb3pWMkdVT0ZpNUNrNFBqSVNRSWdrbFB0dUI3S3lP"
-    },
-    {
-      "title": "派出所失火 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEZYYlNINEZlTHJPTTUtRHM0ZURwU2k3YUhzaTlYT2psVk5RX0t2N05QaHhRQkltWEtHckh4dXZEemdlTDN5RFE3eHYwZnViWHIzd3dnUTdKaExlUHVNSlRuWkxwVzRQamJYbUNCR193bnA4aHdkc2txdnc0SV9XLTNZcTZ0VTNvUUlFVVRlY2ZvbjZuOGl4bQ?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 06:09:08 GMT",
-      "content": "派出所失火 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMimAFBVV95cUxOOEZYYlNINEZlTHJPTTUtRHM0ZURwU2k3YUhzaTlYT2psVk5RX0t2N05QaHhRQkltWEtHckh4dXZEemdlTDN5RFE3eHYwZnViWHIzd3dnUTdKaExlUHVNSlRuWkxwVzRQamJYbUNCR193bnA4aHdkc2txdnc0SV9XLTNZcTZ0VTNvUUlFVVRlY2ZvbjZuOGl4bQ"
-    },
-    {
-      "title": "砂崙派出所 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHJTcndZSmtMMURHVl9kWDM4NEFkS0JRQWVTSzVaV2l6cU5mSEZ4cnJDMVo0NVkzSWE0T0I0UTJCaHItZjM2Vkg1ZUFJY2JPclVMNHN0b1pxemJueDE4VktoeWtndWJ3ZHdnWHJJT082bFdLckhJVWRFaUwyLTM3d21rTXphUHlmU1I3ZVF5WlVUMGgySzNxVw?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 06:09:08 GMT",
-      "content": "砂崙派出所 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMimAFBVV95cUxPbHJTcndZSmtMMURHVl9kWDM4NEFkS0JRQWVTSzVaV2l6cU5mSEZ4cnJDMVo0NVkzSWE0T0I0UTJCaHItZjM2Vkg1ZUFJY2JPclVMNHN0b1pxemJueDE4VktoeWtndWJ3ZHdnWHJJT082bFdLckhJVWRFaUwyLTM3d21rTXphUHlmU1I3ZVF5WlVUMGgySzNxVw"
     },
     {
       "title": "10大ETF人氣王一表看！這檔最受歡迎 週增28462人",
@@ -3404,11 +3545,11 @@
     },
     {
       "title": "再批張又俠　解放軍報：必須持續深化政治整訓",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIMTJNLVpVaFhhWHhId1V6c1YxVlRncm9QUWNlWmd4cWNXaWJwUVpvZEU1VkZ2ZXQyQUJ6N0JjOUttRHAzVGQwVVNpelBPM2xSSHduN3BjMXQxLVN1cUs3UnNpMDN0T1ZC0gFoQVVfeXFMUEgxMk0tWlVoWGFYeEh3VXpzVjFWVGdyb1BRY2VaZ3hxY1dpYnBRWm9kRTVWRnZldDJBQno3QmM5S21EcDNUZDBVU2l6UE8zbFJId243cGMxdDEtU3VxSzdSc2kwM3RPVkI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ldklLNVBoaFBiTTJRYmRBUEE0T212Y3ExR25XcXp0b3hINHUwcm5wQ2FGcjJrakFaYTJGd3ZQRXF6eVZDMzlTcGt2Y2Y3RTVLZ0ZUZmJ2bHFJYTN0YWfSAWhBVV95cUxQSDEyTS1aVWhYYVh4SHdVenNWMVZUZ3JvUFFjZVpneHFjV2licFFab2RFNVZGdmV0MkFCejdCYzlLbURwM1RkMFVTaXpQTzNsUkh3bjdwYzF0MS1TdXFLN1JzaTAzdE9WQg?oc=5",
       "pubDate": "Sun, 01 Feb 2026 06:04:00 GMT",
       "content": "再批張又俠　解放軍報：必須持續深化政治整訓  ETtoday新聞雲",
       "source": "ETtoday",
-      "guid": "CBMiaEFVX3lxTFBIMTJNLVpVaFhhWHhId1V6c1YxVlRncm9QUWNlWmd4cWNXaWJwUVpvZEU1VkZ2ZXQyQUJ6N0JjOUttRHAzVGQwVVNpelBPM2xSSHduN3BjMXQxLVN1cUs3UnNpMDN0T1ZC0gFoQVVfeXFMUEgxMk0tWlVoWGFYeEh3VXpzVjFWVGdyb1BRY2VaZ3hxY1dpYnBRWm9kRTVWRnZldDJBQno3QmM5S21EcDNUZDBVU2l6UE8zbFJId243cGMxdDEtU3VxSzdSc2kwM3RPVkI"
+      "guid": "CBMiXkFVX3lxTE1ldklLNVBoaFBiTTJRYmRBUEE0T212Y3ExR25XcXp0b3hINHUwcm5wQ2FGcjJrakFaYTJGd3ZQRXF6eVZDMzlTcGt2Y2Y3RTVLZ0ZUZmJ2bHFJYTN0YWfSAWhBVV95cUxQSDEyTS1aVWhYYVh4SHdVenNWMVZUZ3JvUFFjZVpneHFjV2licFFab2RFNVZGdmV0MkFCejdCYzlLbURwM1RkMFVTaXpQTzNsUkh3bjdwYzF0MS1TdXFLN1JzaTAzdE9WQg"
     },
     {
       "title": "踢爆P2P無法提領套路- 錢包防線xr5620",
@@ -3425,6 +3566,14 @@
       "content": "柯文哲挺白營主席選新北：你要的是溫良恭儉讓的市長嗎？  中時新聞網",
       "source": "中時新聞網",
       "guid": "CBMijwFBVV95cUxNaU4tMGMzZ1JaS1RjNlBpM2dQNE5OZ3BMckI0MmpaQUs0QVF0amJpa2pTbnVjYTI0WmRMNHZRbHFqZVY4cC0wSmF5NTZ5cXpWNS05YmxwMUNpcXBDOTFqRThTVG92UXdRUlQyaHFib2t4WHkwRlU5aTJ6VGNyR08xTHBQSHM1SHkzQjdadktaWQ"
+    },
+    {
+      "title": "心臟負荷 相關新聞報導 第1頁",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTZfUzVvVUR6Zl9uR3E1NXJVaUplVHcwb015Wm5fUVA2LVVsLUJNTmhwblphMGhzekFzV1NUa0J2RG5MZ3pIMEFkaTZFSmVwQXBELWgzaFRJZ0V2YldQNlBNTERlbk9BTUp6aThnSmQ5Mml2Qnd6YzR1ZUo5SzNxRC00RFNSZ1FJRHBVUQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 05:49:54 GMT",
+      "content": "心臟負荷 相關新聞報導 第1頁  TVBS新聞網",
+      "source": "TVBS",
+      "guid": "CBMijAFBVV95cUxPVTZfUzVvVUR6Zl9uR3E1NXJVaUplVHcwb015Wm5fUVA2LVVsLUJNTmhwblphMGhzekFzV1NUa0J2RG5MZ3pIMEFkaTZFSmVwQXBELWgzaFRJZ0V2YldQNlBNTERlbk9BTUp6aThnSmQ5Mml2Qnd6YzR1ZUo5SzNxRC00RFNSZ1FJRHBVUQ"
     },
     {
       "title": "豎切法",
@@ -3449,14 +3598,6 @@
       "content": "影城杯架離奇失蹤！員工急協尋「位子賣不出去」　網笑翻：杯guy  ETtoday新聞雲",
       "source": "ETtoday",
       "guid": "CBMiaEFVX3lxTE5TZ3d3VmFCX3pzcVh5RV9obkpBc1ZKTzNVNEh5RkpSazhqOFhwUlgxMC1Bd193M25tYmxldHlvQzlvQTdSdnBVeWR4cnkzbFowSlFrd2JlLWRfWHRld3NZTmh0bm1XUWtu0gFoQVVfeXFMTlNnd3dWYUJfenNxWHlFX2huSkFzVkpPM1U0SHlGSlJrOGo4WHBSWDEwLUF3X3czbm1ibGV0eW9DOW9BN1J2cFV5ZHhyeTNsWjBKUWt3YmUtZF9YdGV3c1lOaHRubVdRa24"
-    },
-    {
-      "title": "機器人概念股升級！新漢、正崴、達明如何拼湊台灣勝利方程式？",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPOFgtQVhkMTZyQ2NKS0NJZ1huM1FFdWRIYkoxY2wxMW1Yd014VzE5bkNLNlBKZEE1UmFkQ2RjZ2lwS3lYYlFsekRkOTZZZzRUWnM2U3JLTEhRd3JZb1JMQm0yd3B2bG9LXzNOdVpoQlRYUFBuQ1ZSa1RhTVJELVhYLTVTVlRTX19fSnFlcnVWWWp3cHFETnFwb0dZS01jaEdndXhRN01OTXNOTDVWS0ZGZzROUDJyN3hUcmJxeUhMZTRrN2FKRkxjckZmdlhUcXJhNWdIS1lyZGR2MV9WQUJlZjcxa2gxcjlvVzJ2MmVZeDQ2cDREbWtoTDRQbVkxMndhMW9vMTkwYjA2N0FqQXFnVWMxUXNxNENTdjlRREZienMtUEx1cWV6eDVUMDlJX05fYmhVRDdzM1lIc09zRUMxRUcxanU3MDI2bm1hUUJUY0ZDMTdFTkcwQ0preUE2eFMzTEt5MDNuNUtma0xIZUdRNlo5Z05LZ0hmdnp2VC1OZExWa2xfMTA0VDNkaw?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 05:44:01 GMT",
-      "content": "機器人概念股升級！新漢、正崴、達明如何拼湊台灣勝利方程式？  Yahoo股市",
-      "source": "Yahoo股市",
-      "guid": "CBMiiwNBVV95cUxPOFgtQVhkMTZyQ2NKS0NJZ1huM1FFdWRIYkoxY2wxMW1Yd014VzE5bkNLNlBKZEE1UmFkQ2RjZ2lwS3lYYlFsekRkOTZZZzRUWnM2U3JLTEhRd3JZb1JMQm0yd3B2bG9LXzNOdVpoQlRYUFBuQ1ZSa1RhTVJELVhYLTVTVlRTX19fSnFlcnVWWWp3cHFETnFwb0dZS01jaEdndXhRN01OTXNOTDVWS0ZGZzROUDJyN3hUcmJxeUhMZTRrN2FKRkxjckZmdlhUcXJhNWdIS1lyZGR2MV9WQUJlZjcxa2gxcjlvVzJ2MmVZeDQ2cDREbWtoTDRQbVkxMndhMW9vMTkwYjA2N0FqQXFnVWMxUXNxNENTdjlRREZienMtUEx1cWV6eDVUMDlJX05fYmhVRDdzM1lIc09zRUMxRUcxanU3MDI2bm1hUUJUY0ZDMTdFTkcwQ0preUE2eFMzTEt5MDNuNUtma0xIZUdRNlo5Z05LZ0hmdnp2VC1OZExWa2xfMTA0VDNkaw"
     },
     {
       "title": "《陽光女子合唱團》凶器怎帶進監獄？網瘋猜答案釣出她回應- 娛樂",
@@ -3497,14 +3638,6 @@
       "content": "經濟學人專訪／鄭麗文「台灣人應接受自己是中國人」，稱想見習近平爭取和平承諾…民進黨這麼說  今周刊",
       "source": "今周刊",
       "guid": "CBMigAFBVV95cUxPTHQtRmhPLU5zdm1TSENfWVJWbHd2cXJDcWdVUHBvOUlBQms3eERWRXRJRGNsYXEwUDFrc3R5MmpzNk9DeHVQd20xSnowYW12NjZSb1FxQy1YV3E1N01SMFNVU0FrMFdmNjEweWpUallvTlR3ZHRvdlJQUUZ3eDhkaQ"
-    },
-    {
-      "title": "中壓直流電纜 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWJxR3hPMktkM3hfaGdfU19Zd1ZKYjZRb0h3Zkk2OEhXVUVGNVJxZF9Kbk1iV1RYR2xpaUpxdmFpZ01UQ3FzOVhGRGJuMU5TaEt3eE1jZkdBM0pXam9mcUpzUkNHWmV5c3VUQnJET1BTeGRuN1pjQjRpQ0NYZmNib25rcy1Oc1BoaHU4RnhYTVVFUFp6NHlpZmhZaG9LZUh4SVpVM2VwXzU?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 05:35:21 GMT",
-      "content": "中壓直流電纜 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMiqAFBVV95cUxOdWJxR3hPMktkM3hfaGdfU19Zd1ZKYjZRb0h3Zkk2OEhXVUVGNVJxZF9Kbk1iV1RYR2xpaUpxdmFpZ01UQ3FzOVhGRGJuMU5TaEt3eE1jZkdBM0pXam9mcUpzUkNHWmV5c3VUQnJET1BTeGRuN1pjQjRpQ0NYZmNib25rcy1Oc1BoaHU4RnhYTVVFUFp6NHlpZmhZaG9LZUh4SVpVM2VwXzU"
     },
     {
       "title": "《經濟》台灣中油：明日起汽、柴油各調漲0.3元及0.6元",
@@ -3691,14 +3824,6 @@
       "guid": "CBMibkFVX3lxTE9kZ2tKbVpUSVMzWFVfRkZoTGNuR0VlWEw5R1NmVF80anRiN0FZQXI3LUpFZ1lGNlhQRDM2TXZvaDNfUTJIak9RZHI0cFJsLTVqbEs4LUFUQVRNdmxmWS1qczJLZ2txdUFzQ0RsTDNR"
     },
     {
-      "title": "超級風箏 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOREI1eEE2NFpKbDFQNWJDREp6THViZjRFM0hmSno3RUp5VjNrNzNHZXJuZ21BcVNBS0VtNzZtVDltcUs3VHU5cGJhaW04NjJhNGVSSlIxVU9ZZmsyLUN2TGR0cVdpRFpTV0hFZ3A5cllyN3JqZ2c4ZF9ZNWpzVEpGLTFuZVF4MFl4RUJzeXRZMXQ?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 05:11:05 GMT",
-      "content": "超級風箏 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMikAFBVV95cUxOREI1eEE2NFpKbDFQNWJDREp6THViZjRFM0hmSno3RUp5VjNrNzNHZXJuZ21BcVNBS0VtNzZtVDltcUs3VHU5cGJhaW04NjJhNGVSSlIxVU9ZZmsyLUN2TGR0cVdpRFpTV0hFZ3A5cllyN3JqZ2c4ZF9ZNWpzVEpGLTFuZVF4MFl4RUJzeXRZMXQ"
-    },
-    {
       "title": "風能密度 相關新聞報導 第1頁",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYnRaMEpvdVYycWx1aFdHSlEyV3AwYUtRQVJmeFFvT2toeW5EWHdETl9YbDZwanhiZnJONGtNYmpkWFJSeG1GbzA3emZaaW9ibHlWNGF5emJmak9SVF9IRnJteGxEdGpfclllb2o3NGVuaFZVQ0RyV1NLcG43Z0JidF94SWJpeVRULVRkOUgxSzQ?oc=5",
       "pubDate": "Sun, 01 Feb 2026 05:11:04 GMT",
@@ -3769,14 +3894,6 @@
       "content": "介壽路派出所  中時新聞網",
       "source": "中時新聞網",
       "guid": "CBMikgFBVV95cUxNSkhYMy11R0sydi15VHNydlIzWFF0dFB5SzRZQmR2Z0Z0Q1VUajNHRTZKYWJ3WS1vTHJrNFdWQVQyeFZRMXo3Wk5UMlBfdkY1REFRRlZtRE1WT0Z3bWZheTFocjkydUF0NFA0bnI5ZkJTeHkzTF9IcTlkRVd1YzJXYk5hVXh4VXQxZks3dm1xZWJGdw"
-    },
-    {
-      "title": "假牙補助最高6萬 陳見賢：強化長照前端預防機制",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3NZN0FZZVhQcUhXMkZnbFRqSmVWc2FRd3VmZ2JzWTVhZ1ZUMVA2ckxxNnY0V2NEbk50TVNUSXZKbmxia3RPSGkwQ1oweUZzNDBKcXJtWlR1Njk4NWVFYktqMjlKNzRDTjNVQ0Z1R0pwalp6S2U1Q3NTZzU0MXkyaG54c0lNeFJ6X19kY3JWOA?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 04:52:47 GMT",
-      "content": "假牙補助最高6萬 陳見賢：強化長照前端預防機制  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMijwFBVV95cUxNd3NZN0FZZVhQcUhXMkZnbFRqSmVWc2FRd3VmZ2JzWTVhZ1ZUMVA2ckxxNnY0V2NEbk50TVNUSXZKbmxia3RPSGkwQ1oweUZzNDBKcXJtWlR1Njk4NWVFYktqMjlKNzRDTjNVQ0Z1R0pwalp6S2U1Q3NTZzU0MXkyaG54c0lNeFJ6X19kY3JWOA"
     },
     {
       "title": "冰鄉草莓牛乳冰早上7點公告完售　網曝：凌晨4點超過30人排隊",
@@ -3987,14 +4104,6 @@
       "guid": "CBMiaEFVX3lxTE5yOWtrckhMaDlvbk5JNnpOOTRVLUVXSHZ3X2pwdVoxV2JoNlBYcjRoZEdTSjJZYllSS1Rzc0NqV3BKUXNnWk9TaFBvRXhQNE55emJIcjRnUFF1OTJhZl9YZkpnYkU5SklV0gFoQVVfeXFMTnI5a2tySExoOW9uTkk2ek45NFUtRVdIdndfanB1WjFXYmg2UFhyNGhkR1NKMlliWVJLVHNzQ2pXcEpRc2daT1NoUG9FeFA0Tnl6YkhyNGdQUXU5MmFmX1hmSmdiRTlKSVU"
     },
     {
-      "title": "花蓮金三角路口升級 首座「有聲觸控行人專用號誌」上線",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGFTdDBNSks2TVFZQkFZempJdFFkeUhGVnlvem4tcEtRMkNOY1IzaWNXYnBELUZYS0otbTlQRkRLSFRjaTc0RzdnN0JSa3k3M2FmOXB0aXNkaGhNUUF4bW1VUU1IdENwRVpjNjN5UTJZb1BLQUpfTkU0NDUycEZaQUpzYUdmVlVlNXRicEVCdw?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 03:54:21 GMT",
-      "content": "花蓮金三角路口升級 首座「有聲觸控行人專用號誌」上線  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMijwFBVV95cUxPeGFTdDBNSks2TVFZQkFZempJdFFkeUhGVnlvem4tcEtRMkNOY1IzaWNXYnBELUZYS0otbTlQRkRLSFRjaTc0RzdnN0JSa3k3M2FmOXB0aXNkaGhNUUF4bW1VUU1IdENwRVpjNjN5UTJZb1BLQUpfTkU0NDUycEZaQUpzYUdmVlVlNXRicEVCdw"
-    },
-    {
       "title": "《產業》AI、半導體雙引擎帶動北高聚落職缺激增- 其他",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41LXBHYTZubDF3aVdaR3ZYR09wd1pvcWlnOHNDM2hFZHNEUjVoUWk4WEpmb0dkSzhMTjV5UmhVMTRlRWFPWEZUWEVBNzIzOEx5OXI0Ql8teWZxVGJTUk9LWWppaDdoRG1TX3c?oc=5",
       "pubDate": "Sun, 01 Feb 2026 03:49:06 GMT",
@@ -4043,14 +4152,6 @@
       "guid": "CBMiekFVX3lxTE5YOHFNa2Q5Mm5jM2RsV3ZDdHZINWpvNC1tU054SC1UZ0l6d2lpak50U2dBLTlSWnZjOUk2Z3dlTC1lSkh6NWhmajdGYzNSSWNHZS1RU0J6SndvT2hlV2tvcDN2dHZmR2tibGczOUs4d3lTa0RxR2ZtYWd3"
     },
     {
-      "title": "揭秘IBKR禁止提領真相與自救方式- 醒悟筆記",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zbVhfZGIzNVdBRVh1Vlg0cDY2U1JaRmJjVGYyQUNNZmtjQXVmV0lhaWFua2tLd1FjWkpOenNfdGtFLWFHNUtUOVlkOWFOTl80?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 03:36:32 GMT",
-      "content": "揭秘IBKR禁止提領真相與自救方式- 醒悟筆記  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiUEFVX3lxTE8zbVhfZGIzNVdBRVh1Vlg0cDY2U1JaRmJjVGYyQUNNZmtjQXVmV0lhaWFua2tLd1FjWkpOenNfdGtFLWFHNUtUOVlkOWFOTl80"
-    },
-    {
       "title": "清晨惡火驚醒新堀江！頂樓加蓋傳爆炸聲 男租客試圖滅火燒嗆傷",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04MEN6MW40cnlRNWVCQkdfYm1wZ1U4dExiRU04YnpBOGZpeTZ1QnVVMVVqQ1lVTnV3WkEyUGxXRDFjLVktR2lZWnRZRWM1RTNadlBSQjNfc2w2U0dhSDZ0ckJDbXhuREN3SUctMHRR?oc=5",
       "pubDate": "Sun, 01 Feb 2026 03:36:30 GMT",
@@ -4089,6 +4190,14 @@
       "content": "洋蔥排骨四季豆湯電鍋料理| 有肌勵  聯合新聞網",
       "source": "聯合報",
       "guid": "CBMif0FVX3lxTE1ib3R3RFNMRVBIQ2lrdnRRZmlaVExTWW9WYWlYWlJ1eVBpcnZKTHB4UDNVTjQtWmZ3MWpHWnFyMTdwUko2Zy1NY2xDTU5DU2YzbU1DZkRQck42d3c4U19aSjJLcl9xZ3d0TkJSZGtZSm9STlJNLVo3WlJpUEpPaXc"
+    },
+    {
+      "title": "《產業》AI、半導體雙引擎 帶動北高聚落職缺激增",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDExZ0s1N2xYOVRTRFVuX0NfLThPTE81Z1V6UG5GV0F3MnY2R1VnTTMwbWFLSURVSmJuWXZ4bjF6ZkZyNEVuejA3RjhUdEdJeFpDSkxNc1NHTWpvdWs5aFhHd0V2V05WUmFpM3gtcm9jZGZIU2EtUVFyU28zbkhfLUZ0UjZieWZBYkJmQXNSVQ?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 03:28:10 GMT",
+      "content": "《產業》AI、半導體雙引擎 帶動北高聚落職缺激增  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMijwFBVV95cUxNUDExZ0s1N2xYOVRTRFVuX0NfLThPTE81Z1V6UG5GV0F3MnY2R1VnTTMwbWFLSURVSmJuWXZ4bjF6ZkZyNEVuejA3RjhUdEdJeFpDSkxNc1NHTWpvdWs5aFhHd0V2V05WUmFpM3gtcm9jZGZIU2EtUVFyU28zbkhfLUZ0UjZieWZBYkJmQXNSVQ"
     },
     {
       "title": "孝親費",
@@ -4163,30 +4272,6 @@
       "guid": "CBMimAFBVV95cUxPN0hRZTRNRGdPdVVlMUdJNmRreEpibFNnVWd5c3ZINF9XM2dHN0c5TWRUSW1aam5tVm1OY3VLOEg0YTlqTDM4cTdSNkt0RXRfdGRfRXRNdG10ZmluaElPSUtsRnIxVWNPUVJUTFRKQkUtNHB1Y1RDUGdaSXk0aDhHdE9mZkdsNFlxdkNicHVJay1MUDBrNTRMSw"
     },
     {
-      "title": "進口量雪崩暴跌 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa09hVjJWSkVESnFkazRHdWdhT29MdExnNnBxQThyNmY0UmQ5S09acndaVGoxaUFmLS1xMnlnUEw0ZXR2MUpwT2MtcHEtUHZ1eW02c1dFaVlwcjFDNmRPVGlSVGxwVlk4d2Y0bm1VdFZGVUM4UXRSMTJLUTFoVzhLcGRsd3NhQnhubFJERk4yOFA1NjRMcFZ4R1EwbWdRZ290THFXMnhlM1pjUVFiNTZSdQ?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 03:11:05 GMT",
-      "content": "進口量雪崩暴跌 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMisAFBVV95cUxPa09hVjJWSkVESnFkazRHdWdhT29MdExnNnBxQThyNmY0UmQ5S09acndaVGoxaUFmLS1xMnlnUEw0ZXR2MUpwT2MtcHEtUHZ1eW02c1dFaVlwcjFDNmRPVGlSVGxwVlk4d2Y0bm1VdFZGVUM4UXRSMTJLUTFoVzhLcGRsd3NhQnhubFJERk4yOFA1NjRMcFZ4R1EwbWdRZ290THFXMnhlM1pjUVFiNTZSdQ"
-    },
-    {
-      "title": "古巴龍蝦進口量 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGNaOTk4bXdwRGYyQ09Ud0RlYnV2blFxVmdoOG1iQzdhTXBXcFlMUzRlTXZQbUxkaGFLVUNWdkYtSk1UM3NmQzNYZHdQVFVWTWQ1MzVpczZteFBWamxIbl9RcnpFbkVpSjFPZThrNkpob3loS1FJNzFwck1HRGRUS01PU0s3c0lfc2xTVllxdTNSbmozVFlYY1ptQ2VMeXhRclRQZm5QWXl5Q2EtbVNTUQ?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 03:11:05 GMT",
-      "content": "古巴龍蝦進口量 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMisAFBVV95cUxQNGNaOTk4bXdwRGYyQ09Ud0RlYnV2blFxVmdoOG1iQzdhTXBXcFlMUzRlTXZQbUxkaGFLVUNWdkYtSk1UM3NmQzNYZHdQVFVWTWQ1MzVpczZteFBWamxIbl9RcnpFbkVpSjFPZThrNkpob3loS1FJNzFwck1HRGRUS01PU0s3c0lfc2xTVllxdTNSbmozVFlYY1ptQ2VMeXhRclRQZm5QWXl5Q2EtbVNTUQ"
-    },
-    {
-      "title": "安心享福 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHIyREpKd1RNNmZXMVVoU3dUUnc1OWZ3ckVseDZiVVFDNVNCcUlUUTczb3NSeUhtSDZwSkZBVGpHXzNMZFlIMUZraTEwelZDZ2RRWml1YUROd193dmI2RHB4ekFnT0JqRTg4dTlJQXdkVVVmeUUxcWJRcE9MZkFOY011OU9qb253Mm00SA?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 03:11:04 GMT",
-      "content": "安心享福 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMijAFBVV95cUxQNHIyREpKd1RNNmZXMVVoU3dUUnc1OWZ3ckVseDZiVVFDNVNCcUlUUTczb3NSeUhtSDZwSkZBVGpHXzNMZFlIMUZraTEwelZDZ2RRWml1YUROd193dmI2RHB4ekFnT0JqRTg4dTlJQXdkVVVmeUUxcWJRcE9MZkFOY011OU9qb253Mm00SA"
-    },
-    {
       "title": "輝達台北總部「買一送一」？傳有意洲美國小預定地 網熱議：台北漲到沒邊際",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdmZiWUt3cl9hcVhHOWswaGdjdTdDY21vVXhydGk5dDJ1V0hVcGxGNVc0d1hYZ1dRNUdwMzc0WmQ5empjTEpfaWlYemtKMzdUYW56TFY3UUVvQXlW0gFiQVVfeXFMTTFodzJDcVdSdXpMVVdaVmc1dW9tcHRkZzFXLWV2NU01MzB1cGhlRnB5WGRrV3pHeGZRcWJCNnk2RHVrQ2R5WEdEcUpTX2VESlNjdkZwbVB5aE5sZW5CcEhwLWc?oc=5",
       "pubDate": "Sun, 01 Feb 2026 03:11:00 GMT",
@@ -4219,20 +4304,12 @@
       "guid": "CBMiUEFVX3lxTE84dFZ1emRCSmIxUHhJcFFpT09GcXlmMF9PRVl3YkQyQ1djSDBYSTd1cmFJWmtqeXBTcmhuQXpCUHFUY2ZmeVp2SmR1NzFvVHVw"
     },
     {
-      "title": "誤信「AllUnity」錢拿的回來嗎- 錢包守護日記",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxNFBZdnJtaHlBVnBZdGFvc1lfd2x3UDBUUXQzNmRySFg1aEMtR0VabXdma0FZNDN6UlVPRUdlT3RiaC1YRzRXWnRQRXZSX1V1?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 03:10:06 GMT",
-      "content": "誤信「AllUnity」錢拿的回來嗎- 錢包守護日記  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiUEFVX3lxTFBxNFBZdnJtaHlBVnBZdGFvc1lfd2x3UDBUUXQzNmRySFg1aEMtR0VabXdma0FZNDN6UlVPRUdlT3RiaC1YRzRXWnRQRXZSX1V1"
-    },
-    {
-      "title": "誤信「Amazon」錢拿的回來嗎- 醒悟筆記",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3Tkh1aVJWS0xxdUNBRzdtSUtBazhCbzFGWUdzTVNkOGUyd3ZZbndWVVBjcUxEUUw0cURPVURwbjBEcEdPOFpaNVNlYUltNVJ1?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 03:09:55 GMT",
-      "content": "誤信「Amazon」錢拿的回來嗎- 醒悟筆記  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiUEFVX3lxTFB3Tkh1aVJWS0xxdUNBRzdtSUtBazhCbzFGWUdzTVNkOGUyd3ZZbndWVVBjcUxEUUw0cURPVURwbjBEcEdPOFpaNVNlYUltNVJ1"
+      "title": "習近平：金融絕不能脫實向虛政策收放不能太急- 國際",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iQ25UREhLVGVVUUJMU3d3a2QxLWp3OFlyQzUzeUNLeUFWTFEzTjkyV1pVN3lNVjd0dTJHd3RhZ3FoRTQyQjFHUU1VWFZVYjJYd3phTV91ZlFHUXVTZV9MS3QtbHVzeHVkZ3c?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 03:02:14 GMT",
+      "content": "習近平：金融絕不能脫實向虛政策收放不能太急- 國際  旺得富理財網",
+      "source": "中時新聞網",
+      "guid": "CBMiakFVX3lxTE9iQ25UREhLVGVVUUJMU3d3a2QxLWp3OFlyQzUzeUNLeUFWTFEzTjkyV1pVN3lNVjd0dTJHd3RhZ3FoRTQyQjFHUU1VWFZVYjJYd3phTV91ZlFHUXVTZV9MS3QtbHVzeHVkZ3c"
     },
     {
       "title": "遭爆中頭獎800萬元？　「幸運兒」洪健益親解答：都市傳說真有趣",
@@ -4355,12 +4432,12 @@
       "guid": "CBMiaEFVX3lxTE5DTlc0dFo2eGN5VmVXOUsxZDZJM294bWJIUWpUWXFCR1ByLXhwbkt3Rm9JNk54a0pvN3dxaHJ3RXBiczlXVmxIcm0wYXI3U1o0QVlMZWVPNXlsNHRpWXhjMG1IY3JSemF30gFoQVVfeXFMTkNOVzR0WjZ4Y3lWZVc5SzFkNkkzb3htYkhRalRZcUJHUHIteHBuS3dGb0k2TnhrSm83d3FocndFcGJzOVdWbEhybTBhcjdTWjRBWUxlZU81eWw0dGlZeGMwbUhjclJ6YXc"
     },
     {
-      "title": "藍議長謝典林開箱700坪豪宅！有室內籃球場　稱在台北算一般家庭",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWSW9vYkJBVW1ySWhkV3NaSHUtZnlyd19Pdjg5aHR3MFRuSFR1TXI2NTNuNGR6MzZsWWo1bWs3RFFfbzRvLWtQUko4S0g0NlUxMTdUYzhndFVIa3ItLVdaR2pVZDNPYXFH0gFoQVVfeXFMUFZJb29iQkFVbXJJaGRXc1pIdS1meXJ3X092ODlodHcwVG5IVHVNcjY1M240ZHozNmxZajVtazdEUV9vNG8ta1BSSjhLSDQ2VTExN1RjOGd0VUhrci0tV1pHalVkM09hcUc?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 02:30:00 GMT",
-      "content": "藍議長謝典林開箱700坪豪宅！有室內籃球場　稱在台北算一般家庭  ETtoday新聞雲",
-      "source": "ETtoday",
-      "guid": "CBMiaEFVX3lxTFBWSW9vYkJBVW1ySWhkV3NaSHUtZnlyd19Pdjg5aHR3MFRuSFR1TXI2NTNuNGR6MzZsWWo1bWs3RFFfbzRvLWtQUko4S0g0NlUxMTdUYzhndFVIa3ItLVdaR2pVZDNPYXFH0gFoQVVfeXFMUFZJb29iQkFVbXJJaGRXc1pIdS1meXJ3X092ODlodHcwVG5IVHVNcjY1M240ZHozNmxZajVtazdEUV9vNG8ta1BSSjhLSDQ2VTExN1RjOGd0VUhrci0tV1pHalVkM09hcUc"
+      "title": "趙薇認離婚1年閃電現身直播間「親吻女主播臉頰」網驚呆- 娛樂",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1NXg4eEpxUWltMUttaUMtb1g4WkFvTk1FVDVfODRxUThYeC1nMHVRam5TaDNDU1FFQi1KRDlvOUxuXzlBWkFHYnB4UWM1X3ktSFA4VzJ2b0V5cWltZmVMUm5SZEx3ckJ2Q1JvOUpR?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 02:30:30 GMT",
+      "content": "趙薇認離婚1年閃電現身直播間「親吻女主播臉頰」網驚呆- 娛樂  中時新聞網",
+      "source": "中時新聞網",
+      "guid": "CBMibkFVX3lxTFB1NXg4eEpxUWltMUttaUMtb1g4WkFvTk1FVDVfODRxUThYeC1nMHVRam5TaDNDU1FFQi1KRDlvOUxuXzlBWkFHYnB4UWM1X3ktSFA4VzJ2b0V5cWltZmVMUm5SZEx3ckJ2Q1JvOUpR"
     },
     {
       "title": "NBA／喬治禁賽76人戰力亮紅燈！主帥點名「他」該挺身而出| NBA | 運動",
@@ -4371,6 +4448,14 @@
       "guid": "CBMiXkFVX3lxTE5Mdy1DMWpXTFhkS25kaDBIbUhnN0luVWZwbERpU19ic2VHeFl6bUVkb09wRDF3c2lQd3laTjFlZTdfdkg3dGJkaFk4aHdkS0h0aDFRMC1PZ0VfRXBIVlE"
     },
     {
+      "title": "深夜目擊「超巨鬃刷過馬路」 警察靠近看驚呆：牠守規矩乖乖走斑馬線",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uaE1hRzM5Z1JKelZfSk5yNW55YUtrSHM1OUdmNnNhSWJYM1lvLUdTWHY5dEd5WndxS0JPQnZTd2VVR1pFSmFRcFNHTVNSejJtRlNMbVZIX1RoNHNYcUpR0gFfQVVfeXFMTW5oTWFHMzlnUkp6Vl9KTnI1bnlhS2tIczU5R2Y2c2FJYlgzWW8tR1NYdjl0R3lad3FLQk9CdlN3ZVVHWkVKYVFwU0dNU1J6Mm1GU0xtVkhfVGg0c1hxSlE?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 02:26:00 GMT",
+      "content": "深夜目擊「超巨鬃刷過馬路」 警察靠近看驚呆：牠守規矩乖乖走斑馬線  udn寵物部落",
+      "source": "聯合報",
+      "guid": "CBMiX0FVX3lxTE1uaE1hRzM5Z1JKelZfSk5yNW55YUtrSHM1OUdmNnNhSWJYM1lvLUdTWHY5dEd5WndxS0JPQnZTd2VVR1pFSmFRcFNHTVNSejJtRlNMbVZIX1RoNHNYcUpR0gFfQVVfeXFMTW5oTWFHMzlnUkp6Vl9KTnI1bnlhS2tIczU5R2Y2c2FJYlgzWW8tR1NYdjl0R3lad3FLQk9CdlN3ZVVHWkVKYVFwU0dNU1J6Mm1GU0xtVkhfVGg0c1hxSlE"
+    },
+    {
       "title": "網傳台中和尚殯儀館旁酒駕撞賓士　警還原真相：低血糖釀自撞",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SVHA1RUZsVVhDME5iTUtjd1N5VTlpVUh3QVcxVUVna0ZyVFMzUHdONW9hcmhGLTh0dUwtblh3YjFqS0tGd3U3ejV3WTEyTjBwb0pJTjNhRHRoVE05bWfSAWhBVV95cUxQVnJfWlFlWmFIZUlNWHo3c2ZjQzZFS0FyVWFxcDREWE9NekhROExta0tQVktRRHBXcFVLdUdOWXRZTkgzUnNJZ2hvSnYyMzgyTklRTEV5Yk1zNU41RzRyOXpUR3BfeWZOQg?oc=5",
       "pubDate": "Sun, 01 Feb 2026 02:26:00 GMT",
@@ -4379,20 +4464,20 @@
       "guid": "CBMiXkFVX3lxTE5SVHA1RUZsVVhDME5iTUtjd1N5VTlpVUh3QVcxVUVna0ZyVFMzUHdONW9hcmhGLTh0dUwtblh3YjFqS0tGd3U3ejV3WTEyTjBwb0pJTjNhRHRoVE05bWfSAWhBVV95cUxQVnJfWlFlWmFIZUlNWHo3c2ZjQzZFS0FyVWFxcDREWE9NekhROExta0tQVktRRHBXcFVLdUdOWXRZTkgzUnNJZ2hvSnYyMzgyTklRTEV5Yk1zNU41RzRyOXpUR3BfeWZOQg"
     },
     {
-      "title": "夜市劵",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QSEQ0ZHVRZTdETlhjQ1A4V3RpRnB2WWVaQzBoME5UY29IeEtjcVFuUlF0RjdfRmtwWUJYY3ZIQm1VVmNXU1cwOUNsNVpqS0Zxc2RLUDZXbmxHQ3h2bW1vX1d5YnlfR1BERTc1M3dn?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 02:25:41 GMT",
-      "content": "夜市劵  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMibkFVX3lxTE5QSEQ0ZHVRZTdETlhjQ1A4V3RpRnB2WWVaQzBoME5UY29IeEtjcVFuUlF0RjdfRmtwWUJYY3ZIQm1VVmNXU1cwOUNsNVpqS0Zxc2RLUDZXbmxHQ3h2bW1vX1d5YnlfR1BERTc1M3dn"
-    },
-    {
       "title": "小心「TimeeCoin」假平臺無法提領- 投資警覺心",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaX0l0b0F2RmwtZGNKZC0ydmFqbGhPQWtjbTktWU1mMHZPT2I1UGNjMEl1SlRYQVBURFplSW90dngyR3d1V080X3VBT0w3NTRl?oc=5",
       "pubDate": "Sun, 01 Feb 2026 02:24:35 GMT",
       "content": "小心「TimeeCoin」假平臺無法提領- 投資警覺心  udn部落格",
       "source": "聯合報",
       "guid": "CBMiUEFVX3lxTFBaX0l0b0F2RmwtZGNKZC0ydmFqbGhPQWtjbTktWU1mMHZPT2I1UGNjMEl1SlRYQVBURFplSW90dngyR3d1V080X3VBT0w3NTRl"
+    },
+    {
+      "title": "既然不是仙，難免有雜念- 但求一杯忘情水",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5id0lRYVI4N1NZWnl0QldBOHhlRmlpMzRVOXpjSTNKQTdjTmRYTGFtZjU4azVsS18zcVN3TjlYR01LZW1UdFBlUkVob1dtdTg?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 02:22:00 GMT",
+      "content": "既然不是仙，難免有雜念- 但求一杯忘情水  udn部落格",
+      "source": "聯合報",
+      "guid": "CBMiT0FVX3lxTE5id0lRYVI4N1NZWnl0QldBOHhlRmlpMzRVOXpjSTNKQTdjTmRYTGFtZjU4azVsS18zcVN3TjlYR01LZW1UdFBlUkVob1dtdTg"
     },
     {
       "title": "信用瑕疵惹的禍！姊借妹名買房14年 欲討回竟要「法庭見」",
@@ -4427,14 +4512,6 @@
       "guid": "CBMiUkFVX3lxTE5TcUhvSTZwZWlTNnhzZ0d1VmRtX293bkhhU0VISlBEUUd4VFAzSXYxZWhqNmMtSlFZZ0p3blliWEEtYWNiQWhFeUZRTmdnS1VmUFE"
     },
     {
-      "title": "F5 Avenue提款被凍結- 錢包守護日記",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuem1CUlk4SlJUQUtrbkFRVl8zenNmLUp5NndNWTJRR2NqWmNxREZEM3IxNjNDQzRkbGZmR01Ea3VNTWRpTFFJRTdaMlRULTFRTDdCbWRza0U1TjQzSkZmNQ?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 02:05:51 GMT",
-      "content": "F5 Avenue提款被凍結- 錢包守護日記  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiYEFVX3lxTFBuem1CUlk4SlJUQUtrbkFRVl8zenNmLUp5NndNWTJRR2NqWmNxREZEM3IxNjNDQzRkbGZmR01Ea3VNTWRpTFFJRTdaMlRULTFRTDdCbWRza0U1TjQzSkZmNQ"
-    },
-    {
       "title": "彰化「衣鳳百貨」700坪開箱！議長謝典林：只是台北一般人的家庭",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtNEVGZTl0b2VaSlRRbjhScXFNalVkSUp3eW9Pb011QUF4TFpCLTJaRDhOdHBiVnBXdjNuYWdjaTltOUNLaDdWblNfOTRlTzDSAWtBVV95cUxPX1NoMWFJMEhjUzJBZjNiRmFTSjg2SlJqMmQyenFBZFdNbUNqaTNpWVhpa0tGTHdZWmVDUUFRN3hiQVhNSFBpM2FrNVhFZklhNEhPUnlHTlN5cXJmbF9NUGJSR2RZUUxuZGRMZw?oc=5",
       "pubDate": "Sun, 01 Feb 2026 02:02:00 GMT",
@@ -4443,12 +4520,20 @@
       "guid": "CBMiT0FVX3lxTFAtNEVGZTl0b2VaSlRRbjhScXFNalVkSUp3eW9Pb011QUF4TFpCLTJaRDhOdHBiVnBXdjNuYWdjaTltOUNLaDdWblNfOTRlTzDSAWtBVV95cUxPX1NoMWFJMEhjUzJBZjNiRmFTSjg2SlJqMmQyenFBZFdNbUNqaTNpWVhpa0tGTHdZWmVDUUFRN3hiQVhNSFBpM2FrNVhFZklhNEhPUnlHTlN5cXJmbF9NUGJSR2RZUUxuZGRMZw"
     },
     {
+      "title": "奶貓第一次學吃飯「狂啃碗邊嫌食物太硬」貓媽搖頭：這孩子蠢到不能要了",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GQzEycFFDUmtOeVJrYXBKazFmZmRmRVdQUnJnalF1NUlSUUxUa3A0dmtoRGVfTVBQTUtMd2JpdDV3ZE1BYm5KS1Y1c09SbVdvUWZGd2VTMEpDTGUtS3gw0gFfQVVfeXFMTkZDMTJwUUNSa055UmthcEprMWZmZGZFV1BScmdqUXU1SVJRTFRrcDR2a2hEZV9NUFBNS0x3Yml0NXdkTUFibkpLVjVzT1JtV29RZkZ3ZVMwSkNMZS1LeDA?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 02:01:00 GMT",
+      "content": "奶貓第一次學吃飯「狂啃碗邊嫌食物太硬」貓媽搖頭：這孩子蠢到不能要了  udn寵物部落",
+      "source": "聯合報",
+      "guid": "CBMiX0FVX3lxTE5GQzEycFFDUmtOeVJrYXBKazFmZmRmRVdQUnJnalF1NUlSUUxUa3A0dmtoRGVfTVBQTUtMd2JpdDV3ZE1BYm5KS1Y1c09SbVdvUWZGd2VTMEpDTGUtS3gw0gFfQVVfeXFMTkZDMTJwUUNSa055UmthcEprMWZmZGZFV1BScmdqUXU1SVJRTFRrcDR2a2hEZV9NUFBNS0x3Yml0NXdkTUFibkpLVjVzT1JtV29RZkZ3ZVMwSkNMZS1LeDA"
+    },
+    {
       "title": "桃警雷霆除暴專案　機車未開大燈遭攔查...意外逮2外籍車手",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52RTRIRWlCUlN1QW5lTTRhVE40Z3ZCN2JXeHdobTc5OGNsdTI5b1V4MkFNa1VIVnhjUlpkRXZrLXpfOTNjb2RBeDliWTVJVHFpZUsybUpCN05acGo5QXfSAWhBVV95cUxPYmZoWWdPalRpdEhfQThXTmZ6VmZyRk1YNm42SzZNM2daZzZiRkMyZHY2VTl6RHpxR1VfMGZpYW9YX1dZYXc3akJJODlpV0RyUkNLOXgyR09oSkYzNkN3MWJ4UWxTSnZQMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iZmhZZ09qVGl0SF9BOFdOZnpWZnJGTVg2bjZLNk0zZ1pnNmJGQzJkdjZVOXpEenFHVV8wZmlhb1hfV1lhdzdqQkk4OWlXRHJSQ0s5eDJHT2hKRjM2Q3cxYnhRbFNKdlAw0gFoQVVfeXFMT2JmaFlnT2pUaXRIX0E4V05melZmckZNWDZuNks2TTNnWmc2YkZDMmR2NlU5ekR6cUdVXzBmaWFvWF9XWWF3N2pCSTg5aVdEclJDSzl4MkdPaEpGMzZDdzFieFFsU0p2UDA?oc=5",
       "pubDate": "Sun, 01 Feb 2026 02:01:00 GMT",
       "content": "桃警雷霆除暴專案　機車未開大燈遭攔查...意外逮2外籍車手  ETtoday新聞雲",
       "source": "ETtoday",
-      "guid": "CBMiXkFVX3lxTE52RTRIRWlCUlN1QW5lTTRhVE40Z3ZCN2JXeHdobTc5OGNsdTI5b1V4MkFNa1VIVnhjUlpkRXZrLXpfOTNjb2RBeDliWTVJVHFpZUsybUpCN05acGo5QXfSAWhBVV95cUxPYmZoWWdPalRpdEhfQThXTmZ6VmZyRk1YNm42SzZNM2daZzZiRkMyZHY2VTl6RHpxR1VfMGZpYW9YX1dZYXc3akJJODlpV0RyUkNLOXgyR09oSkYzNkN3MWJ4UWxTSnZQMA"
+      "guid": "CBMiaEFVX3lxTE9iZmhZZ09qVGl0SF9BOFdOZnpWZnJGTVg2bjZLNk0zZ1pnNmJGQzJkdjZVOXpEenFHVV8wZmlhb1hfV1lhdzdqQkk4OWlXRHJSQ0s5eDJHT2hKRjM2Q3cxYnhRbFNKdlAw0gFoQVVfeXFMT2JmaFlnT2pUaXRIX0E4V05melZmckZNWDZuNks2TTNnWmc2YkZDMmR2NlU5ekR6cUdVXzBmaWFvWF9XWWF3N2pCSTg5aVdEclJDSzl4MkdPaEpGMzZDdzFieFFsU0p2UDA"
     },
     {
       "title": "自由開講》霍諾德讓台灣的台北101 「被看見」",
@@ -4595,12 +4680,12 @@
       "guid": "CBMiXkFVX3lxTE5EZUNlNjJNb2xybmZva29pWkRjM0t4al9uWUNBdExXSE1fcnJLNjhpSkI3TnhKbTh5TzNLNFlLZDFiN19SQjFpcTZvdEROOUtJTXlWT201UVRzYVp0UXfSAWhBVV95cUxQQ0ZHbjNNbHFCVjVocmRIVUFrV2lTcHN1QmlYSFZnYlFpNkpURDBqR1VxWWEwelBKQzdyZ1paNGE3TDBkTDhialFQZGtXbGdzYUhrSTVTbTllTkc2NHJYZnVBUWxSaC11eA"
     },
     {
-      "title": "馬年揮毫公益嘉年華桃警宣導防詐、交安與居安- 社會",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHNzWlVHckljTWNMT0NJX0VfaXB4YjVlVWkzLS1hN2VyWGN1TUhpemFHSXVGNWo2WDZETzlIcmdDV0NwcV8tajlTMUF2UVpGV19zekNnZHRmR0hnRW16NVJQZEpQdUxCcWsyYWRRV3ZKSGhHRk0yVUZTVE01QXV6cUx2Nkk4TFhMYkd5anpkUQ?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 01:06:16 GMT",
-      "content": "馬年揮毫公益嘉年華桃警宣導防詐、交安與居安- 社會  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMijwFBVV95cUxOeHNzWlVHckljTWNMT0NJX0VfaXB4YjVlVWkzLS1hN2VyWGN1TUhpemFHSXVGNWo2WDZETzlIcmdDV0NwcV8tajlTMUF2UVpGV19zekNnZHRmR0hnRW16NVJQZEpQdUxCcWsyYWRRV3ZKSGhHRk0yVUZTVE01QXV6cUx2Nkk4TFhMYkd5anpkUQ"
+      "title": "幼犬出門兜風「抱腿坐好」乖乖等飼主開車 13萬人瞬間被收服：家教太好",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uVnp6b2E0ZjVEYnY0WGlneldUNkZ0N3puczhOMXJDMGFvbGFtS0ctNXV1ZV9GbnR3SE9UMm1uNjNYMHVaUTlMN0hDZ3hTeUVqSktEc1JBcW1uZUNGemRZ0gFfQVVfeXFMTm5WenpvYTRmNURidjRYaWd6V1Q2RnQ3em5zOE4xckMwYW9sYW1LRy01dXVlX0ZudHdIT1QybW42M1gwdVpROUw3SENneFN5RWpKS0RzUkFxbW5lQ0Z6ZFk?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 01:05:00 GMT",
+      "content": "幼犬出門兜風「抱腿坐好」乖乖等飼主開車 13萬人瞬間被收服：家教太好  udn寵物部落",
+      "source": "聯合報",
+      "guid": "CBMiX0FVX3lxTE5uVnp6b2E0ZjVEYnY0WGlneldUNkZ0N3puczhOMXJDMGFvbGFtS0ctNXV1ZV9GbnR3SE9UMm1uNjNYMHVaUTlMN0hDZ3hTeUVqSktEc1JBcW1uZUNGemRZ0gFfQVVfeXFMTm5WenpvYTRmNURidjRYaWd6V1Q2RnQ3em5zOE4xckMwYW9sYW1LRy01dXVlX0ZudHdIT1QybW42M1gwdVpROUw3SENneFN5RWpKS0RzUkFxbW5lQ0Z6ZFk"
     },
     {
       "title": "2026 年台灣 GDP 成長衝 4%，台股還會有高點嗎？",
@@ -4625,6 +4710,22 @@
       "content": "｢中國急了、台灣11儍猛批高市｣! 謝金河：自民黨單獨過半機率很大| 國際  Newtalk新聞",
       "source": "Newtalk新聞",
       "guid": "CBMiW0FVX3lxTE9Xd01DSjk1VHphb1pnMjBfNU9hOGxlanh5V3p4RUtoSUJQc0l6S3FhMnFDb2RjSzRRM3BVM0FGdVB1bFk3eWpjcjVfOHd2OXFLSnRqV1d1elhQMDg"
+    },
+    {
+      "title": "奶奶「被養了15年的愛犬討厭」不吃喝也不回家 獸醫1句話讓全家紅了眼眶",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jcTMtVkJlM25GRDlpWGZRczNsazV2OXFZVmg5ZUVpUnJFbWMxRmlwN1FkM041a1JEN1dKVDFXYU9sZE9YNGxKQ0lXbGd0T3dhMG9aUUYyLTNnRXRyWjRZ0gFfQVVfeXFMT2NxMy1WQmUzbkZEOWlYZlFzM2xrNXY5cVlWaDllRWlSckVtYzFGaXA3UWQzTjVrUkQ3V0pUMVdhT2xkT1g0bEpDSVdsZ3RPd2Ewb1pRRjItM2dFdHJaNFk?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 00:58:00 GMT",
+      "content": "奶奶「被養了15年的愛犬討厭」不吃喝也不回家 獸醫1句話讓全家紅了眼眶  udn寵物部落",
+      "source": "聯合報",
+      "guid": "CBMiX0FVX3lxTE9jcTMtVkJlM25GRDlpWGZRczNsazV2OXFZVmg5ZUVpUnJFbWMxRmlwN1FkM041a1JEN1dKVDFXYU9sZE9YNGxKQ0lXbGd0T3dhMG9aUUYyLTNnRXRyWjRZ0gFfQVVfeXFMT2NxMy1WQmUzbkZEOWlYZlFzM2xrNXY5cVlWaDllRWlSckVtYzFGaXA3UWQzTjVrUkQ3V0pUMVdhT2xkT1g0bEpDSVdsZ3RPd2Ewb1pRRjItM2dFdHJaNFk"
+    },
+    {
+      "title": "仙人掌",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zZGI3NzJOYk1sUkhnTGFnNGp3WW5KcFpZazUtd0RjSl82Z2FMN2V2dGVYa2twZDFKZldNeHpHS01IY2czakZoRDdJU0x6QXM?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 00:54:31 GMT",
+      "content": "仙人掌  udn部落格",
+      "source": "聯合報",
+      "guid": "CBMiT0FVX3lxTE0zZGI3NzJOYk1sUkhnTGFnNGp3WW5KcFpZazUtd0RjSl82Z2FMN2V2dGVYa2twZDFKZldNeHpHS01IY2czakZoRDdJU0x6QXM"
     },
     {
       "title": "快訊／國道3號台中大甲段深夜3車碰撞　2傷1命危送醫",
@@ -4723,28 +4824,12 @@
       "guid": "CBMiXkFVX3lxTFBqcWxTSHR5NmVoVHBYd2lhYVM1UzlQamdTVURUUkl3d1RsQzB1WGl6SVhWdU1ydVE4ODZDY2xGUmhBc2loTm9zdzBHcTQ2Wkw3ajlUeHZLNFJBYVBxaFHSAWhBVV95cUxObl9HaU5rcGxSOGVEMmduOG5xWUg2N2N5X1ZXWVFWRTVxdjdQS21sQVhwUXJkYWVIUlVUb0tlaHZIdDREU2RrM3EtaXJxeEFhRllLbFUxSUI1a2hCUlFUVzJCbjI4bzZiVA"
     },
     {
-      "title": "citizen science monitoring network 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNEMySmtiZmpGSU52UjIzOTRmNTROZDRuWWZFUEtKd2FlRmRLZjhRcDJxMG95b3hLLW43NmhvY3FwTXFoRjFpek1jTUVpZUZQZGw5bHN6QlVxclpfMGp1UV8zU0VLOWR6anBQbXkzSkhqdGxuXzdBWFl1SzlTTG1CNzIxVkpVcmUtQXV3OHhybnhlR2tuUkE?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 00:09:09 GMT",
-      "content": "citizen science monitoring network 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMilgFBVV95cUxQNEMySmtiZmpGSU52UjIzOTRmNTROZDRuWWZFUEtKd2FlRmRLZjhRcDJxMG95b3hLLW43NmhvY3FwTXFoRjFpek1jTUVpZUZQZGw5bHN6QlVxclpfMGp1UV8zU0VLOWR6anBQbXkzSkhqdGxuXzdBWFl1SzlTTG1CNzIxVkpVcmUtQXV3OHhybnhlR2tuUkE"
-    },
-    {
-      "title": "ecological service payments 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHVNZy02SHF3Mmh6Slp3X3BwNHBvME8tUjhhZ3V0VFR0MGphR191UFN6NzM3ZUhJY25wWXpEMklLenRnRWtpazNsNzgxYmU2WkJfTldjNXV0VjlWVWxrakN6cTJfcFdaTGN5eWdkU0podllzSXBReEJkVWI5SkNoSzl2ZGJBMTZOMnc?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 00:09:09 GMT",
-      "content": "ecological service payments 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMiigFBVV95cUxNTHVNZy02SHF3Mmh6Slp3X3BwNHBvME8tUjhhZ3V0VFR0MGphR191UFN6NzM3ZUhJY25wWXpEMklLenRnRWtpazNsNzgxYmU2WkJfTldjNXV0VjlWVWxrakN6cTJfcFdaTGN5eWdkU0podllzSXBReEJkVWI5SkNoSzl2ZGJBMTZOMnc"
-    },
-    {
-      "title": "National Ecological Green Network 相關新聞報導 第1頁",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0JpUlF6WjFMWTh6a1YtWVlxc080d1dlQmF0eVpmcF9ZTTJXYmdweVVBeG82SUtrUkZxTFlWY1dXbjFrSFBTbnBwZm9CWmV2QWNBakZmOGVDdmJfa2ZtcDlvSUtkYzBDYVJpTGp5RUFTaV9UMjN4czVLa2ozSEprNU9vZUp3NWxZbW04V052UjFoQzRi?oc=5",
-      "pubDate": "Sun, 01 Feb 2026 00:09:09 GMT",
-      "content": "National Ecological Green Network 相關新聞報導 第1頁  TVBS新聞網",
-      "source": "TVBS",
-      "guid": "CBMilAFBVV95cUxQX0JpUlF6WjFMWTh6a1YtWVlxc080d1dlQmF0eVpmcF9ZTTJXYmdweVVBeG82SUtrUkZxTFlWY1dXbjFrSFBTbnBwZm9CWmV2QWNBakZmOGVDdmJfa2ZtcDlvSUtkYzBDYVJpTGp5RUFTaV9UMjN4czVLa2ozSEprNU9vZUp3NWxZbW04V052UjFoQzRi"
+      "title": "奶貓兄弟抱緊緊！一被拉開就狂哭「不要拆散我們」 網淚：注定要一起收編",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZlJSRWlwemdDN3gxeTYxcklLdXdtQTlDc0xnY0F6MXVnYVBndXllR2MycUxKUWJXa3oxM2std25tdGNtWUN0R0RHSngtTDVNdFVjREVSZVVNRWhUNlRv0gFfQVVfeXFMTkNmUlJFaXB6Z0M3eDF5NjFySUt1d21BOUNzTGdjQXoxdWdhUGd1eWVHYzJxTEpRYldrejEzay13bm10Y21ZQ3RHREdKeC1MNU10VWNERVJlVU1FaFQ2VG8?oc=5",
+      "pubDate": "Sun, 01 Feb 2026 00:05:00 GMT",
+      "content": "奶貓兄弟抱緊緊！一被拉開就狂哭「不要拆散我們」 網淚：注定要一起收編  udn寵物部落",
+      "source": "聯合報",
+      "guid": "CBMiX0FVX3lxTE5DZlJSRWlwemdDN3gxeTYxcklLdXdtQTlDc0xnY0F6MXVnYVBndXllR2MycUxKUWJXa3oxM2std25tdGNtWUN0R0RHSngtTDVNdFVjREVSZVVNRWhUNlRv0gFfQVVfeXFMTkNmUlJFaXB6Z0M3eDF5NjFySUt1d21BOUNzTGdjQXoxdWdhUGd1eWVHYzJxTEpRYldrejEzay13bm10Y21ZQ3RHREdKeC1MNU10VWNERVJlVU1FaFQ2VG8"
     },
     {
       "title": "北加州台灣同鄉聯合會第53屆年會 總統盼攜手民主夥伴守護民主自由、促進世界的和平繁榮",
@@ -4827,14 +4912,6 @@
       "guid": "CBMiWkFVX3lxTE1ra0dFRE85di1pTTgySWpveHBOT0lRMlVUQ2xYZm9CNkhYLTZHTXZjQ3h3OFk2UElxdTFpRHhmUmNwNVE2Z0lYRmhUOHY4MEtKcldmb3dUZmZ5Z9IBX0FVX3lxTFBOVEFja0lIbG0yRkhVYjRaa3kwMGdBNEhyRExpX3NXeEdReWJ4aHVBbzh6cUZ5T1lNbDhyZEQ2VXBUa1U4emdXeHFuWVlSMm40VVJNb0gxR0RjU1k1OWdj"
     },
     {
-      "title": "兩岸觀策／面對全球「兩個不確定」 台灣都要繃緊神經| 兩岸要聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GczQ3MzVaeUVfZDA4d2VqbUEySFZyYXBaaTRaZk1qNXJaS1FVWk1ERkhQU1MwbXp5OHFyUHpycUVGZVJSTjBFYWJORURQa3JpdUREM1c3WQ?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 23:00:00 GMT",
-      "content": "兩岸觀策／面對全球「兩個不確定」 台灣都要繃緊神經| 兩岸要聞  聯合報數位版",
-      "source": "聯合報數位版",
-      "guid": "CBMiV0FVX3lxTE5GczQ3MzVaeUVfZDA4d2VqbUEySFZyYXBaaTRaZk1qNXJaS1FVWk1ERkhQU1MwbXp5OHFyUHpycUVGZVJSTjBFYWJORURQa3JpdUREM1c3WQ"
-    },
-    {
       "title": "楊沚豫",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GcFhMdFhjdEJYZXZ0ZmxIcTA4ZUstZlc3R2dNY05QaENNejFCZlU0NUVyOHdsQlRMeHRER00wOUFCLWliTWJ1bWo1Ujk1RFFscWlDMlB4aFdyeEFHem5pd21wNi14QUt3ejdpbGln?oc=5",
       "pubDate": "Sat, 31 Jan 2026 22:58:52 GMT",
@@ -4849,14 +4926,6 @@
       "content": "被請喝珍奶才知情！王瑞德爆北市議員中今彩539頭獎800萬他急出聲| 政治 | 要聞  聯合新聞網",
       "source": "聯合報",
       "guid": "CBMiUEFVX3lxTE5ISVRSMzRMSjhmNnNNVWFfSTc0a1ZuX1Zmbi0yeTdPd3UwVzl4eTB0cXpFSWc2VHVMSzIwZ2FBY1QzQ0NrTzVRRVlpNlA0WVlO"
-    },
-    {
-      "title": "基隆正妹女議員未登記選連任！　民進黨緊急了解中",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3cGVtQ1R5X1phUkRacmRPZC1CQkduZUJETExudm42WVRWWXVrTmZ0a01WSTJTbGVXekR4dG14OXFOS0RVa1RSeUdOa1JpYVlGYzRfckc0cWJ1dFZBd1HSAWhBVV95cUxORVU2bjRWbXB4VHZzaDZ3NXQzOTB0UWcyMWl5MXF0bzZnazZ6dkpwVDdYeTc2U2FGV3dlNWZ6d2ZIWHhLb2hhTUJGNGJwNzVobnd4anJTZjRnS29wMk1lRDlLdjNyN2lOVw?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 22:43:00 GMT",
-      "content": "基隆正妹女議員未登記選連任！　民進黨緊急了解中  ETtoday新聞雲",
-      "source": "ETtoday",
-      "guid": "CBMiXkFVX3lxTFB3cGVtQ1R5X1phUkRacmRPZC1CQkduZUJETExudm42WVRWWXVrTmZ0a01WSTJTbGVXekR4dG14OXFOS0RVa1RSeUdOa1JpYVlGYzRfckc0cWJ1dFZBd1HSAWhBVV95cUxORVU2bjRWbXB4VHZzaDZ3NXQzOTB0UWcyMWl5MXF0bzZnazZ6dkpwVDdYeTc2U2FGV3dlNWZ6d2ZIWHhLb2hhTUJGNGJwNzVobnd4anJTZjRnS29wMk1lRDlLdjNyN2lOVw"
     },
     {
       "title": "下波「很強冷空氣」　連凍3天",
@@ -4891,36 +4960,12 @@
       "guid": "CBMiX0FVX3lxTE5rWFN3clpEV29xb1A1M3M2TTgxeUFUcF9HUXRwdC0zVEtadFhhekp2V1lNZjVxaHMtSWxjR0dhVTBSY0Y1OV9SaUMxdV9rQk9xMWttdDdTeS1wNGJyLVlZ"
     },
     {
-      "title": "【台灣佈局不停歇】台積電先進製程/封裝產能全面爆發 竹中嘉南高5地同步急擴",
-      "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOTU1TYmxGaWV1cEV1QW9nU1BYRElMUVRiMjFfSGhlRXNDamJYM2pvYXVrS2lrTmFNWjZLdmZSclA0bDdEaERubmVsQk1fMTFXcVhuNVYxbmw5MmR3cDZkSlMtTHMtLTgzYU44Wng5SDRya3pkNEhFd296NHc3MC1MXzI2bEdxdVI0d0V3OEE3bTRwQ25tT1N2dkdYTTQ1Mkk4M2FnTWdsZXJlUWgyOGJVMXI0b1Z0cHh4VS1OeWR1Y1YtMUVoMzdlZVowbXFJenBCVUVCSEZDNVcyRkNVNlJjblJGa19kR0hzNE90N3c2VmcxejR5S1FYS1pMdXpxTVVPbVM5TDcwa1Nub3pUNndZdUpTLWdxeWpldFlVZnhIVXB5REk1cXFMOE4xNmNyeU1Ed2laVWZuMHpQSk9ZS3REYldqMzBwSXAyRVFuQndaNm12OFVUaWpvNzY4M2tPM3Uwd08td3pwSWROa3hiSHR6c0JfWGpuVmtSZlBLVWxyT296ZHdYODROWVpWY1pLTWN5WGZCVmkxNjBsUTIycEkxMWpJRFE5MWtGMkJTNldxcnZZaG5SSVhCMGRUQ2R3clhmTFQ1eV84bmJ1eHZpLXNYMmIySnp2NU1P?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 22:10:10 GMT",
-      "content": "【台灣佈局不停歇】台積電先進製程/封裝產能全面爆發 竹中嘉南高5地同步急擴  Yahoo新聞",
-      "source": "Yahoo新聞",
-      "guid": "CBMi2ANBVV95cUxOTU1TYmxGaWV1cEV1QW9nU1BYRElMUVRiMjFfSGhlRXNDamJYM2pvYXVrS2lrTmFNWjZLdmZSclA0bDdEaERubmVsQk1fMTFXcVhuNVYxbmw5MmR3cDZkSlMtTHMtLTgzYU44Wng5SDRya3pkNEhFd296NHc3MC1MXzI2bEdxdVI0d0V3OEE3bTRwQ25tT1N2dkdYTTQ1Mkk4M2FnTWdsZXJlUWgyOGJVMXI0b1Z0cHh4VS1OeWR1Y1YtMUVoMzdlZVowbXFJenBCVUVCSEZDNVcyRkNVNlJjblJGa19kR0hzNE90N3c2VmcxejR5S1FYS1pMdXpxTVVPbVM5TDcwa1Nub3pUNndZdUpTLWdxeWpldFlVZnhIVXB5REk1cXFMOE4xNmNyeU1Ed2laVWZuMHpQSk9ZS3REYldqMzBwSXAyRVFuQndaNm12OFVUaWpvNzY4M2tPM3Uwd08td3pwSWROa3hiSHR6c0JfWGpuVmtSZlBLVWxyT296ZHdYODROWVpWY1pLTWN5WGZCVmkxNjBsUTIycEkxMWpJRFE5MWtGMkJTNldxcnZZaG5SSVhCMGRUQ2R3clhmTFQ1eV84bmJ1eHZpLXNYMmIySnp2NU1P"
-    },
-    {
-      "title": "2月新制懶人包！「加熱菸200支免稅」小心踩雷　高鐵增台南直達車",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTk50b0NibkVLU25aSUFsUW96WVhSRWc1WVM4YlY5enpDbF9SR2RBbks2UGNqaGY4Rm5nZ0VGbXh1ZFpNcXlERkNpVWxHVFlOVlNyVU84OE5GS0hYTVE3Rl9vNTBKckJX0gFoQVVfeXFMUFhOTnRvQ2JuRUtTblpJQWxRb3pZWFJFZzVZUzhiVjl6ekNsX1JHZEFuSzZQY2poZjhGbmdnRUZteHVkWk1xeURGQ2lVbEdUWU5WU3JVTzg4TkZLSFhNUTdGX281MEpyQlc?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 22:07:00 GMT",
-      "content": "2月新制懶人包！「加熱菸200支免稅」小心踩雷　高鐵增台南直達車  ETtoday新聞雲",
-      "source": "ETtoday",
-      "guid": "CBMiaEFVX3lxTFBYTk50b0NibkVLU25aSUFsUW96WVhSRWc1WVM4YlY5enpDbF9SR2RBbks2UGNqaGY4Rm5nZ0VGbXh1ZFpNcXlERkNpVWxHVFlOVlNyVU84OE5GS0hYTVE3Rl9vNTBKckJX0gFoQVVfeXFMUFhOTnRvQ2JuRUtTblpJQWxRb3pZWFJFZzVZUzhiVjl6ekNsX1JHZEFuSzZQY2poZjhGbmdnRUZteHVkWk1xeURGQ2lVbEdUWU5WU3JVTzg4TkZLSFhNUTdGX281MEpyQlc"
-    },
-    {
       "title": "趣味動物圖片欣賞 (440) - Webman 的網誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84ekh3bmg5NGNfTmJwZkNMLW1XTEg5ZWYyUmM3dXhnRGxJckxMU0VfM051MEJrZUYyZktEMk9XQWNRQmxzdmlmWWNuRzVUdw?oc=5",
       "pubDate": "Sat, 31 Jan 2026 22:06:06 GMT",
       "content": "趣味動物圖片欣賞 (440) - Webman 的網誌  udn部落格",
       "source": "聯合報",
       "guid": "CBMiTkFVX3lxTE84ekh3bmg5NGNfTmJwZkNMLW1XTEg5ZWYyUmM3dXhnRGxJckxMU0VfM051MEJrZUYyZktEMk9XQWNRQmxzdmlmWWNuRzVUdw"
-    },
-    {
-      "title": "誤信TrustWallet錢拿的回來嗎",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3N2laWUlCNHVIOTMwSFV1cm9FMVA4WnEzd0hpWkMxS3R5SlRJdkZUZnRjOXM3RTVrOWFfM0FDbTQ3clBuVzJXZTBYYzNqX2FS?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 21:54:59 GMT",
-      "content": "誤信TrustWallet錢拿的回來嗎  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiUEFVX3lxTFB3N2laWUlCNHVIOTMwSFV1cm9FMVA4WnEzd0hpWkMxS3R5SlRJdkZUZnRjOXM3RTVrOWFfM0FDbTQ3clBuVzJXZTBYYzNqX2FS"
     },
     {
       "title": "覺 - 存在",
@@ -4979,30 +5024,6 @@
       "guid": "CBMibkFVX3lxTFBWQlIwREVWRGNsWlJBbDdvOHJSMW96M3ZndUZVVGdxOEdNdnNEMk1UNXJXYzBGM29ETE1lM01NVmRQTHNOY21mbTBfSVR4MERHS2VIWGpEVXJfanlpMDRSMDYzTXpLSUhWWjVVZTdn"
     },
     {
-      "title": "警惕Blaceto提款受阻 真實經歷",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjNU9leDhybG5sMnFtT2xtNVQwenNwUUJ2WnNVWlRsMXZjeWdyWWNudDNKbS1BRnFienJpUDZ1TkgxbEdxYWYxbG1EWmY1V1Nm?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 20:54:38 GMT",
-      "content": "警惕Blaceto提款受阻 真實經歷  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiUEFVX3lxTFBjNU9leDhybG5sMnFtT2xtNVQwenNwUUJ2WnNVWlRsMXZjeWdyWWNudDNKbS1BRnFienJpUDZ1TkgxbEdxYWYxbG1EWmY1V1Nm"
-    },
-    {
-      "title": "誤信「XWSEX」錢拿的回來嗎",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRQmhpY1ZhOFZZMllZa1oyWGRiNkZxUklGdElrU1BWSkQxTUdfX0xKcEtob24tQVBka3VqOG1NY1dYZnBBTFRna2VaZ3pWdDJn?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 20:54:35 GMT",
-      "content": "誤信「XWSEX」錢拿的回來嗎  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiUEFVX3lxTFBRQmhpY1ZhOFZZMllZa1oyWGRiNkZxUklGdElrU1BWSkQxTUdfX0xKcEtob24tQVBka3VqOG1NY1dYZnBBTFRna2VaZ3pWdDJn"
-    },
-    {
-      "title": "警惕TrustWallet提款受阻 真實經歷",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yZU5VUThJVC1OYkxTN2FVdmpGLTR6SjQ2VHNRUWhUeFRvalRjenk5U0pDbm1ZNlgyeVh2Z3JtVVZKTS1XeU5rT05kZXl5c3pa?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 20:54:21 GMT",
-      "content": "警惕TrustWallet提款受阻 真實經歷  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiUEFVX3lxTE4yZU5VUThJVC1OYkxTN2FVdmpGLTR6SjQ2VHNRUWhUeFRvalRjenk5U0pDbm1ZNlgyeVh2Z3JtVVZKTS1XeU5rT05kZXl5c3pa"
-    },
-    {
       "title": "有聲觸控行人專用號誌",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3ZGM0ZNMWNYSzhoWmdjVW5WLTJQbVBUSjNONGFKc191Wi1tb3dsNnlHdkR4Z2ZJSzJHOUc0aGd0NF92RDJlN1JoZUxQb1VuWENXZHVISHhUR2g0ZXk4U2tFVjY5R3BMejR4UTlXak5MQVh1UmRDSjJuVk9UTlRFbVFqSkNiZlo0TUtnazBBbEU5dHNXNHJudUE3cF9YQUNBNUZaNnR2WGxhOWdlcUFnS2RwcTZHM1VIYjB5aE15TlM4QQ?oc=5",
       "pubDate": "Sat, 31 Jan 2026 20:49:40 GMT",
@@ -5057,54 +5078,6 @@
       "content": "美女博士  中時新聞網",
       "source": "中時新聞網",
       "guid": "CBMiekFVX3lxTE1zNW9EZm9uSWNVeElQWVNuVHdMOXZKVExBa2lxeVV5cGZPWlE1c1Z3Qzlqa0EwNWhJZ3FDWnl5UXA3eGlPRnl4TEljVW1rbUVSYzVmMFNzQVk3aXR5VzVoTXBtckJFOFFZUnVMMkxCbXJGYXVnU1h3LUVR"
-    },
-    {
-      "title": "Those were the day往日時光",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTeU5rcl9aVnRDdlc1MVppaFR0YjlPUDZDN3I1QlpXMUVDOE5yQWxjTk5NSGptbTNnLWlDbGNCNFdoeW1wUmJsUzRKaUtIVVZPWUVn?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 20:01:19 GMT",
-      "content": "Those were the day往日時光  udn部落格",
-      "source": "聯合報",
-      "guid": "CBMiU0FVX3lxTFBTeU5rcl9aVnRDdlc1MVppaFR0YjlPUDZDN3I1QlpXMUVDOE5yQWxjTk5NSGptbTNnLWlDbGNCNFdoeW1wUmJsUzRKaUtIVVZPWUVn"
-    },
-    {
-      "title": "間歇跑",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfUFdNUEJDc2NUSzExbnNyeGVyR2U4X1lFTTQyd2ZHUm9FVDBMcW1oU3ZWQWM5dGszUUZaRldUQkFWZWhpc3ZWS2ZVTmdwYUl6bDAzOTNQOEVPcFdRLXlTeGVYSnBIelN0RmhRTGF3?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 19:21:08 GMT",
-      "content": "間歇跑  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMibkFVX3lxTFBfUFdNUEJDc2NUSzExbnNyeGVyR2U4X1lFTTQyd2ZHUm9FVDBMcW1oU3ZWQWM5dGszUUZaRldUQkFWZWhpc3ZWS2ZVTmdwYUl6bDAzOTNQOEVPcFdRLXlTeGVYSnBIelN0RmhRTGF3"
-    },
-    {
-      "title": "年貨祭",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YQ042cU11YlpJU3lFYlhrMGY5TUdONlV4TnVXMGI5Vi1mWTdKazM5QUZsd2lYaTdmLW5DXy1iNWpGcUVLVVdHcDYyQ3ZnYklHa0xYTnZPT241QlZ2M1R4TUlvcVUzOFFrQWk1bE9R?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 19:19:03 GMT",
-      "content": "年貨祭  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMibkFVX3lxTE9YQ042cU11YlpJU3lFYlhrMGY5TUdONlV4TnVXMGI5Vi1mWTdKazM5QUZsd2lYaTdmLW5DXy1iNWpGcUVLVVdHcDYyQ3ZnYklHa0xYTnZPT241QlZ2M1R4TUlvcVUzOFFrQWk1bE9R"
-    },
-    {
-      "title": "雙捷運宅",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qTWVndktWTnFIU2hpQUQ1ZS1aU2tkNHpON2hLZ19mbG8tYkYzSzJ2b0RuQzFKRkl5bEplckNLVXpnVzg1VkNpM1pXYWZlRVVvdWVsY0hKLXQxR2EtSXJKWk96QnlqM09zWGtKTHhmZ2RNazNtaDh2SWtB?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 19:16:52 GMT",
-      "content": "雙捷運宅  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMiekFVX3lxTE9qTWVndktWTnFIU2hpQUQ1ZS1aU2tkNHpON2hLZ19mbG8tYkYzSzJ2b0RuQzFKRkl5bEplckNLVXpnVzg1VkNpM1pXYWZlRVVvdWVsY0hKLXQxR2EtSXJKWk96QnlqM09zWGtKTHhmZ2RNazNtaDh2SWtB"
-    },
-    {
-      "title": "Meta、微軟資本支出力道強勁 外資法人看好五檔台股可望受惠",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SSHM3SDBxcGxjWTk3Mko2a2dua2FIT3I4V2Jwck92aVExcVJKdEZQVXdJa01xZml6bmhQdEtkTElWeGFQUkd4Nm1NSE05XzF3bTM2NzROOTRmUdIBX0FVX3lxTE5mR095ZFBGUDloeHVDRFdxaF9kNDJ2akN2V2lMMEE3OE5lYUVRRnVONkRvSld3NGxzS3phOW9yX3ZiclNiX1BJX2hrcVdvU1RGRmpibjRTQmgwVWRtZEtV?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 19:00:00 GMT",
-      "content": "Meta、微軟資本支出力道強勁 外資法人看好五檔台股可望受惠  經濟日報",
-      "source": "聯合報",
-      "guid": "CBMiWkFVX3lxTE1SSHM3SDBxcGxjWTk3Mko2a2dua2FIT3I4V2Jwck92aVExcVJKdEZQVXdJa01xZml6bmhQdEtkTElWeGFQUkd4Nm1NSE05XzF3bTM2NzROOTRmUdIBX0FVX3lxTE5mR095ZFBGUDloeHVDRFdxaF9kNDJ2akN2V2lMMEE3OE5lYUVRRnVONkRvSld3NGxzS3phOW9yX3ZiclNiX1BJX2hrcVdvU1RGRmpibjRTQmgwVWRtZEtV"
-    },
-    {
-      "title": "磚窯餐廳",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Fd2lRbnNxRVZoa3pIeFBqRmVqWU4zNFd0V1JRSEhtOTAxaC1uZFBzWWdSTlpjRGxlOVVLcGx0ZE91elVlbmFnQjNUVlRsMjJrWnEwVkJMS2JBamN5ZlVWSW04ampscG96VDhjWnpKX3FlU1N5amRvX0x3?oc=5",
-      "pubDate": "Sat, 31 Jan 2026 18:34:38 GMT",
-      "content": "磚窯餐廳  中時新聞網",
-      "source": "中時新聞網",
-      "guid": "CBMiekFVX3lxTE1Fd2lRbnNxRVZoa3pIeFBqRmVqWU4zNFd0V1JRSEhtOTAxaC1uZFBzWWdSTlpjRGxlOVVLcGx0ZE91elVlbmFnQjNUVlRsMjJrWnEwVkJMS2JBamN5ZlVWSW04ampscG96VDhjWnpKX3FlU1N5amRvX0x3"
     },
     {
       "title": "黃仁勳：沒有台灣就沒有輝達！台積電未來十年產能將翻倍",
@@ -5251,12 +5224,12 @@
       "guid": "https://www.bbc.com/zhongwen/articles/c5yvzn83ye1o/trad#1"
     },
     {
-      "title": "「台灣1神片」今上線Netflix，挺進奧斯卡15強、爛番茄98%好評，網友嗨喊： 終於等到了",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84V2ZrcHlkVzZBeTVGcnlwdURzUnlLOThvRDVzYlQyeVRybXZpVW5mLUJBY2tYTTlXWDk3d2paZHZJc3kwQTdDZzJuV1RZNnJp?oc=5",
-      "pubDate": "Fri, 30 Jan 2026 06:51:39 GMT",
-      "content": "「台灣1神片」今上線Netflix，挺進奧斯卡15強、爛番茄98%好評，網友嗨喊： 終於等到了  Storm.mg",
+      "title": "「台灣知名金控」被併購了！旗下銀行壽險也合併，2025年10大企業整併一次看| 網路溫度計DailyView | 風生活",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhRnVGdXBOQXpMNU92UWNJMlhjN0xwa2RFS1g5OXZpd0VKT2g1TlJsb1RPSGJmSjhQRVZydy1Wck55VFJwQ0J5bTdNd05kUFF2?oc=5",
+      "pubDate": "Fri, 30 Jan 2026 05:16:49 GMT",
+      "content": "「台灣知名金控」被併購了！旗下銀行壽險也合併，2025年10大企業整併一次看| 網路溫度計DailyView | 風生活  Storm.mg",
       "source": "Storm.mg",
-      "guid": "CBMiUEFVX3lxTE84V2ZrcHlkVzZBeTVGcnlwdURzUnlLOThvRDVzYlQyeVRybXZpVW5mLUJBY2tYTTlXWDk3d2paZHZJc3kwQTdDZzJuV1RZNnJp"
+      "guid": "CBMiUEFVX3lxTFBhRnVGdXBOQXpMNU92UWNJMlhjN0xwa2RFS1g5OXZpd0VKT2g1TlJsb1RPSGJmSjhQRVZydy1Wck55VFJwQ0J5bTdNd05kUFF2"
     },
     {
       "title": "施紀賢訪華：英政府指，中國將放寬英國訪客旅遊規定",
